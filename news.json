@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1a1482816220908f701f406f",
+      "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
+      "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
+      "country": "Litvánia",
+      "category": "Egyéb",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
+      "published": "2026-11-12T21:33:45+00:00",
+      "urgent": false,
+      "title_hu": "A walesi alapítású logisztikai csoport 60 teherautós mérföldkövet ünnepel az európai üzleti tevékenységének bővülésével – Herald.Wales"
+    },
+    {
       "id": "d11f699b162b5a0485cfa479",
       "title": "LIVE 🚨: These are the latest images of chaos on the M60 this morning after a serious incident shut it both ways. A lorry smashed through the motorway barriers, causing emergency services to close both carriageways. Fortunately, nobody has been injured but t - Facebook",
       "summary": "LIVE 🚨: These are the latest images of chaos on the M60 this morning after a serious incident shut it both ways. A lorry smashed through the motorway barriers, causing emergency services to close both carriageways. Fortunately, nobody has been injured but t Facebook",
@@ -297,8 +309,7 @@
       "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
       "published": "2026-11-11T16:04:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+      "urgent": false
     },
     {
       "id": "789fd61ea464084d9db6cdcf",
@@ -1478,7 +1489,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-12T21:08:14.903227+00:00",
+  "updated_at": "2026-11-12T22:04:37.446397+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
