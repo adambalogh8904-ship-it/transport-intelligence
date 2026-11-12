@@ -8,6 +8,8 @@ import json
 import pathlib
 import re
 import urllib.request
+import urllib.parse
+import time
 import xml.etree.ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -71,13 +73,45 @@ def read_items(payload):
   def atom(key): return entry.findtext(ns + key) or ''
   yield {'title':atom('title'),'link':link.get('href','') if link is not None else '', 'description':atom('summary') or atom('content'),'pubDate':atom('published') or atom('updated')}
 
+# V0.4: prioritise road freight topics; do not mistake general rail/air news for trucking.
+ROAD = ('truck','trucking','lorry','hgv','heavy goods','road freight','road haulage','road transport',
+        'kamion','teherautó','közúti fuvar','fuvarozó','tachograph','tachográf','adr','cabotage',
+        'driver','sofőr','autópálya','motorway','highway','border crossing','határátkelő')
+ROAD_SPECIFIC = ('toll','útdíj','maut','vignette','eurovignette','adblue','diesel',
+                 'road closure','road closed','útlezár','border crossing','tachograph','tachográf',
+                 'ecmt','cemt','road freight','road haulage','hgv','truck','trucking','lorry','kamion','teherautó')
+OTHER_TRANSPORT = ('railway','rail freight','rail logistics','train service','aviation','air cargo','airport','passenger train')
+
+def relevant(text):
+ t = text.lower()
+ if any(x in t for x in OTHER_TRANSPORT) and not any(x in t for x in ROAD_SPECIFIC):
+  return False
+ return any(x in t for x in ROAD + ROAD_SPECIFIC) or (category(t) != 'Egyéb' and any(x in t for x in ('transport','road','freight','logistics','szállítás','fuvar')))
+
+def translate(text):
+ """Optional best-effort public translation; never change factual content when it fails."""
+ if not text or len(text) > 450:
+  return None
+ try:
+  q = urllib.parse.urlencode({'q':text,'langpair':'en|hu'})
+  req = urllib.request.Request('https://api.mymemory.translated.net/get?'+q,
+       headers={'User-Agent':'TransportIntelligencePersonalRSS/0.4'})
+  with urllib.request.urlopen(req, timeout=7) as response:
+   data = json.loads(response.read(150000))
+  result = clean(data.get('responseData',{}).get('translatedText',''))
+  if data.get('responseStatus') == 200 and result and 'MYMEMORY WARNING' not in result.upper():
+   return result
+ except Exception as exc:
+  print('Translation unavailable:',str(exc)[:80])
+ return None
+
 def main():
  path = ROOT / 'news.json'
  try:
   old = json.loads(path.read_text(encoding='utf-8'))
  except (FileNotFoundError, ValueError):
   old = {'items':[]}
- existing = {item['id']:item for item in old.get('items',[]) if item.get('id')}
+ existing = {item['id']:item for item in old.get('items',[]) if item.get('id') and relevant(item.get('title','')+' '+item.get('summary',''))}
  successes = 0
  failures = []
  new_count = 0
@@ -89,7 +123,7 @@ def main():
    for item in read_items(payload):
     url = item['link'].strip()
     title, desc = clean(item['title']), clean(item['description'])
-    if not title or not url.startswith('https://'):
+    if not title or not url.startswith('https://') or not relevant(title+' '+desc):
      continue
     uid = hashlib.sha256(url.encode('utf-8')).hexdigest()[:24]
     if uid not in existing:
@@ -105,9 +139,23 @@ def main():
  if successes == 0:
   print('No feeds succeeded; preserving existing news.json')
   return
- rows = sorted(existing.values(), key=lambda item:item.get('published',''),reverse=True)[:500]
+ rows = sorted(existing.values(), key=lambda item:item.get('published',''),reverse=True)[:300]
+ # Free public translation is rate-limited. Only translate recent entries and reuse cached results.
+ # No translation is invented: when unavailable, preserve the original title/summary.
+ translated = 0
+ for row in rows[:25]:
+  cached = next((x for x in old.get('items',[]) if x.get('id') == row['id']), None)
+  if cached and cached.get('title_hu'):
+   row['title_hu'] = cached['title_hu']
+   if cached.get('summary_hu'): row['summary_hu'] = cached['summary_hu']
+   continue
+  result = translate(row['title'])
+  if result:
+   row['title_hu'] = result
+   translated += 1
+  if translated >= 12: break
  output = {'items':rows,'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),
-           'sources_ok':successes,'sources_total':len(SOURCES),'sources_failed':failures}
+           'sources_ok':successes,'sources_total':len(SOURCES),'sources_failed':failures,'translation_note':'Automatikus, nem ellenőrzött fordítás; az eredeti cím is megmarad.'}
  path.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print('Saved',len(rows),'articles;',new_count,'new;',successes,'/',len(SOURCES),'feeds succeeded')
 
