@@ -25,6 +25,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install translation dependencies
+        run: pip install deep-translator beautifulsoup4
+
       - name: Collect transport news
         run: python scripts/collect.py
 
