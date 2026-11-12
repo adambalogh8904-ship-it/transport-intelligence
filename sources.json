@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Google News RSS – EU közúti fuvarozás",
+    "url": "https://news.google.com/rss/search?q=EU+road+transport+trucking+toll+regulation+when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+    "country": "EU"
+  },
+  {
+    "name": "Google News RSS – magyar fuvarozás",
+    "url": "https://news.google.com/rss/search?q=kamion+fuvaroz%C3%A1s+%C3%BAtd%C3%ADj+hat%C3%A1r+when%3A7d&hl=hu&gl=HU&ceid=HU%3Ahu",
+    "country": "Magyarország"
+  },
+  {
+    "name": "Google News RSS – Szerbia / Belarusz",
+    "url": "https://news.google.com/rss/search?q=Serbia+Belarus+truck+border+transport+when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+    "country": "EU"
+  }
+]
