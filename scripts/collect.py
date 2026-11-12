@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Collect public RSS results; these are unverified leads, not official alerts."""
+"""Transport Intelligence: best-effort RSS collection and Hungarian summaries.
+
+Optional packages: beautifulsoup4, deep-translator.
+No article or translation is treated as independently verified.
+"""
 import datetime as dt
 import email.utils
 import hashlib
@@ -7,157 +11,161 @@ import html
 import json
 import pathlib
 import re
-import urllib.request
-import urllib.parse
 import time
+import urllib.request
 import xml.etree.ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
 COUNTRIES = ['Ausztria','Belgium','Bulgária','Ciprus','Csehország','Dánia','Észtország','Finnország','Franciaország','Görögország','Hollandia','Horvátország','Írország','Lengyelország','Lettország','Litvánia','Luxemburg','Magyarország','Málta','Németország','Olaszország','Portugália','Románia','Spanyolország','Svédország','Szlovákia','Szlovénia','Oroszország','Fehéroroszország','Szerbia','Bosznia-Hercegovina','Montenegró','Albánia','Egyesült Királyság']
-ALIASES = {
- 'Ausztria':['austria','österreich'], 'Belgium':['belgium','belgique'], 'Bulgária':['bulgaria'], 'Ciprus':['cyprus'],
- 'Csehország':['czechia','czech republic'], 'Dánia':['denmark'], 'Észtország':['estonia'], 'Finnország':['finland'],
- 'Franciaország':['france'], 'Görögország':['greece'], 'Hollandia':['netherlands'], 'Horvátország':['croatia'],
- 'Írország':['ireland'], 'Lengyelország':['poland'], 'Lettország':['latvia'], 'Litvánia':['lithuania'],
- 'Luxemburg':['luxembourg'], 'Magyarország':['hungary'], 'Málta':['malta'], 'Németország':['germany','deutschland'],
- 'Olaszország':['italy'], 'Portugália':['portugal'], 'Románia':['romania','românia'], 'Spanyolország':['spain'],
- 'Svédország':['sweden'], 'Szlovákia':['slovakia'], 'Szlovénia':['slovenia'], 'Oroszország':['russia'],
- 'Fehéroroszország':['belarus'], 'Szerbia':['serbia','srbija'], 'Bosznia-Hercegovina':['bosnia'],
- 'Montenegró':['montenegro'], 'Albánia':['albania'], 'Egyesült Királyság':['united kingdom','britain','british']
-}
-CATEGORIES = {
- 'Útdíj':['toll','útdíj','maut','vignette','eurovignette','road charge'],
- 'Üzemanyag':['fuel','diesel','gázolaj','adblue','petrol','üzemanyag'],
- 'Útlezárás':['closure','road closed','útlezár','blockade','motorway closed','autópálya lezár'],
- 'Vízum':['visa','vízum','entry permit'],
- 'Határ':['border','határ','customs','vám','border crossing'],
- 'Engedély':['permit','cemt','engedély','ecmt'],
- 'Jogszabály':['regulation','legislation','law','jogszabály','tachograph','mobility package']
-}
+ALIASES = {'Németország':['germany','deutschland'],'Ausztria':['austria','österreich'],'Románia':['romania','românia'],'Magyarország':['hungary','magyarország'],'Szerbia':['serbia','srbija'],'Fehéroroszország':['belarus','belarusz'],'Oroszország':['russia','oroszország'],'Lengyelország':['poland'],'Franciaország':['france'],'Egyesült Királyság':['united kingdom','britain'],'Olaszország':['italy'],'Spanyolország':['spain'],'Szlovákia':['slovakia'],'Horvátország':['croatia'],'Csehország':['czech'],'Bulgária':['bulgaria'],'Bosznia-Hercegovina':['bosnia'],'Montenegró':['montenegro'],'Albánia':['albania'],'Hollandia':['netherlands'],'Belgium':['belgium'],'Szlovénia':['slovenia'],'Litvánia':['lithuania'],'Lettország':['latvia'],'Észtország':['estonia'],'Dánia':['denmark'],'Svédország':['sweden'],'Finnország':['finland'],'Görögország':['greece'],'Portugália':['portugal'],'Írország':['ireland'],'Luxemburg':['luxembourg'],'Ciprus':['cyprus'],'Málta':['malta']}
+CATEGORIES = {'Útdíj':['toll','útdíj','maut','vignette','road charge'],'Üzemanyag':['fuel','diesel','gázolaj','adblue'],'Útlezárás':['closure','road closed','útlezár','blockade','driving ban','truck ban'],'Vízum':['visa','vízum'],'Határ':['border','határ','customs','vám'],'Engedély':['permit','cemt','engedély'],'Jogszabály':['regulation','law','jogszabály','tachograph']}
+RELEVANT = ['truck','trucking','lorry','hgv','freight','haulage','road transport','heavy goods','commercial vehicle','kamion','teherautó','fuvaroz','tachograph','útdíj','toll','driving ban','truck ban','border crossing','customs','cemt','adblue','diesel','logistics','transport']
+HEADERS = {'User-Agent':'Mozilla/5.0 (compatible; TransportIntelligencePersonalRSS/0.3)'}
 
 def clean(value):
- return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', ' ', value or ''))).strip()[:1200]
+    return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]*>', ' ', value or ''))).strip()
 
 def classify(text, default):
- """Country-specific feed takes precedence; otherwise accept one unambiguous mention."""
- if default in COUNTRIES:
-  return default
- found = [country for country, names in ALIASES.items() if any(re.search(r'(?<!\w)' + re.escape(n) + r'(?!\w)', text.lower()) for n in names + [country.lower()])]
- return found[0] if len(found) == 1 else 'EU'
+    # Prefer the source's country: a foreign country mentioned in the headline
+    # does not necessarily mean the story belongs to that country.
+    if default in COUNTRIES:
+        return default
+    text = text.lower()
+    for country, aliases in ALIASES.items():
+        if any(re.search(r'(?<!\w)' + re.escape(a) + r'(?!\w)', text) for a in aliases):
+            return country
+    return 'EU'
 
 def category(text):
- lower = text.lower()
- for label, words in CATEGORIES.items():
-  if any(re.search(r'(?<!\w)' + re.escape(word) + r'(?!\w)', lower) for word in words):
-   return label
- return 'Egyéb'
+    text = text.lower()
+    return next((name for name, keys in CATEGORIES.items() if any(key in text for key in keys)), 'Egyéb')
 
 def parse_date(value):
- try:
-  return email.utils.parsedate_to_datetime(value).astimezone(dt.timezone.utc).isoformat()
- except (TypeError, ValueError, IndexError):
-  try:
-   parsed = dt.datetime.fromisoformat(value.replace('Z','+00:00'))
-   return parsed.astimezone(dt.timezone.utc).isoformat() if parsed.tzinfo else parsed.replace(tzinfo=dt.timezone.utc).isoformat()
-  except (TypeError, ValueError, AttributeError):
-   return ''
+    try:
+        return email.utils.parsedate_to_datetime(value).astimezone(dt.timezone.utc).isoformat()
+    except Exception:
+        try:
+            return dt.datetime.fromisoformat(value.replace('Z', '+00:00')).astimezone(dt.timezone.utc).isoformat()
+        except Exception:
+            return ''
 
-def read_items(payload):
- root = ET.fromstring(payload)
- for item in root.findall('.//item'):
-  yield {key: item.findtext(key) or '' for key in ('title','link','description','pubDate')}
- ns = '{http://www.w3.org/2005/Atom}'
- for entry in root.findall('.//' + ns + 'entry'):
-  link = entry.find(ns + 'link')
-  def atom(key): return entry.findtext(ns + key) or ''
-  yield {'title':atom('title'),'link':link.get('href','') if link is not None else '', 'description':atom('summary') or atom('content'),'pubDate':atom('published') or atom('updated')}
+def read_items(data):
+    root = ET.fromstring(data)
+    for item in root.findall('.//item'):
+        yield {key: (item.findtext(key) or '') for key in ('title','link','description','pubDate')}
+    atom_ns = '{http://www.w3.org/2005/Atom}'
+    for entry in root.findall('.//' + atom_ns + 'entry'):
+        link = entry.find(atom_ns + 'link')
+        def field(key):
+            return entry.findtext(atom_ns + key) or ''
+        yield {'title':field('title'), 'link':link.get('href','') if link is not None else '', 'description':field('summary') or field('content'), 'pubDate':field('updated') or field('published')}
 
-# V0.4: prioritise road freight topics; do not mistake general rail/air news for trucking.
-ROAD = ('truck','trucking','lorry','hgv','heavy goods','road freight','road haulage','road transport',
-        'kamion','teherautó','közúti fuvar','fuvarozó','tachograph','tachográf','adr','cabotage',
-        'driver','sofőr','autópálya','motorway','highway','border crossing','határátkelő')
-ROAD_SPECIFIC = ('toll','útdíj','maut','vignette','eurovignette','adblue','diesel',
-                 'road closure','road closed','útlezár','border crossing','tachograph','tachográf',
-                 'ecmt','cemt','road freight','road haulage','hgv','truck','trucking','lorry','kamion','teherautó')
-OTHER_TRANSPORT = ('railway','rail freight','rail logistics','train service','aviation','air cargo','airport','passenger train')
+def fetch_article(url):
+    # Google News redirect links may not resolve to the publisher; skip if so.
+    if 'news.google.com' in url:
+        return ''
+    try:
+        from bs4 import BeautifulSoup
+        request = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(request, timeout=9) as response:
+            if 'html' not in response.headers.get('Content-Type','').lower():
+                return ''
+            raw = response.read(350_000)
+        soup = BeautifulSoup(raw, 'html.parser')
+        for tag in soup(['script','style','nav','footer','header','aside','form']):
+            tag.decompose()
+        article = soup.find('article') or soup.find('main')
+        if article is None:
+            return ''
+        paragraphs = [clean(p.get_text(' ', strip=True)) for p in article.find_all('p')]
+        return ' '.join(p for p in paragraphs if len(p) >= 55)[:3000]
+    except Exception:
+        return ''
 
-def relevant(text):
- t = text.lower()
- if any(x in t for x in OTHER_TRANSPORT) and not any(x in t for x in ROAD_SPECIFIC):
-  return False
- return any(x in t for x in ROAD + ROAD_SPECIFIC) or (category(t) != 'Egyéb' and any(x in t for x in ('transport','road','freight','logistics','szállítás','fuvar')))
+def source_summary(description, article):
+    """Extract sentences from available source text; do not invent facts."""
+    content = article if len(article) >= 250 else description
+    sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', clean(content)) if len(s.strip()) >= 35]
+    # Require sufficient material for a 3-sentence summary.
+    if len(sentences) < 3:
+        return ''
+    return ' '.join(sentences[:5])[:1800]
 
-def translate(text):
- """Optional best-effort public translation; never change factual content when it fails."""
- if not text or len(text) > 450:
-  return None
- try:
-  q = urllib.parse.urlencode({'q':text,'langpair':'en|hu'})
-  req = urllib.request.Request('https://api.mymemory.translated.net/get?'+q,
-       headers={'User-Agent':'TransportIntelligencePersonalRSS/0.4'})
-  with urllib.request.urlopen(req, timeout=7) as response:
-   data = json.loads(response.read(150000))
-  result = clean(data.get('responseData',{}).get('translatedText',''))
-  if data.get('responseStatus') == 200 and result and 'MYMEMORY WARNING' not in result.upper():
-   return result
- except Exception as exc:
-  print('Translation unavailable:',str(exc)[:80])
- return None
+def translate(text, translator):
+    if not text or translator is None:
+        return ''
+    try:
+        translated = translator.translate(text[:1800])
+        return clean(translated) if translated else ''
+    except Exception as exc:
+        print('TRANSLATION ERROR:', str(exc)[:140])
+        return ''
+
+def load_json(path, fallback):
+    try:
+        return json.loads(path.read_text(encoding='utf-8-sig'))
+    except (FileNotFoundError, json.JSONDecodeError, UnicodeError) as exc:
+        print('JSON READ ERROR:', path.name, str(exc)[:140])
+        return fallback
 
 def main():
- path = ROOT / 'news.json'
- try:
-  old = json.loads(path.read_text(encoding='utf-8'))
- except (FileNotFoundError, ValueError):
-  old = {'items':[]}
- existing = {item['id']:item for item in old.get('items',[]) if item.get('id') and relevant(item.get('title','')+' '+item.get('summary',''))}
- successes = 0
- failures = []
- new_count = 0
- for src in SOURCES:
-  try:
-   req = urllib.request.Request(src['url'], headers={'User-Agent':'TransportIntelligencePersonalRSS/0.3'})
-   with urllib.request.urlopen(req,timeout=15) as response:
-    payload = response.read(2_000_000)
-   for item in read_items(payload):
-    url = item['link'].strip()
-    title, desc = clean(item['title']), clean(item['description'])
-    if not title or not url.startswith('https://') or not relevant(title+' '+desc):
-     continue
-    uid = hashlib.sha256(url.encode('utf-8')).hexdigest()[:24]
-    if uid not in existing:
-     new_count += 1
-    existing[uid] = {'id':uid,'title':title,'summary':desc or 'Olvasd el a teljes hírt a hivatkozáson.',
-      'country':classify(title+' '+desc,src.get('country','EU')),
-      'category':category(title+' '+desc),'source':src['name']+' (RSS-találat, nem ellenőrzött)',
-      'url':url,'published':parse_date(item['pubDate']),'urgent':False}
-   successes += 1
-  except Exception as exc:
-   failures.append(src.get('name','unknown'))
-   print('SOURCE ERROR',src.get('name','unknown'),str(exc)[:160])
- if successes == 0:
-  print('No feeds succeeded; preserving existing news.json')
-  return
- rows = sorted(existing.values(), key=lambda item:item.get('published',''),reverse=True)[:300]
- # Free public translation is rate-limited. Only translate recent entries and reuse cached results.
- # No translation is invented: when unavailable, preserve the original title/summary.
- translated = 0
- for row in rows[:25]:
-  cached = next((x for x in old.get('items',[]) if x.get('id') == row['id']), None)
-  if cached and cached.get('title_hu'):
-   row['title_hu'] = cached['title_hu']
-   if cached.get('summary_hu'): row['summary_hu'] = cached['summary_hu']
-   continue
-  result = translate(row['title'])
-  if result:
-   row['title_hu'] = result
-   translated += 1
-  if translated >= 12: break
- output = {'items':rows,'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),
-           'sources_ok':successes,'sources_total':len(SOURCES),'sources_failed':failures,'translation_note':'Automatikus, nem ellenőrzött fordítás; az eredeti cím is megmarad.'}
- path.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
- print('Saved',len(rows),'articles;',new_count,'new;',successes,'/',len(SOURCES),'feeds succeeded')
+    sources = load_json(ROOT / 'sources.json', [])
+    if not isinstance(sources, list) or not sources:
+        raise SystemExit('sources.json must be a non-empty JSON array; refusing to overwrite news.json')
+    old = load_json(ROOT / 'news.json', {'items':[]})
+    existing = {item['id']:item for item in old.get('items',[]) if isinstance(item,dict) and item.get('id')}
+    try:
+        from deep_translator import GoogleTranslator
+        translator = GoogleTranslator(source='auto', target='hu')
+    except Exception as exc:
+        print('Translation unavailable:', str(exc)[:140])
+        translator = None
+    successes = 0
+    new_count = 0
+    for src in sources:
+        try:
+            request = urllib.request.Request(src['url'], headers=HEADERS)
+            with urllib.request.urlopen(request, timeout=18) as response:
+                payload = response.read(2_000_000)
+            for item in read_items(payload):
+                url = item['link'].strip()
+                title = clean(item['title'])[:350]
+                description = clean(item['description'])[:1800]
+                if not title or not url.startswith('https://'):
+                    continue
+                # Only transport-related stories; do not filter out all general legal updates.
+                combined = (title + ' ' + description).lower()
+                if not any(term in combined for term in RELEVANT):
+                    continue
+                uid = hashlib.sha256(url.encode()).hexdigest()[:24]
+                if uid in existing:
+                    continue
+                article = fetch_article(url)
+                extract = source_summary(description, article)
+                title_hu = translate(title, translator)
+                summary_hu = translate(extract, translator) if extract else ''
+                row = {'id':uid,'title':title_hu or title,
+                       'summary':summary_hu or 'A teljes cikk alapján nem áll rendelkezésre megbízható, 3–5 mondatos magyar összefoglaló. Az eredeti forrás megnyitható.',
+                       'original_title':title,'country':classify(title+' '+description,src.get('country','EU')),
+                       'category':category(title+' '+description),
+                       'source':src.get('name','RSS')+' (RSS-találat, nem ellenőrzött)',
+                       'url':url,'published':parse_date(item['pubDate']), 'urgent':False,
+                       'translation_status':'translated' if title_hu and summary_hu else 'partial' if title_hu else 'unavailable',
+                       'summary_status':'source_extract' if summary_hu else 'insufficient_source_text'}
+                existing[uid] = row
+                new_count += 1
+                time.sleep(0.15)
+            successes += 1
+        except Exception as exc:
+            print('SOURCE ERROR', src.get('name','unknown'), str(exc)[:180])
+    if successes == 0:
+        print('No feeds succeeded; keeping existing news.json')
+        return
+    rows = sorted(existing.values(), key=lambda x:x.get('published',''), reverse=True)[:250]
+    result = {'items':rows,'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),
+              'sources_ok':successes,'sources_total':len(sources)}
+    (ROOT/'news.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    print('Saved',len(rows),'articles;',new_count,'new;',successes,'feeds succeeded')
 
 if __name__ == '__main__':
- main()
+    main()
