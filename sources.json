@@ -1,24 +1,4 @@
-[
-  {
-    "name": "Google News RSS – Ausztria fuvarozás",
-    "url": "https://news.google.com/rss/search?q=%22Austria%22+%28truck+OR+freight+OR+haulage+OR+road+transport%29+%28toll+OR+diesel+OR+border+OR+regulation+OR+closure+OR+visa%29+when%3A14d&hl=en&gl=GB&ceid=GB%3Aen",
-    "country": "Ausztria"
-  },
-  {
-    "name": "Google News RSS – Belgium fuvarozás",
-    "url": "https://news.google.com/rss/search?q=%22Belgium%22+%28truck+OR+freight+OR+haulage+OR+road+transport%29+%28toll+OR+diesel+OR+border+OR+regulation+OR+closure+OR+visa%29+when%3A14d&hl=en&gl=GB&ceid=GB%3Aen",
-    "country": "Belgium"
-  },
-  {
-    "name": "Google News RSS – Bulgária fuvarozás",
-    "url": "https://news.google.com/rss/search?q=%22Bulgaria%22+%28truck+OR+freight+OR+haulage+OR+road+transport%29+%28toll+OR+diesel+OR+border+OR+regulation+OR+closure+OR+visa%29+when%3A14d&hl=en&gl=GB&ceid=GB%3Aen",
-    "country": "Bulgária"
-  },
-  {
-    "name": "Google News RSS – Ciprus fuvarozás",
-    "url": "https://news.google.com/rss/search?q=%22Cyprus%22+%28truck+OR+freight+OR+haulage+OR+road+transport%29+%28toll+OR+diesel+OR+border+OR+regulation+OR+closure+OR+visa%29+when%3A14d&hl=en&gl=GB&ceid=GB%3Aen",
-    "country": "Ciprus"
-  },
+},
   {
     "name": "Google News RSS – Csehország fuvarozás",
     "url": "https://news.google.com/rss/search?q=%22Czechia%22+%28truck+OR+freight+OR+haulage+OR+road+transport%29+%28toll+OR+diesel+OR+border+OR+regulation+OR+closure+OR+visa%29+when%3A14d&hl=en&gl=GB&ceid=GB%3Aen",
