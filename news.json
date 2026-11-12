@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "791b179928e7732f263b3e45",
+      "title": "🚨A road closure is currently in place this evening - Facebook",
+      "summary": "🚨A road closure is currently in place this evening Facebook",
+      "country": "Egyesült Királyság",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzRLdVBhOXNKaWd5cWpidFJVTDlTVjVyREJyc240S3FBb0VjRk5QZ0gzS3d0Q2ZieW80YW9Kak9hNmhRWFJucFM4eEQ4TGJMRnp3NWIzcGVQUVEwLTkwcG1XZlg4M2ppbzUtc0RSci11U00wckxPSFg2OVotMDNqbjBlOFprcGNpMUVZWjkyb1hyUUhmQVpYV3Z5WDFqbXJQS1ZBZ1Z6VXI3Ukp3Z2FzUTZ5NS16QQ?oc=5",
+      "published": "2026-11-12T19:48:03+00:00",
+      "urgent": false,
+      "title_hu": "🚨Ma este jelenleg útlezárás van érvényben – Facebook"
+    },
+    {
       "id": "0d49bf7ff41cb4ccf3976458",
       "title": "A Romanian truck driver was arrested in Italy after allegedly trying to steal diesel from a truck’s tank - Informat.ro",
       "summary": "A Romanian truck driver was arrested in Italy after allegedly trying to steal diesel from a truck’s tank Informat.ro",
@@ -145,6 +157,30 @@
       "title_hu": "Többsávos szabad áramlású útdíjbeszedési rendszer piaca – méret, részesedés, trendek 2036 – Future Market Insights"
     },
     {
+      "id": "d22129beeacdc2b7e038b7d7",
+      "title": "US confident ship carrying Russian diesel cargo off US will sell in global market - Shipping Telegraph",
+      "summary": "US confident ship carrying Russian diesel cargo off US will sell in global market Shipping Telegraph",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUFLN0N4ZGpObFBUNFpNU3VkQ1p6VEVlNTgwV2hSQmJUVkE5cUpKeFUzd2JkM0dGQ0dYZmdiMTkxM2tDYVpEbjhtYmtkQjFnNXVhMkRCelJ5VG4xNUpvYmVwWHM0WFhYdkxnOVQ3XzF5aGFBTzExcHNtenhqdFZKY1pOWi0wcHEtYWoyZ0ZjLXhnUkZkSUhmbjNmV1ZSZ25Pcm8yOFlWUEQ0MFhkSzNHajh0XzZwTFo0enRSU1dKRUlpSWU1Q1lvQg?oc=5",
+      "published": "2026-11-12T02:04:57+00:00",
+      "urgent": false,
+      "title_hu": "Az Egyesült Államok biztos benne, hogy az orosz dízelrakományt szállító hajó a világpiacon fogja értékesíteni a rakományát – Shipping Telegraph"
+    },
+    {
+      "id": "4e41d2ddc4d7187a4ecbb861",
+      "title": "Rhenus and Juna test electric trucks by subscription in Germany - Foro3D",
+      "summary": "Rhenus and Juna test electric trucks by subscription in Germany Foro3D",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVdGNWktSl9QWnZuOG9OSWhWVzBQUkU0VEp3VWRhanVmaHp1VzdYcFRla1hndkZILVJFUE9UX2xMRTdmVG1WdF8xLTJPalRMeF82akFkWjJzSEtYRXR0b29PZERSNzlZNFdzdHJiVE9veTlqSkw2NTlOY0VUM01SWGp4WEQzZHNKYjBvVmY0SnBvSEo0NGRYTkY5dmo0d1J6aWNFeGx6X3VwYmEzSWNKbA?oc=5",
+      "published": "2026-11-11T22:54:01+00:00",
+      "urgent": false,
+      "title_hu": "A Rhenus és a Juna előfizetéses elektromos teherautókat tesztel Németországban – Foro3D"
+    },
+    {
       "id": "18b7d322126bc884e9fc4a32",
       "title": "After Trakia motorway crashes, road agency, police and toll body get 7 days to agree common rules - BurgasMedia",
       "summary": "After Trakia motorway crashes, road agency, police and toll body get 7 days to agree common rules BurgasMedia",
@@ -167,6 +203,42 @@
       "published": "2026-11-11T19:55:08+00:00",
       "urgent": false,
       "title_hu": "A rendőrség megjelölte, mikor lesznek jelentős útlezárások Dublin belvárosában – Dublin Live"
+    },
+    {
+      "id": "51f81bc216eaea2773df603d",
+      "title": "Russian Diesel Tanker Makes U-Turn After Heading to U.S. - gCaptain",
+      "summary": "Russian Diesel Tanker Makes U-Turn After Heading to U.S. gCaptain",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUFfdW8wZllsNE1qWG5aS2dVUFU1dXpFNXNQeVZMUF8yLTdLdHVEVEdreUV2UWpFVWhfV3Z0amNKd0RRRzE4T0FHS0FSaVZpU3Y4WEVJRGFjUG1aM2YwRGMwYmlGNkJTNUFXMHBTYXQ1X0k0M0dBaUJOYnpSUWRmbHlzSQ?oc=5",
+      "published": "2026-11-11T19:52:09+00:00",
+      "urgent": false,
+      "title_hu": "Orosz dízel-tartályhajó visszafordult, miután elindult az Egyesült Államok felé – gCaptain"
+    },
+    {
+      "id": "f68626d13d2709cbe7576d0e",
+      "title": "Russian Diesel Cargo Stalls Off U.S. Coast as Buyers Balk at Legal Risk - BigGo Finance",
+      "summary": "Russian Diesel Cargo Stalls Off U.S. Coast as Buyers Balk at Legal Risk BigGo Finance",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdkxUaFI4VVpEZU01c2hhVVNsakFhRmRaa2pNMmRDMEFmUHlUMkdxVTJqa1k2Q0U4QU9GdzRva0w5STVvSHlubTZNR19aTFNzZEtWMG40T0R4V1V5V3d1d3o5Zmp6OW0zeXVqVkpqb05neHZLZ0E?oc=5",
+      "published": "2026-11-11T18:35:00+00:00",
+      "urgent": false,
+      "title_hu": "Orosz dízelrakomány várakozik az Egyesült Államok partjainál, mert a vevők vonakodnak a jogi kockázatoktól – BigGo Finance"
+    },
+    {
+      "id": "dda4f73029dbc1657ba16cfd",
+      "title": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast - Reuters",
+      "summary": "US companies shunning Russian diesel as tanker carrying that fuel idles off East Coast Reuters",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3daRUlqRDl6MHVCYUhiS0tlUWV3d2xOX1BLWGtRazZCaVE1RWVqWDdoTENEX04yc3doSzhHM0wzQS1ibjd6cC1QZFoyaGNUVmY4bzlfcHdkX0dSVEpXVmQ4TTQ5RE1sWnVPbWkwb2ZWUE1fSWdVTkpTM1BjUFk5XzExLURsSUlQMjlvcERJQ2J0Vno5SlByRTBBMGFhd3RmdHRMTVBxMXV0b0pkOW1ZTXMxTVpLQnY4SHNSMW5Pd2ZFaUZZY29TdF93?oc=5",
+      "published": "2026-11-11T18:25:40+00:00",
+      "urgent": false,
+      "title_hu": "Az amerikai vállalatok kerülik az orosz dízelt, miközben az ilyen üzemanyagot szállító tartályhajó a keleti partvidék közelében várakozik – Reuters"
     },
     {
       "id": "1fa1bea709e11db76e4f9ddb",
@@ -237,8 +309,7 @@
       "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzhlYnVaMFN5QmZjMnN2R3k2dERlUGo5QXZtbVlwNHhaTHJMUm8xT1JXZFZ6djJtM2VJRkpGVXlLdEhOVExxUmpoajZRa1B6bEpmNkVpeGVzdGtodEtPdHhzOTBQZ2g2VDlnVzctM3kyalhHVUpGN2dlQmhITUFxWXRJWGdNdzZfSGRxMEhSZU1wcFQ5VnhBVGR0TEVCLXRDMlZJRUQyc1d0ZVM3U0E?oc=5",
       "published": "2026-11-11T08:55:35+00:00",
-      "urgent": false,
-      "title_hu": "Az európai parlamenti képviselők támogatják az uniós közlekedés, energiaügy és katonai mobilitás finanszírozásának növelését – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
+      "urgent": false
     },
     {
       "id": "848f6d5dd81b23e098aaf780",
@@ -249,8 +320,7 @@
       "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUGExb1JMaHpFZ09NZ2NoNnAteFJoSFdhQjhwdVBWRFVqWGZfakp2U0Y2UVZZdHcxUnhBV1E2XzNOSEV2SWpxdUNldmdYLXpFLUxYOVFuWFh4emtLU29HaFB3Q1ZmX2Rib0tn?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
-      "urgent": false,
-      "title_hu": "Közúti fuvardíjak 2026 harmadik negyedéve: rekordmagasságok a mennyiségek csökkenése mellett – Trans.INFO"
+      "urgent": false
     },
     {
       "id": "9ef5d0673833263b68eeee6d",
@@ -261,8 +331,7 @@
       "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
-      "urgent": false,
-      "title_hu": "Közúti fuvardíjak 2026. III. negyedév: rekordmagasságok a mennyiségek csökkenése mellett – Trans.INFO"
+      "urgent": false
     },
     {
       "id": "089bace82a0438678f705e7e",
@@ -273,8 +342,7 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeExvT0tyaElpWnNTdVlBdGUtakZ6bnZoTGVRdS1PWWhDbmJsbjBzdEs3d3FUcUZQVVA5OEc2YzBFRmF0WUpQdEd5NGdSbmRLWTZFMXZQcEp6V0t6clhtTWY3S01ERkFJVTNnbEFJdndoTDdJOG9EU0FOQUt5SC1lTw?oc=5",
       "published": "2026-11-11T08:11:47+00:00",
-      "urgent": false,
-      "title_hu": "Az IRHA az januári útdíjemelések felülvizsgálatát kéri – HGV Ireland"
+      "urgent": false
     },
     {
       "id": "735e3c15f194ae831ebed2dd",
@@ -285,8 +353,7 @@
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1d1Y2hmV20tWTlLbld2VkQ2bjhYSENUdEg0RnY3NFRweXdwUXIxY082Q3BibzhySUxLMnNzcl9JSFppNVdZZ2VQMWk4M2w2amk1M21tS1BrLTdoaURDaWFyNWJjc0FmV1Zqd0N2R0laTTVadDJTVXAxUW0wYklmSGpKaXF3Z1JNWFNPTnBuY05TaXJNa0hza3doTkRXZzhKWFhwLWtuTWtNdHBYVHIwNHRyRHZUX3ExcE41aUZVZE1RUQ?oc=5",
       "published": "2026-11-11T07:03:41+00:00",
-      "urgent": false,
-      "title_hu": "Bulgáriában gyásznapot tartanak, miközben megkezdődik az autópálya-katasztrófa kivizsgálása – Novinite.com"
+      "urgent": false
     },
     {
       "id": "357e6e17204c4fccdd7449f4",
@@ -319,6 +386,17 @@
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3RRMnBmMzc4eTl5RHR5ZXBoR0R4d0YxOVppb3djT1BBVUxKUkJpb3RPZEVrenl4ZTRaUlBKNDZOWE9sakh5ODRRMWE1czFEWTZkWW5SaFdzbER0UEdkWWpVUGFfYU5TcnI1M3hrQldKN0owT0pUa3RaMnZXaXNXZndJVzc?oc=5",
       "published": "2026-11-11T00:57:48+00:00",
+      "urgent": false
+    },
+    {
+      "id": "4c1351c71824739c136cb0b6",
+      "title": "US confident Russian diesel cargo off US coast will sell in global market - Reuters",
+      "summary": "US confident Russian diesel cargo off US coast will sell in global market Reuters",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1MXVxSmpTNTdreEFjWmk1cmpNUjRvM0tjelF5aVMyaDRyUkpyck1xNGlQVkNMWkZKVnVxTDFSaUZBUEU0aEE4UHRnVnZ1UnF3TVRQSzJwc2IyekZMc2VnZ1loRnVRN3c2SmZRYWo4SW5tZl9vc3JDWlFWbUk2QzM0cGh5NF80bjR0X2FlZElPb0xNWVlETk9PTFdCOFpFYVQ5TGF5NFpzQ1hacTRKUFRqMnFQSGY5LXRrZWVB?oc=5",
+      "published": "2026-11-10T20:47:39+00:00",
       "urgent": false
     },
     {
@@ -418,6 +496,17 @@
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlMxTWQ3cHMtaTN3b0xiX0RIbjMyRV9wb3YxWmUxUWRQaWthMHloV1NoSkVCQ2dDTjdCV240N0FQUng5MHFWd3NheGxseUhVSVhBYWVfb3NBLUVhbzNJaTVlXzhITUNRUFRFbHhScVZKX1lwNnc1cDBTOF9QZ25lS1RaLVRQMFJLUkVLZjZpcDVrdFlVekduaTdqSGREZGhBWFZNNmVpajJ5X1VwZXZF0gG0AUFVX3lxTE00bHdRZExRelJLdFBZNGg5enk4a3pJUHdRbFZpZjNXNjc1TjJienJ4WXhDZkNYZE1PbFdtazdTWjdOdDR1TDNMcnFVN1lLb2dYOVhSWFF1Mjlvb0paaWdLQi1vaUo0R09hTU8td0c0dDFMT2l0UWUxc1l2eDJlRURVZEFBdGtvdm04ZHk2aHpSSEZTZEhNazhfWTlHazZsYmQ4UVB6ekhJcWY4eWhZdUF1cVo1WQ?oc=5",
       "published": "2026-11-10T13:57:33+00:00",
+      "urgent": false
+    },
+    {
+      "id": "dd4f153ad052ca18e80c7af7",
+      "title": "Türkiye completes preparations to open border crossings with Armenia - Armenpress",
+      "summary": "Türkiye completes preparations to open border crossings with Armenia Armenpress",
+      "country": "Franciaország",
+      "category": "Határ",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dHJ0VFpYaVBYVkNHUER1NEVJbFpkUVA0dmhESzR3MEV6eW81cHlzczZsMVp6R1haOUc5emRheGFmeHBCdmxLdTlGd3hWUDhPcVHSAVdBVV95cUxQWFdaNHBiMjVER2ZuTkxFTTVBMGJDT1NLMV9jOWY3eERlOG5McGM5YkE2UDBVV2pzWXpyd0pGcXVLLTRTeV9CaU1tWURPV3JkVHFtTVJfM3c?oc=5",
+      "published": "2026-11-10T13:55:00+00:00",
       "urgent": false
     },
     {
@@ -605,6 +694,17 @@
       "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3BUaFdFeHRyTTE1d1dROTdJc3pWeTRScVlkZmJFbWcwcXIyVy1heWN2WWxnLUFiTXNsdjJ2LVh3WGh4ZWxBTUExcHJ6VFIwUzY1VndrYnlnTk8wYzNDQUlKVk91ZDdjeTBCLTBFek03ajhULWNINEtHS0FwQzJUSGRyNWtfeldsYnF4LU55X2lzR2xpOW1ITGFJSW1fR3plNFN2ZnBQdlQ4LVRjaHZGMVpDaHJ0bWVYX051WkR5a2h1RnZsZVBUSXNn?oc=5",
       "published": "2026-11-09T15:17:56+00:00",
+      "urgent": false
+    },
+    {
+      "id": "cb00cecf6af52873b53a6362",
+      "title": "Your Holiday Gifts Don’t Have to Be Delivered by Diesel - The Equation - Union of Concerned Scientists",
+      "summary": "Your Holiday Gifts Don’t Have to Be Delivered by Diesel The Equation - Union of Concerned Scientists",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTVlVDc4QmVxeVhGaFlwZ3lXWGJaY0czRjZpa25qX2Y1NXhkYlEwbG1KeDRIUWFfNUlzYm1WNGF5MURjaDF6NDZackhkc0Mwa3NKTDl2RUxPdDQwRkF1aldhODRWcnBaUnI3ak95X29WRTZqT0RKcnE4RkQ5TkI4cG90VmtydHhmUGxBVzUzYXE?oc=5",
+      "published": "2026-11-09T12:00:00+00:00",
       "urgent": false
     },
     {
@@ -1037,6 +1137,17 @@
       "urgent": false
     },
     {
+      "id": "a7385df2e01fbfcf6de0ebda",
+      "title": "NJ governor warns port operators against Russian diesel imports - WorkBoat",
+      "summary": "NJ governor warns port operators against Russian diesel imports WorkBoat",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3hBV2toZG5abXgyYUh6UkgwTGtvbEhBTnNTRWdneHZnbThoSFpuMm80SXdtOUVFV01COW1mdUZYbWMxUm1HRkQ3cENSVEtMSHZnaGlZd1pKdHI2M3J6aXZwYjlyR3V6RnAyemQtOWN2R09qclU1aERvRXVjdHRHOURsTW5WdjcteHIwR1VhY3dIdEpWVW95RGhOejdnczA2MFNJZFpnUTc0ZkJ5UVRUUXRZYw?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "3127cf8e3af8193dbffe470a",
       "title": "Ireland’s first digital highway is set to spearhead a new era of connected transport and road safety from the Northern Ireland border to Rosslare Europort - Three",
       "summary": "Ireland’s first digital highway is set to spearhead a new era of connected transport and road safety from the Northern Ireland border to Rosslare Europort Three",
@@ -1334,7 +1445,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-12T19:38:55.531917+00:00",
+  "updated_at": "2026-11-12T20:09:03.262515+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
