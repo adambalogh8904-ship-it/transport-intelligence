@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "eb75971b5c44ed6041791a9c",
+      "title": "Spain's M-5.5 arrow can cost drivers €200 and four points - RUSSPAIN.com",
+      "summary": "Spain's M-5.5 arrow can cost drivers €200 and four points RUSSPAIN.com",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGxwVUxILXJyYWhOVlZWWmdUeGhZV0JJTmJvcW9Nc2NzbkZMVzN5NmRxN0ltOGYxM1RfYkd2SkNWU3BQLWY1SjktWTc1UHI3M2pneHczYjAyRldac1dQaG5WblAyNk9mc0E4bHVYT3AydzJDekVhN0JsTkdfZFhhQjJsdHZ0TzFqOVZxLWJoVUNiQW5VNDNvUQ?oc=5",
+      "published": "2026-11-13T10:28:01+00:00",
+      "urgent": false,
+      "title_hu": "A spanyol M-5.5 jelzőtábla 200 euróba és négy büntetőpontba kerülhet a járművezetőknek – RUSSPAIN.com"
+    },
+    {
+      "id": "c9a9d27fb951bb1ec3000312",
+      "title": "Lorry Driver Escapes as Cab Destroyed in A16 Motorway Crash - UKNIP",
+      "summary": "Lorry Driver Escapes as Cab Destroyed in A16 Motorway Crash UKNIP",
+      "country": "Belgium",
+      "category": "Egyéb",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXVUV2FjbzJ1djFjWDBZQ05yZUpzQXRBdlZaN0tGUzU3dEJfM1JaQURacnZSVTdya0NwTkhPTnRMVE1KUHpjcE5mcTA4ckZfRlFuVERQSTVuUDVwVjdvU1lFUE1rVDRDTUhwb1lDWVhpdnlfdVlsc0FHMUFsd1JFdGNjU3hTQUVYUTZQdQ?oc=5",
+      "published": "2026-11-13T10:16:01+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-sofőr elmenekült, miután a fülkéje megsemmisült az A16-os autópályán történt balesetben – UKNIP"
+    },
+    {
+      "id": "5d3e6ac69b32ee97c7c99ec8",
+      "title": "Russia Diesel Exports Surge as Trump Fuel Deal Faces Risks - Urban Acres",
+      "summary": "Russia Diesel Exports Surge as Trump Fuel Deal Faces Risks Urban Acres",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVJaWldMM0E4STFqTDVVaHg3c3pwYmEtQkxzbUFvbUZobGJZYi1EUU80OTdRdzk3MHdrN0ZZRVdFcVI2SVEtVnB6am1nNk00ejllWnJuV1o0TkNhMWZ6Z0hhTlhBTVl5Sy1kMXF2cFBFdWRBZHl4cEJDUjhxWkpORnJxQUFyTmxEVXNEZHAtTUcwbnVSOC1JUWRMcmw?oc=5",
+      "published": "2026-11-13T09:50:14+00:00",
+      "urgent": false,
+      "title_hu": "Oroszország dízelkiviteli adatai megugrottak, miközben a Trump-féle üzemanyag-megállapodás kockázatokkal néz szembe – Urban Acres"
+    },
+    {
       "id": "74471f154b45792957faa2e4",
       "title": "IRHA backs IRU calls for tougher EU rules on late payments - HGV Ireland",
       "summary": "IRHA backs IRU calls for tougher EU rules on late payments HGV Ireland",
@@ -9,7 +45,20 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdERxX1MzcXVHOUdYa29CcmVsRWcwNm5VdGNmZGtfMVIwWEttNFM3TjdZME5wVHpGOUx5MkVOYkVtMW44aFVKQUhRaE9ZVGx1VmdYUS1RRmdySjgzQlFfU3ZPR1hwcURkcW1XaDduWTJjeHQ1LS1LUk9mRjUzZjZLc0JyRk5YaXVPZ2MzZzB2NA?oc=5",
       "published": "2026-11-13T08:07:29+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
+    },
+    {
+      "id": "d0bcee1ef30e83cb66fb72ca",
+      "title": "Traffic is normal at all border crossings - БНР Новини",
+      "summary": "Traffic is normal at all border crossings БНР Новини",
+      "country": "Bulgária",
+      "category": "Határ",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1dqenFkeUR6bTZGVkszT1VNZDdLa0M2N3ZEQzZiZjgxbDJSSHhZcHJoYkx4X1pnVi1JVUlaZzZaN1RCV0I3RWlsVWpqV1VUdDRLaUpOeGt5NHI0OWV4Z0tYajI4ak1HclIxamQ1R1MwOE5Qa3dlS2lmX2JmaDhyUA?oc=5",
+      "published": "2026-11-13T08:06:38+00:00",
+      "urgent": false,
+      "title_hu": "A forgalom minden határátkelőhelyen normális – БНР Новини"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -140,7 +189,8 @@
       "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzJ5TUJiNjBBN0FUcXJ2YVFZWTZ5S1B0Z08yX1N2cEtNNEw3LTJZVmdDUFR2UHo0bHU4eDhnVXh6VlFYWHQydVZyenlBTm9tNWhXYXFVZXJqMHNZUHdULU9KaTNPRjNnRTRHd2llNFdubFJYU2xWSUJsRUFoaWl5QlphcmpLSzN4UjF6ME5VWlAyVFg2eWlTYmZPckk0cTMteHZBVg?oc=5",
       "published": "2026-11-12T10:23:02+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Jobb összeköttetés, kevesebb várakozás, kevesebb kibocsátás: az IRU a COP31-en | IRU | Nemzetközi Közúti Szállítmányozási Egyesülés – IRU | Nemzetközi Közúti Szállítmányozási Egyesülés"
     },
     {
       "id": "71d4c796d657d23141877c40",
@@ -283,8 +333,7 @@
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3BPRklTZkVUczVPa1g1eS1zS0xZSHN3VDluUVVSSzNMd045Ml9xd1NFX2dPc0tRU0dnS3ZRYjFqUmFfU1ptTzF5cV9ma3RHUzBxZWZqQmNWaEc0QURISTROZWFoOGlXT3FxRHZzcHZnVHg1bmlsampuRFVOdTNLUmVtT3ZhWm9qeFRPWjJSY1p3U252OVJXeXB5Z29obkl1SVFlaFh5X1BETUdQNEHSAbMBQVVfeXFMUFhOQjcwc3l3Y044UkJUWExKNENmVmthMlFUOC00a1FZLTg5aGJDbjBqbS1oTmptZHVQRXlFNnFBNk5WOVM1NTRKTWZQT3ppekk2b09HcGZ2NjVCSzNwb0JRU1NqbmFpV3I1X2NNQXlmb2MtWU8xWlN0N2NJRnAydkEwbm8wc0NKLUcyZEYxakNqZWlVQW9LWVlEenBwZnBFMFMzT0RROGV5MUY1dDJfYnVPdDQ?oc=5",
       "published": "2026-11-11T21:42:32+00:00",
-      "urgent": false,
-      "title_hu": "A Trakia-autópályán történt balesetek után az útügyi hatóságnak, a rendőrségnek és az útdíjszedő szervezetnek 7 napja van, hogy megállapodjanak a közös szabályokról – BurgasMedia"
+      "urgent": false
     },
     {
       "id": "35d4cfc4b13f6513ad790ffe",
@@ -295,8 +344,7 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelp0STJiclJfeG1Nd2pyNy1hY0ttVTl3YnoxOFZsYmxpbnFLbm1DVHFpVlNycWF4YmpPN2hESnVMWmZnZ1B4RmxqRGd3VVlLby1FQU5jb3J4MXRFYUF4Qm1ZVnhqd1JiT3QwOG5wczVHczlVV2ZfaWJWM1pKbklVYmtaM1MzalNHUHZXTi1seWdjYndC0gGaAUFVX3lxTE0tTGJsUTNQSnZabDU5eE5WRzlIUUtZUUJ5V09yWHZKNUNMcnQ5WmFTNjZKckxmaWNhVEYyQlhSWjRtYVlxbjhjcVN2QkFCUVdEZmhSNmc4WEQzcTVSanZpcnU0aU9MR21NWGRnQWltZUhzc0Y1S0pyY3NBZjhyb3lCQTZXQWtGQzF6SXB0WVRYa1BXZm9LUFV5TVE?oc=5",
       "published": "2026-11-11T19:55:08+00:00",
-      "urgent": false,
-      "title_hu": "A rendőrség megjelölte, mikor lesznek jelentős útlezárások Dublin belvárosában – Dublin Live"
+      "urgent": false
     },
     {
       "id": "51f81bc216eaea2773df603d",
@@ -414,9 +462,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Spanyolország",
+      "country": "Franciaország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
       "urgent": false
@@ -557,9 +605,9 @@
       "id": "072137f0866d0ccc89ff42f8",
       "title": "Tanker Carrying Russian Diesel Halts off U.S. Coast, Shipping Data Shows - gCaptain",
       "summary": "Tanker Carrying Russian Diesel Halts off U.S. Coast, Shipping Data Shows gCaptain",
-      "country": "Görögország",
+      "country": "Oroszország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDFpYjdNVS1vakljNnlSbzdPRVBvRmljemJDYm5GeHF3cVJkUU01MGFuWGUzemZ2RjgtMHpPV043MnFiNlRxcjdJcTdBWWdqNkJZdEFPa1YzOWlVUkJPQ084ZzFNMVByQ0QwUzloTi1rUWc3OE1ZVUljandjTDdpSzJmVjYtd1I5UW94MWtXVGRjbVhRd3NN?oc=5",
       "published": "2026-11-10T17:00:38+00:00",
       "urgent": false
@@ -939,17 +987,6 @@
       "urgent": false
     },
     {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-07T06:11:47+00:00",
-      "urgent": false
-    },
-    {
       "id": "50f94eeb98c3fc5d1e01e21d",
       "title": "Lines at the border with Poland: Trucks Wait Up to 9 Days - Visit Ukraine",
       "summary": "Lines at the border with Poland: Trucks Wait Up to 9 Days Visit Ukraine",
@@ -1258,14 +1295,25 @@
       "urgent": false
     },
     {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
-      "country": "Belgium",
+      "country": "Svédország",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
-      "published": "2026-11-03T11:31:06+00:00",
+      "published": "2026-11-03T08:00:00+00:00",
       "urgent": false
     },
     {
@@ -1632,7 +1680,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-13T09:19:01.754298+00:00",
+  "updated_at": "2026-11-13T11:16:36.714792+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
