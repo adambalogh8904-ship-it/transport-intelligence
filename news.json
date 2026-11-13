@@ -154,7 +154,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -611,6 +611,18 @@
       "title_hu": "Romániai útdíj: Fizessen előre, hogy elkerülje a késedelmeket a határon – finway.com.ua"
     },
     {
+      "id": "bf2cc15b9c9ad8ac70ceda8f",
+      "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
+      "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxTU1wem1ORjRpTlhHcUp2U0ZuWmR5eGRITzFnNTAxS2loLW5OYUlSeHZweGZxT2RaUG03aWhjb1k3TmpfeHVndlhQNmtnQ21jc21rcHRnWWxfVU1LOW5IMEFJeTBEZzU5VXRyaUt5WjRHcllrTURLb3hoZS0?oc=5",
+      "published": "2026-11-05T11:32:34+00:00",
+      "urgent": false,
+      "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
+    },
+    {
       "id": "83ff07e81b69e22f2ed5749c",
       "title": "Exact road closure details and public transport disruption announced for EU ring of steel - Dublin Live",
       "summary": "Exact road closure details and public transport disruption announced for EU ring of steel Dublin Live",
@@ -618,7 +630,7 @@
       "category": "Útlezárás",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEpCWUJZam5hc3Y0T1hqdjRoZnFneF9BT2JJbFBYQ3I5Wm50cmdmbDkzRUdqcDdwNW1sYlZISlN5WGZuVnRnTWZXY2gtcXhrVFV0aGMzc2ZoMGFfaTBWRlBLalZFQWtBTmhwTmFlWFFUaWhrU244M2lnNllZNWRubXI2S0cxekRIRlAzWkF3?oc=5",
-      "published": "2026-11-05T13:21:17+00:00",
+      "published": "2026-11-05T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Pontos információk az útzárakról és a tömegközlekedés zavarairól az EU-csúcstalálkozó miatt kialakított „acélgyűrű” kapcsán – Dublin Live",
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
@@ -633,7 +645,8 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
       "published": "2026-11-04T20:07:27+00:00",
       "urgent": false,
-      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure"
+      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
+      "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
     },
     {
       "id": "72bef13f4e607a4fce2092f5",
@@ -644,7 +657,8 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84Qnk1c2J4R1ZRS0VkT1NCemVJRmFubC1mWFpXa29nVGRQSkxTaXRCMjNRZ0VnRjNWbDFBSlhaSndDU1FPTlBnX09ORGxlUE9zd0dZMWtkY1J4eHJMTnR0SWhYMkljc29oanJubXJ1a1RlcUhxaDV2TnZn?oc=5",
       "published": "2026-11-04T19:55:05+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "2027-re tervezik a Holyheadi vámrendszer átalakítását – HGV Ireland"
     },
     {
       "id": "69660f2b0f53719004e825d0",
@@ -655,7 +669,9 @@
       "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmROQjE5MVQzRzViTlRnWGlTT3N3bnQ4eExHVVk5QmpWVXVLV1VEVTdBY0RUVXpjS0xoZm9RU0JPUDBzLWlrZThLWFlGb3QxeF83VTBVZndlbGVjRmJfY1FNUHJhbTlMcmhkZ1RTSFI3WGduNC10SWVFVHh6VUNnc3pENmZmX0o0aDJIbElUQklBbFJvNFp6cHdDNTRqRlBnMTREcnNmQ2ZlS3NhYjdYYThkQUk4QnBNRzJXeUdTVkJTT0NxQmlOVFpUSE1oS0FXY1FraFFKbURvb2tQbEtISVJzVERwZw?oc=5",
       "published": "2026-11-04T16:29:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Jelentős sorok alakultak ki a moldovai–román határon: a járművezetőknek javasolt előre megvásárolni az autópálya-matricát – Судово-юридична газета",
+      "summary_hu": "Jelentős sorok alakultak ki a moldovai–román határon: a járművezetőknek azt tanácsolják, hogy előre vásárolják meg az útdíjmatricát Судово-юридична газета"
     },
     {
       "id": "49054c5702cae5f9034b98f9",
@@ -666,7 +682,8 @@
       "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVlzMk1tQ2dEZE5nTWw3eTJBNThDUUJpblRmSEs2QTZfQ1M5ZkRvUDZjVkxpSVp3OWtLZnJnbzBJX3poYy1YRlU4bVBzbnlyUDRIWEpuSTJ0dnFGWEU4ZFB6c0s5OG1seEZ3MWJyS2R2S0JyMlBOOHY4MjQ0NmZDVDM5REVfcXNTMVdtWVI2ZDNsRVR3RzktdzhULVBCZkVp?oc=5",
       "published": "2026-11-04T08:30:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Hóesés Ivanjica közelében és teherautó-forgalmi korlátozás a Kopaonik felé vezető úton – srpske.rs"
     },
     {
       "id": "adf7c379e66f3cc72824d3bc",
@@ -677,7 +694,8 @@
       "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
     },
     {
       "id": "014acf74c4affce33307a36a",
@@ -688,7 +706,9 @@
       "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? – Trans.INFO",
+      "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
       "id": "3c90f61f5df8f91452e81f06",
@@ -711,7 +731,8 @@
       "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
     },
     {
       "id": "6c3d2d673f800738babe0c2e",
@@ -722,7 +743,8 @@
       "source": "Google News RSS – Albánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
     },
     {
       "id": "4fbc39e36fdeeb8ad899b08c",
@@ -733,7 +755,8 @@
       "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTVZeUI0NHN1S3RUMEdra3N2LW9FQ3hFb3ZHZnlyczNPZ2ZBeFRiTzBfbFQzM3dyamc2ZG5PZVVtRHNaNDVYbmsyLTVqQVJYMWFLZE4zbzBlUFpndDF6TGJwQjdZTDhaU3VQdTBZVGNIRHlINW1neFREZFNKaWFJM0xXUG9IX2JU?oc=5",
       "published": "2026-11-02T08:00:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Átment az Øresund-hídon az első elektromos kamion – Trans.INFO"
     },
     {
       "id": "5aab0a573aa85d8ed435c225",
@@ -857,7 +880,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-13T17:15:36.288775+00:00",
+  "updated_at": "2026-11-13T18:08:45.897602+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
