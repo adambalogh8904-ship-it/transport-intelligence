@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c1144e788dd27bca57df891a",
+      "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
+      "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTdwaElTWjhJdEQya1ZudFlzcGVvcURNTV9lZUQzc2xNdXVkSS1wWEFXa2VmVFhFdTFyQkk0VHZuWDVtYjdQYk1WREQwazA4eHcwZ3Iyc3dDUkdaX2xhVEFrYUNaaTYzN1BvN0lzeWV1ZkNoYVBlYTJjdExDRVNGNlpoRlVDeWN0aFE?oc=5",
+      "published": "2026-11-13T06:21:55+00:00",
+      "urgent": false,
+      "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
+    },
+    {
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
@@ -297,8 +309,7 @@
       "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3daRUlqRDl6MHVCYUhiS0tlUWV3d2xOX1BLWGtRazZCaVE1RWVqWDdoTENEX04yc3doSzhHM0wzQS1ibjd6cC1QZFoyaGNUVmY4bzlfcHdkX0dSVEpXVmQ4TTQ5RE1sWnVPbWkwb2ZWUE1fSWdVTkpTM1BjUFk5XzExLURsSUlQMjlvcERJQ2J0Vno5SlByRTBBMGFhd3RmdHRMTVBxMXV0b0pkOW1ZTXMxTVpLQnY4SHNSMW5Pd2ZFaUZZY29TdF93?oc=5",
       "published": "2026-11-11T18:25:40+00:00",
-      "urgent": false,
-      "title_hu": "Az amerikai vállalatok kerülik az orosz dízelt, miközben az ilyen üzemanyagot szállító tartályhajó a keleti partvidék közelében várakozik – Reuters"
+      "urgent": false
     },
     {
       "id": "1fa1bea709e11db76e4f9ddb",
@@ -884,17 +895,6 @@
       "urgent": false
     },
     {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-07T06:11:47+00:00",
-      "urgent": false
-    },
-    {
       "id": "50f94eeb98c3fc5d1e01e21d",
       "title": "Lines at the border with Poland: Trucks Wait Up to 9 Days - Visit Ukraine",
       "summary": "Lines at the border with Poland: Trucks Wait Up to 9 Days Visit Ukraine",
@@ -1203,14 +1203,25 @@
       "urgent": false
     },
     {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
-      "country": "Belgium",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
-      "published": "2026-11-03T11:31:06+00:00",
+      "published": "2026-11-03T08:00:00+00:00",
       "urgent": false
     },
     {
@@ -1577,7 +1588,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-13T05:23:34.152905+00:00",
+  "updated_at": "2026-11-13T07:39:52.998513+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
