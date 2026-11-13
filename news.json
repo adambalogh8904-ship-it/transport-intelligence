@@ -359,9 +359,9 @@
       "id": "848f6d5dd81b23e098aaf780",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Spanyolország",
+      "country": "Litvánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUGExb1JMaHpFZ09NZ2NoNnAteFJoSFdhQjhwdVBWRFVqWGZfakp2U0Y2UVZZdHcxUnhBV1E2XzNOSEV2SWpxdUNldmdYLXpFLUxYOVFuWFh4emtLU29HaFB3Q1ZmX2Rib0tn?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
       "urgent": false
@@ -370,9 +370,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Franciaország",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
       "urgent": false
@@ -873,6 +873,17 @@
       "urgent": false
     },
     {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-07T06:11:47+00:00",
+      "urgent": false
+    },
+    {
       "id": "50f94eeb98c3fc5d1e01e21d",
       "title": "Lines at the border with Poland: Trucks Wait Up to 9 Days - Visit Ukraine",
       "summary": "Lines at the border with Poland: Trucks Wait Up to 9 Days Visit Ukraine",
@@ -1173,21 +1184,10 @@
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
-      "country": "Belgium",
+      "country": "Svédország",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
-      "published": "2026-11-03T11:31:06+00:00",
-      "urgent": false
-    },
-    {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false
     },
@@ -1522,7 +1522,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-13T01:29:59.723227+00:00",
+  "updated_at": "2026-11-13T03:06:22.755688+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
