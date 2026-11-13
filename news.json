@@ -15,15 +15,16 @@
     },
     {
       "id": "c9a9d27fb951bb1ec3000312",
-      "title": "Lorry Driver Escapes as Cab Destroyed in A16 Motorway Crash - UKNIP",
-      "summary": "Lorry Driver Escapes as Cab Destroyed in A16 Motorway Crash UKNIP",
+      "title": "VERY LUCKY ESCAPE Lorry driver escapes unhurt after cab destroyed in horrific motorway crash near Belgian border - UKNIP",
+      "summary": "VERY LUCKY ESCAPE Lorry driver escapes unhurt after cab destroyed in horrific motorway crash near Belgian border UKNIP",
       "country": "Belgium",
-      "category": "Egyéb",
+      "category": "Határ",
       "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXVUV2FjbzJ1djFjWDBZQ05yZUpzQXRBdlZaN0tGUzU3dEJfM1JaQURacnZSVTdya0NwTkhPTnRMVE1KUHpjcE5mcTA4ckZfRlFuVERQSTVuUDVwVjdvU1lFUE1rVDRDTUhwb1lDWVhpdnlfdVlsc0FHMUFsd1JFdGNjU3hTQUVYUTZQdQ?oc=5",
       "published": "2026-11-13T10:16:01+00:00",
       "urgent": false,
-      "title_hu": "Teherautó-sofőr elmenekült, miután a fülkéje megsemmisült az A16-os autópályán történt balesetben – UKNIP"
+      "title_hu": "Teherautó-sofőr elmenekült, miután a fülkéje megsemmisült az A16-os autópályán történt balesetben – UKNIP",
+      "summary_hu": "NAGYON SZERENCSÉS MEGMENEKÜLÉS Egy teherautó-sofőr sértetlenül megmenekült, miután a fülkéje megsemmisült egy szörnyű autópálya-balesetben a belga határ közelében UKNIP"
     },
     {
       "id": "965bce733251d29310b2ba54",
@@ -153,7 +154,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -289,9 +290,9 @@
       "id": "848f6d5dd81b23e098aaf780",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Litvánia",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUGExb1JMaHpFZ09NZ2NoNnAteFJoSFdhQjhwdVBWRFVqWGZfakp2U0Y2UVZZdHcxUnhBV1E2XzNOSEV2SWpxdUNldmdYLXpFLUxYOVFuWFh4emtLU29HaFB3Q1ZmX2Rib0tn?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
       "urgent": false,
@@ -498,6 +499,19 @@
       "summary_hu": "Az EU követelményének megfelelően Ukrajna 2027 végéig elfogadja az útdíjas utak bevezetéséről szóló törvényt – Közlekedési Minisztérium Ukrajnai Hírügynökség"
     },
     {
+      "id": "5ef491b7417e26ca1108df37",
+      "title": "Transport operators protest over road closure to Velingrad ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Transport operators protest over road closure to Velingrad ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "country": "Bulgária",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUVmd2lsUDRXS3RBNWo1RDBKa3hEQnd1MWhhYlhQR3lmd0FaQmQ3OG1kQkVJZVJIVjMyX2s0ak1pckpIWjlFaGg3WmhNLVg2d0RQamdjeEc1cVd4dTV3ZUkwSmVlbkpwM25iTk9kSEF1R2xWVjhjZEFEdklUb1BhQXh0UXJYc05ZYzA4cVpNQ1g0dlJTdEFMVm8xdw?oc=5",
+      "published": "2026-11-07T18:15:00+00:00",
+      "urgent": false,
+      "title_hu": "Fuvarozók tiltakoznak a Velingrad felé vezető út lezárása miatt ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "A fuvarozók tiltakoznak a Velingradba vezető út lezárása miatt ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+    },
+    {
       "id": "e4962aa433997d5b31aa18f3",
       "title": "UK-EU food border deal: FleetInspect says hauliers must remain focused on transport compliance - HGV Ireland",
       "summary": "UK-EU food border deal: FleetInspect says hauliers must remain focused on transport compliance HGV Ireland",
@@ -509,18 +523,6 @@
       "urgent": false,
       "title_hu": "Egyesült Királyság–EU élelmiszer-határforgalmi megállapodás: A FleetInspect szerint a fuvarozóknak továbbra is a szállítási előírások betartására kell összpontosítaniuk – HGV Ireland",
       "summary_hu": "Egyesült Királyság–EU élelmiszer-határforgalmi megállapodás: A FleetInspect szerint a fuvarozóknak továbbra is az előírásoknak megfelelő szállításra kell összpontosítaniuk HGV Ireland"
-    },
-    {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-07T06:11:47+00:00",
-      "urgent": false,
-      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
       "id": "abb61b96a124e54e0c6578a0",
@@ -556,7 +558,8 @@
       "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFl2dklBeXhNd2NWaHQ2b2xLbU1YLUlTWDlqdjhoLXlfTnJrMlpBajVmVXhQUzd3Z2lORHR0REkyTFZVa0hyMHBlTXU2SmNSRHdBdVdZQ1RYZWU5X0lQeHJ4NjlkWS1Za0dwTHZfTmhTN2FDODh3UE9fb1RsNWtWellHOWpvNEIwTkpwWUliZTYwQmV6bkVZ?oc=5",
       "published": "2026-11-06T08:47:33+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "CAREC Intézet 6. éves kutatási konferenciája – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
       "id": "de59bffa77348ada9d158da3",
@@ -567,7 +570,9 @@
       "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
       "published": "2026-11-06T07:28:34+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
+      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
     },
     {
       "id": "3f22678fde1e2d09dfc17db5",
@@ -578,7 +583,8 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjUxLW11LTY3WFVXZ2tFdUNQd2lBQ09mMWZnQTdiejhNVWV5T0ZRVW9QM1JhNHVEcTF6Nkc0QjBJbjJyQ2JKeEMzdlpWMmZ3aHVOTWJWMlA2dllkTjNxVm9BeEVpQVdrYlEwZ25SLW8ycGNiMzBzWmRsZWdYS1psbkZpRjFvSmZqZWgxWHJ1ZlFwQWdycWR4UG9mSDFWMEtHN1Vr?oc=5",
       "published": "2026-11-06T07:23:53+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Az IRHA szerint az elektromos tehergépjárművekre vonatkozó célok nem érhetők el töltési beruházások nélkül – HGV Ireland"
     },
     {
       "id": "7cff2eac96951689597fc231",
@@ -589,7 +595,8 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGRFlvS1RjOFoyNjhKdmN6dXZCU2ZtN2VtU2NkN0tER09oV1daTHRtVE5kU2RmU2RuWEx6ZFlKZnIydmxHdWxubXUxRENCRVNTaklMODc2bFpnajQzLU5maGtnenpPWW1iYkc1WERiandIMTZGUVV4dXNR?oc=5",
       "published": "2026-11-05T14:55:45+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "A fuvarozói szervezet szerint az elektromos nehéz tehergépjárművekre vonatkozó célok nem teljesíthetők – RTE.ie"
     },
     {
       "id": "957695b6ed38c251fe52a6e3",
@@ -600,7 +607,8 @@
       "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12MGJ1S1RXeG05N2k0SGR4N0xqUjdMMDBEQjdXVkNkTUxfYUlsWER4TzNQRThNeVp3VzV1ME1ydVYxalNndGgtTG5iWDRZUmJWVXpiems1dlRaWFlsTDNFbmZkUGkyU2U2YlEtVg?oc=5",
       "published": "2026-11-05T13:53:04+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Romániai útdíj: Fizessen előre, hogy elkerülje a késedelmeket a határon – finway.com.ua"
     },
     {
       "id": "83ff07e81b69e22f2ed5749c",
@@ -611,7 +619,9 @@
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEpCWUJZam5hc3Y0T1hqdjRoZnFneF9BT2JJbFBYQ3I5Wm50cmdmbDkzRUdqcDdwNW1sYlZISlN5WGZuVnRnTWZXY2gtcXhrVFV0aGMzc2ZoMGFfaTBWRlBLalZFQWtBTmhwTmFlWFFUaWhrU244M2lnNllZNWRubXI2S0cxekRIRlAzWkF3?oc=5",
       "published": "2026-11-05T13:21:17+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Pontos információk az útzárakról és a tömegközlekedés zavarairól az EU-csúcstalálkozó miatt kialakított „acélgyűrű” kapcsán – Dublin Live",
+      "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
     },
     {
       "id": "7c20c1b0b29132840c4d8e17",
@@ -622,7 +632,8 @@
       "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
       "published": "2026-11-04T20:07:27+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure"
     },
     {
       "id": "72bef13f4e607a4fce2092f5",
@@ -678,6 +689,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false
+    },
+    {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
       "id": "41a3ab6178f61619f6d3cdad",
@@ -834,7 +857,7 @@
       "urgent": false
     }
   ],
-  "updated_at": "2026-11-13T16:09:10.866730+00:00",
+  "updated_at": "2026-11-13T17:15:36.288775+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
