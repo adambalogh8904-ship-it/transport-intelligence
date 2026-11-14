@@ -4,9 +4,9 @@
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Montenegró",
+      "country": "Szerbia",
       "category": "Útlezárás",
-      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
       "published": "2026-11-14T12:00:00+00:00",
       "urgent": false,
@@ -32,7 +32,7 @@
       "category": "Üzemanyag",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:23:17+00:00",
+      "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
@@ -636,6 +636,19 @@
       "summary_hu": "Bejelentették a 2027-es magyarországi autópálya-matricák árait: az éves matricák drágábbak lesznek Daily News Hungary"
     },
     {
+      "id": "de59bffa77348ada9d158da3",
+      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
+      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
+      "country": "Románia",
+      "category": "Határ",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
+      "published": "2026-11-06T12:56:20+00:00",
+      "urgent": false,
+      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
+      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
+    },
+    {
       "id": "c2e8325469361a8f8ce8c3a5",
       "title": "Moldova and Romania Take Steps to Cut Truck Queues at Border - logos-pres.md",
       "summary": "Moldova and Romania Take Steps to Cut Truck Queues at Border logos-pres.md",
@@ -658,19 +671,6 @@
       "published": "2026-11-06T08:47:33+00:00",
       "urgent": false,
       "title_hu": "CAREC Intézet 6. éves kutatási konferenciája – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
-    },
-    {
-      "id": "de59bffa77348ada9d158da3",
-      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
-      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
-      "country": "Románia",
-      "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
-      "published": "2026-11-06T07:28:34+00:00",
-      "urgent": false,
-      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
-      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
     },
     {
       "id": "3f22678fde1e2d09dfc17db5",
@@ -859,18 +859,6 @@
       "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
-      "id": "6c3d2d673f800738babe0c2e",
-      "title": "Transport truck spill sends one person to hospital - CTV News",
-      "summary": "Transport truck spill sends one person to hospital CTV News",
-      "country": "Csehország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
-    },
-    {
       "id": "41a3ab6178f61619f6d3cdad",
       "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
       "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
@@ -881,6 +869,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
+    },
+    {
+      "id": "6c3d2d673f800738babe0c2e",
+      "title": "Transport truck spill sends one person to hospital - CTV News",
+      "summary": "Transport truck spill sends one person to hospital CTV News",
+      "country": "Csehország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
     },
     {
       "id": "4fbc39e36fdeeb8ad899b08c",
@@ -1034,7 +1034,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T14:58:23.974196+00:00",
+  "updated_at": "2026-11-14T15:57:06.200552+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
