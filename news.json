@@ -612,19 +612,6 @@
       "summary_hu": "Bejelentették a 2027-es magyarországi autópálya-matricák árait: az éves matricák drágábbak lesznek Daily News Hungary"
     },
     {
-      "id": "de59bffa77348ada9d158da3",
-      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
-      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
-      "country": "Románia",
-      "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
-      "published": "2026-11-06T12:56:20+00:00",
-      "urgent": false,
-      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
-      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
-    },
-    {
       "id": "c2e8325469361a8f8ce8c3a5",
       "title": "Moldova and Romania Take Steps to Cut Truck Queues at Border - logos-pres.md",
       "summary": "Moldova and Romania Take Steps to Cut Truck Queues at Border logos-pres.md",
@@ -647,6 +634,19 @@
       "published": "2026-11-06T08:47:33+00:00",
       "urgent": false,
       "title_hu": "CAREC Intézet 6. éves kutatási konferenciája – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
+    },
+    {
+      "id": "de59bffa77348ada9d158da3",
+      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
+      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
+      "country": "Románia",
+      "category": "Határ",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
+      "published": "2026-11-06T07:28:34+00:00",
+      "urgent": false,
+      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
+      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
     },
     {
       "id": "3f22678fde1e2d09dfc17db5",
@@ -1010,7 +1010,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T10:04:02.490122+00:00",
+  "updated_at": "2026-11-14T10:59:42.390596+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
