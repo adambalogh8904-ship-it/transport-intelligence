@@ -8,10 +8,22 @@
       "category": "Üzemanyag",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:23:17+00:00",
+      "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "d73d37cb0aaebb26271dcb04",
+      "title": "Diesel: prices ease, supply doesn't - IRU | World Road Transport Organisation",
+      "summary": "Diesel: prices ease, supply doesn't IRU | World Road Transport Organisation",
+      "country": "Lengyelország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGdxeU5jaktSZDZfNXlRYXFHRVJaal9uUnBBeEV2RXNoN0ZYUVBkVVc0eTB4YjhxS1E2Xy02QWNDZXBhUGpDNS12ZlR3Z0lyRXVoQjdYOFo4LW43TkVtaG5Sdmt3dE52RUs4U1FabnhQekZ5UmptWWJDY013N3ZZN2VB?oc=5",
+      "published": "2026-11-13T15:32:58+00:00",
+      "urgent": false,
+      "title_hu": "Dízel: az árak csökkennek, a kínálat nem – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
       "id": "6a581eb604924e9822c86c50",
@@ -352,9 +364,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Franciaország",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:14+00:00",
       "urgent": false,
@@ -986,7 +998,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T07:26:59.575413+00:00",
+  "updated_at": "2026-11-14T09:06:55.884869+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
