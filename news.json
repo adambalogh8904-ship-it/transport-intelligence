@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "2b9093aa5c4500e2b7865320",
+      "title": "SISU truck runs on hydrogen and electricity - the chargeable battery-fuel cell hybrid answers the challenges of emission-free heavy-duty transport - Hydrogen Central",
+      "summary": "SISU truck runs on hydrogen and electricity - the chargeable battery-fuel cell hybrid answers the challenges of emission-free heavy-duty transport Hydrogen Central",
+      "country": "Finnország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Finnország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMzNjdEttVmY3N05oTVZGVlBWY0t1bWNXbGpIVl9qbjlLZkZqRWNTU1RqU29ha0VzcW1GRXZPSE1la2ZYaVkxc3k1VUp1cEVYS3VPRzItZlFCU0ZhTVFfYkxvZlVBajZYaTU3dHRSdm41ZWZqalp4eEFLdkFITVRNUTJoR3Z0dnRtSmRNOGhvRExBZFNmYXBiS3djZ0l1REtGTzBvOS1NODJWdGhqNzFmM2pNZlhVbnBKSFB5akdMTUFvTlpOMkRIa0FKSngyUDVfdUMzb1RWcU1PU3ZKZ2R3QXkyMWxFd0s5UVpTMmtpYm1iYnNTbnN5bEZfLTFYYTdpU3VLOA?oc=5",
+      "published": "2026-11-14T17:02:16+00:00",
+      "urgent": false,
+      "title_hu": "A SISU teherautó hidrogénnel és elektromos árammal működik – a feltölthető akkumulátoros-üzemanyagcellás hibrid megoldást kínál a kibocsátásmentes nehézgépjármű-szállítás kihívásaira – Hydrogen Central",
+      "summary_hu": "A SISU teherautó hidrogénnel és elektromos árammal működik – a feltölthető akkumulátoros-üzemanyagcellás hibrid megoldást kínál a kibocsátásmentes nehézgépjármű-szállítás kihívásaira Hydrogen Central"
+    },
+    {
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
@@ -240,7 +253,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -709,19 +722,6 @@
       "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
     },
     {
-      "id": "b0abca1ba8b6ce923814114e",
-      "title": "ADR 2027: What road transport operators need to know - IRU | World Road Transport Organisation",
-      "summary": "ADR 2027: What road transport operators need to know IRU | World Road Transport Organisation",
-      "country": "Görögország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzhzcVVTT0ctOGFCOXA5UURVM1F0NENBd0pLWWhuaWYtZFBJMld2anZXSHFCQnR3UXVZR1RuZ2ZRdjE5MXhNTzBIakZHUHZwc19feWJqRTBtQ281bUpCNWtHSFhRXzhOTTJURTctZHIxdmpIME5MVGhoRm55V2YxWGdoLW53V0VCNndYLS1JV0I4QWYySzRXLTV3?oc=5",
-      "published": "2026-11-05T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell – IRU | Nemzetközi Közúti Szállítmányozási Szövetség",
-      "summary_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell IRU | Nemzetközi Közúti Szállítmányozási Szövetség"
-    },
-    {
       "id": "7cff2eac96951689597fc231",
       "title": "Haulage body says targets for electric HGVs unachievable - RTE.ie",
       "summary": "Haulage body says targets for electric HGVs unachievable RTE.ie",
@@ -745,6 +745,19 @@
       "urgent": false,
       "title_hu": "Pontos információk az útzárakról és a tömegközlekedés zavarairól az EU-csúcstalálkozó miatt kialakított „acélgyűrű” kapcsán – Dublin Live",
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
+    },
+    {
+      "id": "b0abca1ba8b6ce923814114e",
+      "title": "ADR 2027: What road transport operators need to know - IRU | World Road Transport Organisation",
+      "summary": "ADR 2027: What road transport operators need to know IRU | World Road Transport Organisation",
+      "country": "Görögország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzhzcVVTT0ctOGFCOXA5UURVM1F0NENBd0pLWWhuaWYtZFBJMld2anZXSHFCQnR3UXVZR1RuZ2ZRdjE5MXhNTzBIakZHUHZwc19feWJqRTBtQ281bUpCNWtHSFhRXzhOTTJURTctZHIxdmpIME5MVGhoRm55V2YxWGdoLW53V0VCNndYLS1JV0I4QWYySzRXLTV3?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell – IRU | Nemzetközi Közúti Szállítmányozási Szövetség",
+      "summary_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell IRU | Nemzetközi Közúti Szállítmányozási Szövetség"
     },
     {
       "id": "7c20c1b0b29132840c4d8e17",
@@ -860,18 +873,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "6c3d2d673f800738babe0c2e",
-      "title": "Transport truck spill sends one person to hospital - CTV News",
-      "summary": "Transport truck spill sends one person to hospital CTV News",
-      "country": "Csehország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
-    },
-    {
       "id": "3c90f61f5df8f91452e81f06",
       "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
       "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
@@ -882,6 +883,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
+    },
+    {
+      "id": "6c3d2d673f800738babe0c2e",
+      "title": "Transport truck spill sends one person to hospital - CTV News",
+      "summary": "Transport truck spill sends one person to hospital CTV News",
+      "country": "Csehország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
     },
     {
       "id": "41a3ab6178f61619f6d3cdad",
@@ -908,18 +921,6 @@
       "title_hu": "Átment az Øresund-hídon az első elektromos kamion – Trans.INFO"
     },
     {
-      "id": "5aab0a573aa85d8ed435c225",
-      "title": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls - Electrek",
-      "summary": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls Electrek",
-      "country": "Hollandia",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDR0cjlLQTIyNUpYNzVSd0dSLTFsdVFoNHRROWNhUDlBTllPc19OSHREc2NnMW93MmQzQ21GX0IwWFJMMGFmaXFpbWU3Nm9qb3Nad29rNmw0T3hPUjlmTGlrZG9rWU5yejRtMjBkWGJXVjZYcGdGWFlXVlkyQmNFOGRvVHhVYWZlMGpDc1NwaURTWWVvRlBJWHVRMUw?oc=5",
-      "published": "2026-11-02T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az elektromos teherautók Kína nehézteherautó-értékesítésének 50%-át teszik ki, a dízel iránti kereslet csökken – Electrek"
-    },
-    {
       "id": "6ce6870f207aff8c523e7122",
       "title": "The Ministry of Transport started monitoring road toll payments with the help of AI - Наша Ніва",
       "summary": "The Ministry of Transport started monitoring road toll payments with the help of AI Наша Ніва",
@@ -931,6 +932,18 @@
       "urgent": false,
       "title_hu": "A Közlekedési Minisztérium megkezdte az útdíjfizetések ellenőrzését a mesterséges intelligencia segítségével – Наша Ніва",
       "summary_hu": "A Közlekedési Minisztérium megkezdte az útdíjak fizetésének ellenőrzését a mesterséges intelligencia segítségével Наша Ніва"
+    },
+    {
+      "id": "5aab0a573aa85d8ed435c225",
+      "title": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls - Electrek",
+      "summary": "Electric trucks hit 50% of China’s heavy truck sales, diesel demand falls Electrek",
+      "country": "Hollandia",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDR0cjlLQTIyNUpYNzVSd0dSLTFsdVFoNHRROWNhUDlBTllPc19OSHREc2NnMW93MmQzQ21GX0IwWFJMMGFmaXFpbWU3Nm9qb3Nad29rNmw0T3hPUjlmTGlrZG9rWU5yejRtMjBkWGJXVjZYcGdGWFlXVlkyQmNFOGRvVHhVYWZlMGpDc1NwaURTWWVvRlBJWHVRMUw?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az elektromos teherautók Kína nehézteherautó-értékesítésének 50%-át teszik ki, a dízel iránti kereslet csökken – Electrek"
     },
     {
       "id": "9233178b2cab60a10d83d2e8",
@@ -1047,7 +1060,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T16:57:58.072298+00:00",
+  "updated_at": "2026-11-14T17:52:30.843596+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
