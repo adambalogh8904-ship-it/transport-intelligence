@@ -8,7 +8,7 @@
       "category": "Üzemanyag",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:17:02+00:00",
+      "published": "2026-11-13T21:23:17+00:00",
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
@@ -510,6 +510,18 @@
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
     },
     {
+      "id": "728566a57895ad9cbcfd4970",
+      "title": "Germany to close A4 for three weeks to install truck detection barriers - trafficban.com",
+      "summary": "Germany to close A4 for three weeks to install truck detection barriers trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVGY3NjNMQzdxY1JUT0FRVWVNLVlTUjBKdXV6azM5WHZ6bDItdTgyMXVLMWF6SUNoMzJzSnVaNHQ0ZnJ3aFBGT0dCT2hfQQ?oc=5",
+      "published": "2026-11-09T17:07:46+00:00",
+      "urgent": false,
+      "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
+    },
+    {
       "id": "2fd70484447707c21a806ec3",
       "title": "How 5G is Driving the Future of Smart Railways and Freight Transport - Trending Now Infrastructure",
       "summary": "How 5G is Driving the Future of Smart Railways and Freight Transport Trending Now Infrastructure",
@@ -748,6 +760,19 @@
       "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
     },
     {
+      "id": "e5c92c93debc6b62f93cea57",
+      "title": "Powered to the Festival Tents: eActros 600 delivers beer to Germany’s two largest folk festivals - Daimler Truck",
+      "summary": "Powered to the Festival Tents: eActros 600 delivers beer to Germany’s two largest folk festivals Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWElZTVhWSjJPTFRnRXRZWFZCdHc3X0I4bDEtU2F1X1dWcW5odzI2Y1JQbEhqbWRxUWRVSDJpMFo5dUJOVTVwMmhxM3JqZGlPT3doUkZaTFNNd2tOdXRmOG5kNTZ3elFTaGo0Unp3cmZpa2cydWVLOWp6SzVxa2JYQk9Ic2MtaXcyblJ3bFQ1Y2VyZi1WZVNsbzZCMTBuamZpT0h5Nnh3Mzk3MnY4Q3c1ZHNsa3FuUXRXaVY4SVg3QXlJZEhCVUZncl84dVVhNGJ3M0JKWlZZeU5MaS1pcFNuOHM0T3IwX0hQQnFfT3FB?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Árammal a fesztiválsátrakba: az eActros 600 sört szállít Németország két legnagyobb népünnepélyére – Daimler Truck",
+      "summary_hu": "Árammal a fesztiválsátrakba: az eActros 600 sört szállít Németország két legnagyobb népünnepélyére Daimler Truck"
+    },
+    {
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
@@ -948,7 +973,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T04:13:00.304242+00:00",
+  "updated_at": "2026-11-14T05:12:19.451590+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
