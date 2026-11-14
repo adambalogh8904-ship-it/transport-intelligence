@@ -204,7 +204,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -736,6 +736,19 @@
       "summary_hu": "Jelentős sorok alakultak ki a moldovai–román határon: a járművezetőknek azt tanácsolják, hogy előre vásárolják meg az útdíjmatricát Судово-юридична газета"
     },
     {
+      "id": "0f5f8d6901973dc84f749d7c",
+      "title": "Parliament takes decisive step towards pragmatic EU vehicle decarbonisation - IRU | World Road Transport Organisation",
+      "summary": "Parliament takes decisive step towards pragmatic EU vehicle decarbonisation IRU | World Road Transport Organisation",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlFlaFQ5bllYV096OVQ1WF9tZS1YT29ORWJPRDhBZXBwYTZsWnJ1ZjQwSkNrUjc1SUtUMklENFhrUy1IZThlMzk4YzkycFVLR0hrQjM0dm1IQjZzbDMwdU8xOUdnaTFfaFVLdFpjeTN6ZDloYWtwVDd0LUJzT0gzVVh3MGJnTGFhdktfOW1VMGhvNjhUbnBvTGZ2dnY1V2R0NGFnZXY2eUFtRkYtSUQ1cV8tMjgtbVNmeW0w?oc=5",
+      "published": "2026-11-04T15:45:58+00:00",
+      "urgent": false,
+      "title_hu": "A Parlament döntő lépést tett az EU járműveinek pragmatikus dekarbonizációja felé – IRU | Nemzetközi Közúti Szállítmányozási Szervezet",
+      "summary_hu": "A Parlament döntő lépést tett az EU járműveinek pragmatikus dekarbonizációja felé IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
+    },
+    {
       "id": "49054c5702cae5f9034b98f9",
       "title": "Snow near Ivanjica and a truck ban on the Kopaonik road - srpske.rs",
       "summary": "Snow near Ivanjica and a truck ban on the Kopaonik road srpske.rs",
@@ -973,7 +986,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T06:06:22.579825+00:00",
+  "updated_at": "2026-11-14T07:26:59.575413+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
