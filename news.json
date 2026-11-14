@@ -4,9 +4,9 @@
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Szerbia",
+      "country": "Montenegró",
       "category": "Útlezárás",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
       "published": "2026-11-14T12:00:00+00:00",
       "urgent": false,
@@ -363,9 +363,9 @@
       "id": "3e53532a8179198cf07f7e61",
       "title": "MEPs back funding boost for EU transport, energy and military mobility - IRU | World Road Transport Organisation",
       "summary": "MEPs back funding boost for EU transport, energy and military mobility IRU | World Road Transport Organisation",
-      "country": "Spanyolország",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzhlYnVaMFN5QmZjMnN2R3k2dERlUGo5QXZtbVlwNHhaTHJMUm8xT1JXZFZ6djJtM2VJRkpGVXlLdEhOVExxUmpoajZRa1B6bEpmNkVpeGVzdGtodEtPdHhzOTBQZ2g2VDlnVzctM3kyalhHVUpGN2dlQmhITUFxWXRJWGdNdzZfSGRxMEhSZU1wcFQ5VnhBVGR0TEVCLXRDMlZJRUQyc1d0ZVM3U0E?oc=5",
       "published": "2026-11-11T08:55:35+00:00",
       "urgent": false,
@@ -847,18 +847,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "6c3d2d673f800738babe0c2e",
-      "title": "Transport truck spill sends one person to hospital - CTV News",
-      "summary": "Transport truck spill sends one person to hospital CTV News",
-      "country": "Csehország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
-    },
-    {
       "id": "3c90f61f5df8f91452e81f06",
       "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
       "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
@@ -869,6 +857,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
+    },
+    {
+      "id": "6c3d2d673f800738babe0c2e",
+      "title": "Transport truck spill sends one person to hospital - CTV News",
+      "summary": "Transport truck spill sends one person to hospital CTV News",
+      "country": "Csehország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
     },
     {
       "id": "41a3ab6178f61619f6d3cdad",
@@ -1034,7 +1034,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T14:07:35.045109+00:00",
+  "updated_at": "2026-11-14T14:58:23.974196+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
