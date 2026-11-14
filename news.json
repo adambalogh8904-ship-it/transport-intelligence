@@ -760,6 +760,19 @@
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
     },
     {
+      "id": "7c20c1b0b29132840c4d8e17",
+      "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
+      "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
+      "country": "Franciaország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
+      "published": "2026-11-04T20:07:27+00:00",
+      "urgent": false,
+      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
+      "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
+    },
+    {
       "id": "72bef13f4e607a4fce2092f5",
       "title": "Holyhead customs shake-up planned for 2027 - HGV Ireland",
       "summary": "Holyhead customs shake-up planned for 2027 HGV Ireland",
@@ -822,19 +835,6 @@
       "title_hu": "Hóesés Ivanjica közelében és teherautó-forgalmi korlátozás a Kopaonik felé vezető úton – srpske.rs"
     },
     {
-      "id": "7c20c1b0b29132840c4d8e17",
-      "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
-      "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
-      "country": "Franciaország",
-      "category": "Útlezárás",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
-      "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
-    },
-    {
       "id": "adf7c379e66f3cc72824d3bc",
       "title": "Lithuania turns back truck with radioactive mushrooms from Belarus - Belsat",
       "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
@@ -873,18 +873,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "6c3d2d673f800738babe0c2e",
-      "title": "Transport truck spill sends one person to hospital - CTV News",
-      "summary": "Transport truck spill sends one person to hospital CTV News",
-      "country": "Csehország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
-    },
-    {
       "id": "3c90f61f5df8f91452e81f06",
       "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
       "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
@@ -907,6 +895,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
+    },
+    {
+      "id": "6c3d2d673f800738babe0c2e",
+      "title": "Transport truck spill sends one person to hospital - CTV News",
+      "summary": "Transport truck spill sends one person to hospital CTV News",
+      "country": "Csehország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjhfSW1XaE0ybFY2RXZmM0YxenRBYWdNZTJ5d25KNWg3dUxlZTRWVzRtNExHaFM2UERSd3RGR1lYYWxadXA5cGdLRjZmNUtveEkwVHZ4MDRPRGZHRU5QR21NUEpxTkpiX2lKMmNDZXl3X1c1ZVZUb0RBcXdJdmg2MVBWVVQzRUpOSlViLVBuVmpRRms?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
     },
     {
       "id": "4fbc39e36fdeeb8ad899b08c",
@@ -1060,7 +1060,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T22:54:39.320865+00:00",
+  "updated_at": "2026-11-14T23:52:47.569946+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
