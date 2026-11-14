@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a0d32ba19936fc83d182c4d1",
+      "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
+      "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
+      "country": "Szerbia",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
+      "published": "2026-11-14T12:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
+    },
+    {
+      "id": "7b6c7e582db51543a60c194d",
+      "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
+      "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
+      "published": "2026-11-14T03:32:43+00:00",
+      "urgent": false,
+      "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
+    },
+    {
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
@@ -8,7 +32,7 @@
       "category": "Üzemanyag",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:17:02+00:00",
+      "published": "2026-11-13T21:23:17+00:00",
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
@@ -823,18 +847,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
-    },
-    {
       "id": "6c3d2d673f800738babe0c2e",
       "title": "Transport truck spill sends one person to hospital - CTV News",
       "summary": "Transport truck spill sends one person to hospital CTV News",
@@ -845,6 +857,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
+    },
+    {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
       "id": "41a3ab6178f61619f6d3cdad",
@@ -1010,7 +1034,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T11:56:19.430676+00:00",
+  "updated_at": "2026-11-14T14:07:35.045109+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
