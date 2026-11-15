@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "39c663fef255c1613fc52acf",
+      "title": "Update on major Essex road closure as drivers face 40-minute diversion - Maldon & Burnham Standard",
+      "summary": "Update on major Essex road closure as drivers face 40-minute diversion Maldon & Burnham Standard",
+      "country": "Ciprus",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaElZblppN19Nb3duNFAtZEkzOVVueFpFem0xSGwxUFl6OVZqc21BNWZaUVQ4VFd6UXdsODZUX3hUNTRSWHQ1MDFGWmtlYnpONG9sTnEyRWNsUENiUmt4MVZhTWQ1UTRsYnk2MGExZXFjWDA1d2JQdFNHbWFuazk1SHJpM0ZNcFQ3a1FyRDZWN2p3aDNUV2lDMWd5UF9hVllWNHc?oc=5",
+      "published": "2026-11-15T17:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Friss információk az Essexben található főút lezárásáról, mivel a sofőröknek 40 perces kerülővel kell számolniuk – Maldon & Burnham Standard",
+      "summary_hu": "Friss információk az Essexben található főút lezárásáról, mivel a járművezetőknek 40 perces kerülővel kell számolniuk Maldon & Burnham Standard"
+    },
+    {
       "id": "bb717c95806bf1462fd224c7",
       "title": "Update on major Essex road closure as drivers face 40-minute diversion - Thurrock Gazette",
       "summary": "Update on major Essex road closure as drivers face 40-minute diversion Thurrock Gazette",
@@ -24,6 +37,18 @@
       "urgent": false,
       "title_hu": "Az elektromos fagylaltos autó naponta több mint 160 kilométert tesz meg, akár 12 órás műszakokban – The Cool Down",
       "summary_hu": "Az elektromos fagylaltos autó naponta több mint 160 kilométert tesz meg, akár 12 órás műszakokban The Cool Down"
+    },
+    {
+      "id": "7b6c7e582db51543a60c194d",
+      "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
+      "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
+      "published": "2026-11-15T10:03:28+00:00",
+      "urgent": false,
+      "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
     },
     {
       "id": "8cc0c86c4f2d044a1970fe0c",
@@ -77,24 +102,12 @@
       "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
     {
-      "id": "7b6c7e582db51543a60c194d",
-      "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
-      "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
-      "published": "2026-11-14T04:52:00+00:00",
-      "urgent": false,
-      "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
-    },
-    {
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Svédország",
+      "country": "Németország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
       "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
@@ -439,9 +452,9 @@
       "id": "3e53532a8179198cf07f7e61",
       "title": "MEPs back funding boost for EU transport, energy and military mobility - IRU | World Road Transport Organisation",
       "summary": "MEPs back funding boost for EU transport, energy and military mobility IRU | World Road Transport Organisation",
-      "country": "Spanyolország",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzhlYnVaMFN5QmZjMnN2R3k2dERlUGo5QXZtbVlwNHhaTHJMUm8xT1JXZFZ6djJtM2VJRkpGVXlLdEhOVExxUmpoajZRa1B6bEpmNkVpeGVzdGtodEtPdHhzOTBQZ2g2VDlnVzctM3kyalhHVUpGN2dlQmhITUFxWXRJWGdNdzZfSGRxMEhSZU1wcFQ5VnhBVGR0TEVCLXRDMlZJRUQyc1d0ZVM3U0E?oc=5",
       "published": "2026-11-11T08:55:35+00:00",
       "urgent": false,
@@ -607,6 +620,18 @@
       "published": "2026-11-10T10:12:18+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
+      "id": "b55b311358842ca2e8107488",
+      "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
+      "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
+      "country": "Görögország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUWNFLUo3U2dIQjktYkJZSXdKdUhhdFFXM0p4VEpCQ3dxMlBkUTdrYW1GM1k5U19kNk5uWmt3S2tnY1BPcUhSZnBWdzRxVXEzcWd3YkJGNkw1MjJhQ1cxd3JOVVhRZXpqX2RBVlRGZW5pOVdYTFNYV01B?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
       "id": "e71685212d3d3978df4514c6",
@@ -936,18 +961,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "41a3ab6178f61619f6d3cdad",
-      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
-      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
-      "country": "Magyarország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
-    },
-    {
       "id": "3c90f61f5df8f91452e81f06",
       "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
       "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
@@ -958,6 +971,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
+    },
+    {
+      "id": "41a3ab6178f61619f6d3cdad",
+      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
+      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
+      "country": "Magyarország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
     },
     {
       "id": "6c3d2d673f800738babe0c2e",
@@ -1135,7 +1160,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T22:56:12.892394+00:00",
+  "updated_at": "2026-11-15T23:59:31.420323+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
