@@ -14,18 +14,6 @@
       "summary_hu": "A SISU teherautó hidrogénnel és elektromos árammal működik – a feltölthető akkumulátoros-üzemanyagcellás hibrid megoldást kínál a kibocsátásmentes nehézgépjármű-szállítás kihívásaira Hydrogen Central"
     },
     {
-      "id": "a0d32ba19936fc83d182c4d1",
-      "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
-      "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Szerbia",
-      "category": "Útlezárás",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
-      "published": "2026-11-14T12:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
-    },
-    {
       "id": "7b6c7e582db51543a60c194d",
       "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
       "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
@@ -33,9 +21,21 @@
       "category": "Egyéb",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
-      "published": "2026-11-14T09:50:10+00:00",
+      "published": "2026-11-14T15:06:59+00:00",
       "urgent": false,
       "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
+    },
+    {
+      "id": "a0d32ba19936fc83d182c4d1",
+      "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
+      "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
+      "country": "Montenegró",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
+      "published": "2026-11-14T12:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
     {
       "id": "ec612d4c3ef358c641f4a53d",
@@ -649,6 +649,19 @@
       "summary_hu": "Bejelentették a 2027-es magyarországi autópálya-matricák árait: az éves matricák drágábbak lesznek Daily News Hungary"
     },
     {
+      "id": "de59bffa77348ada9d158da3",
+      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
+      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
+      "country": "Románia",
+      "category": "Határ",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
+      "published": "2026-11-06T12:56:20+00:00",
+      "urgent": false,
+      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
+      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
+    },
+    {
       "id": "c2e8325469361a8f8ce8c3a5",
       "title": "Moldova and Romania Take Steps to Cut Truck Queues at Border - logos-pres.md",
       "summary": "Moldova and Romania Take Steps to Cut Truck Queues at Border logos-pres.md",
@@ -671,19 +684,6 @@
       "published": "2026-11-06T08:47:33+00:00",
       "urgent": false,
       "title_hu": "CAREC Intézet 6. éves kutatási konferenciája – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
-    },
-    {
-      "id": "de59bffa77348ada9d158da3",
-      "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
-      "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
-      "country": "Románia",
-      "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1VpanptcDQ0em5sU0lRWXlSUTV3ZEp4c1Bza0t5Mm43T1ROSjhWTzJ1ODJnUjFNQ0IxZi1icmZHVjFGYUlmb3ZtSkhXbFB2MnVZSmNYbGdBeE5rcVRFUVhRdkw4eUlDX3Jtb29Ec0ctMkc3UF9sT1IySnMxMzBqRGVsVTYwZElJb3Y4NXBrTThsNjY5NTZacmVXLUJQLWJ6QkZBblNUZm9SV3hKbUp5WndOeUhRYm1oU0JzZWZn?oc=5",
-      "published": "2026-11-06T07:28:34+00:00",
-      "urgent": false,
-      "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
-      "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
     },
     {
       "id": "3f22678fde1e2d09dfc17db5",
@@ -760,19 +760,6 @@
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
     },
     {
-      "id": "7c20c1b0b29132840c4d8e17",
-      "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
-      "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
-      "country": "Franciaország",
-      "category": "Útlezárás",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
-      "published": "2026-11-04T20:07:27+00:00",
-      "urgent": false,
-      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
-      "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
-    },
-    {
       "id": "72bef13f4e607a4fce2092f5",
       "title": "Holyhead customs shake-up planned for 2027 - HGV Ireland",
       "summary": "Holyhead customs shake-up planned for 2027 HGV Ireland",
@@ -833,6 +820,19 @@
       "published": "2026-11-04T08:30:00+00:00",
       "urgent": false,
       "title_hu": "Hóesés Ivanjica közelében és teherautó-forgalmi korlátozás a Kopaonik felé vezető úton – srpske.rs"
+    },
+    {
+      "id": "7c20c1b0b29132840c4d8e17",
+      "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
+      "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
+      "country": "Franciaország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNaOWlvQllOZFdENVlJbm5tUzB0d1JnRWFUVEsxdUd4MUs1WHRXcmFMakJLR1B1aDFaT3VLZlY3WGV6ZlNvbUgteEVaaFJPUnV4Qk9nTDNDUlVDNnFlZTVIUW1GNk92Wk9nUUdjdDlqYWRoNEczYTBobVlJM2lCNzBxTnlaVUZUc2tJcTc2T1o?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
+      "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
     },
     {
       "id": "adf7c379e66f3cc72824d3bc",
@@ -907,6 +907,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Teherautóból kiömlött anyag miatt egy embert kórházba kellett szállítani – CTV News"
+    },
+    {
+      "id": "6d38b049d97fb293284180fd",
+      "title": "Truck manufacturers seek a Euro 7 delay - HGV Ireland",
+      "summary": "Truck manufacturers seek a Euro 7 delay HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzeFNKWE11QmFOVElLd1ZON3BWMmlkTmkyOW5TR2tQQjJ2VUpDYkI2cTNBRzdlamRmQzZIUl80Y2dpQUFWN2ZXeE85WDVnQ1kyQUxUM1FOUU9YWkw0bEpYZkYtODJMRVJUSHp6Z0x5MFJ3Y25Uemc?oc=5",
+      "published": "2026-11-02T11:02:58+00:00",
+      "urgent": false,
+      "title_hu": "A tehergépjármű-gyártók az Euro 7 bevezetésének késleltetését szeretnék elérni – HGV Ireland"
     },
     {
       "id": "4fbc39e36fdeeb8ad899b08c",
@@ -1060,7 +1072,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-14T23:52:47.569946+00:00",
+  "updated_at": "2026-11-15T01:30:06.017590+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
