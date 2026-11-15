@@ -911,18 +911,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "41a3ab6178f61619f6d3cdad",
-      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
-      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
-      "country": "Magyarország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
-    },
-    {
       "id": "3c90f61f5df8f91452e81f06",
       "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
       "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
@@ -933,6 +921,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
+    },
+    {
+      "id": "41a3ab6178f61619f6d3cdad",
+      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
+      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
+      "country": "Magyarország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
     },
     {
       "id": "6c3d2d673f800738babe0c2e",
@@ -1110,7 +1110,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T19:57:38.948565+00:00",
+  "updated_at": "2026-11-15T20:56:53.202793+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
