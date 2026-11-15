@@ -40,6 +40,19 @@
       "summary_hu": "A SISU teherautó hidrogénnel és elektromos árammal működik – a feltölthető akkumulátoros-üzemanyagcellás hibrid megoldást kínál a kibocsátásmentes nehézgépjármű-szállítás kihívásaira Hydrogen Central"
     },
     {
+      "id": "f2b71d04ce850ef3e669af9b",
+      "title": "Romsey Road closure in Winchester diverts buses and leaves hospital stops unserved - Hampshire Chronicle",
+      "summary": "Romsey Road closure in Winchester diverts buses and leaves hospital stops unserved Hampshire Chronicle",
+      "country": "Spanyolország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2hGU1ktWWctTHpYVGoyajFwdEdWNlg1RU5FTnQ1aUQ2dHMzNHZHbk9FRnNwNFYxU2p0clBWZG8tWVlBYldQbmFjSm1nVDBtNXNoT05CeFl3Mm1Dc1dDYm03eURiOGRRY0V4VW5aX0RuY2NseEpYRGZfY1NIWjdwa3V2SURVZzVnSGRwVmZpc2UyR19iSUdJbFRyUHVGd3NaWjlJZWZrTEJaSWRp?oc=5",
+      "published": "2026-11-14T14:32:03+00:00",
+      "urgent": false,
+      "title_hu": "A Romsey Road lezárása Winchesterben: a buszok útvonala megváltozik, és a kórház megállóit nem szolgálják ki – Hampshire Chronicle",
+      "summary_hu": "A Romsey Road lezárása Winchesterben buszterelést eredményez, és a kórház megállóit nem szolgálják ki – Hampshire Chronicle"
+    },
+    {
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
@@ -911,18 +924,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
-    },
-    {
       "id": "41a3ab6178f61619f6d3cdad",
       "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
       "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
@@ -933,6 +934,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
+    },
+    {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
       "id": "6c3d2d673f800738babe0c2e",
@@ -1110,7 +1123,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T20:56:53.202793+00:00",
+  "updated_at": "2026-11-15T21:56:22.056797+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
