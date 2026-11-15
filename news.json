@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "8cc0c86c4f2d044a1970fe0c",
+      "title": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "country": "Bulgária",
+      "category": "Határ",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
+      "published": "2026-11-15T06:47:00+00:00",
+      "urgent": false,
+      "title_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "Nagy tehergépjármű-forgalom a kapitan andreevói határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+    },
+    {
       "id": "2b9093aa5c4500e2b7865320",
       "title": "SISU truck runs on hydrogen and electricity - the chargeable battery-fuel cell hybrid answers the challenges of emission-free heavy-duty transport - Hydrogen Central",
       "summary": "SISU truck runs on hydrogen and electricity - the chargeable battery-fuel cell hybrid answers the challenges of emission-free heavy-duty transport Hydrogen Central",
@@ -1072,7 +1085,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T07:29:55.706254+00:00",
+  "updated_at": "2026-11-15T09:06:31.858891+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
