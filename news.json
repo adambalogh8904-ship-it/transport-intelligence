@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bb717c95806bf1462fd224c7",
+      "title": "Update on major Essex road closure as drivers face 40-minute diversion - Thurrock Gazette",
+      "summary": "Update on major Essex road closure as drivers face 40-minute diversion Thurrock Gazette",
+      "country": "Ciprus",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRE92NE1kSG4xX3l1ZFZIV0ZIejRZUVJreWZGZk9nU0lpUjdDOGFOSVprbVNDZUkxN1NiS1oyUXBEMGdrR3RKN0syY3V0NW81RHQ5bXByNlpZZG9QWThKZ2x4eFRDYUxlUE11NFRjWS10amdvYzJGZlAxMGV0TUd5bnJnNE1HV05tem1xR2tNNXVLYUdWTXc?oc=5",
+      "published": "2026-11-15T17:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Friss információk az Essexben található főút lezárásáról, mivel a járművezetőknek 40 perces kerülővel kell számolniuk – Thurrock Gazette"
+    },
+    {
       "id": "f6f220f527d31e2e13fa2d81",
       "title": "Electric ice cream truck covers 100-plus miles a day, with shifts lasting up to 12 hours - The Cool Down",
       "summary": "Electric ice cream truck covers 100-plus miles a day, with shifts lasting up to 12 hours The Cool Down",
@@ -80,9 +92,9 @@
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Németország",
+      "country": "Svédország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
       "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
@@ -427,9 +439,9 @@
       "id": "3e53532a8179198cf07f7e61",
       "title": "MEPs back funding boost for EU transport, energy and military mobility - IRU | World Road Transport Organisation",
       "summary": "MEPs back funding boost for EU transport, energy and military mobility IRU | World Road Transport Organisation",
-      "country": "Németország",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzhlYnVaMFN5QmZjMnN2R3k2dERlUGo5QXZtbVlwNHhaTHJMUm8xT1JXZFZ6djJtM2VJRkpGVXlLdEhOVExxUmpoajZRa1B6bEpmNkVpeGVzdGtodEtPdHhzOTBQZ2g2VDlnVzctM3kyalhHVUpGN2dlQmhITUFxWXRJWGdNdzZfSGRxMEhSZU1wcFQ5VnhBVGR0TEVCLXRDMlZJRUQyc1d0ZVM3U0E?oc=5",
       "published": "2026-11-11T08:55:35+00:00",
       "urgent": false,
@@ -1123,7 +1135,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T21:56:22.056797+00:00",
+  "updated_at": "2026-11-15T22:56:12.892394+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
