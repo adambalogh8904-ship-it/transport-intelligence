@@ -14,18 +14,6 @@
       "summary_hu": "A SISU teherautó hidrogénnel és elektromos árammal működik – a feltölthető akkumulátoros-üzemanyagcellás hibrid megoldást kínál a kibocsátásmentes nehézgépjármű-szállítás kihívásaira Hydrogen Central"
     },
     {
-      "id": "7b6c7e582db51543a60c194d",
-      "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
-      "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
-      "published": "2026-11-14T15:06:59+00:00",
-      "urgent": false,
-      "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
-    },
-    {
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
@@ -38,12 +26,24 @@
       "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
     {
+      "id": "7b6c7e582db51543a60c194d",
+      "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck - InsideEVs",
+      "summary": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck InsideEVs",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Cb01ORjVkUHFCOE4xYjhIOTdINlJRTjBwNG05dVFFQ1cyWFhONTc0RjVUeWh1VTNzY0RnSFlTWnF6TlpiREdZcVRjRXZ6VkNsWHZoUUM5aW9ZSFFJWmREMnNWbmVEdHFKUFRsdzMwZ3NNVE5oZEoxSkVn?oc=5",
+      "published": "2026-11-14T04:52:00+00:00",
+      "urgent": false,
+      "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
+    },
+    {
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Németország",
+      "country": "Svédország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
       "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
@@ -1072,7 +1072,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T05:16:53.227317+00:00",
+  "updated_at": "2026-11-15T06:13:37.234325+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
