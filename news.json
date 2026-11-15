@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "f6f220f527d31e2e13fa2d81",
+      "title": "Electric ice cream truck covers 100-plus miles a day, with shifts lasting up to 12 hours - The Cool Down",
+      "summary": "Electric ice cream truck covers 100-plus miles a day, with shifts lasting up to 12 hours The Cool Down",
+      "country": "Egyesült Királyság",
+      "category": "Egyéb",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFZUlRTEFBTlZRSlkzRmdXemtJeEpQZ0o2RUpVWjkyV3hNcW9RaGxfOXo3clpndERoYV9HRFB1d0t0MzBNeXI4X0FWXzlGS0UxaU1TeUQwMTNuekt0RlZfU0FvWTkxbXJlS3pIN2YxNFJjVmxTU29zRXpqZG90QQ?oc=5",
+      "published": "2026-11-15T13:40:00+00:00",
+      "urgent": false,
+      "title_hu": "Az elektromos fagylaltos autó naponta több mint 160 kilométert tesz meg, akár 12 órás műszakokban – The Cool Down",
+      "summary_hu": "Az elektromos fagylaltos autó naponta több mint 160 kilométert tesz meg, akár 12 órás műszakokban The Cool Down"
+    },
+    {
       "id": "8cc0c86c4f2d044a1970fe0c",
       "title": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
@@ -1085,7 +1098,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T13:17:02.673543+00:00",
+  "updated_at": "2026-11-15T14:10:31.751509+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
