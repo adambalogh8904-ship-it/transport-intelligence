@@ -4,9 +4,9 @@
       "id": "39c663fef255c1613fc52acf",
       "title": "Update on major Essex road closure as drivers face 40-minute diversion - Maldon & Burnham Standard",
       "summary": "Update on major Essex road closure as drivers face 40-minute diversion Maldon & Burnham Standard",
-      "country": "Spanyolország",
+      "country": "Ciprus",
       "category": "Útlezárás",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaElZblppN19Nb3duNFAtZEkzOVVueFpFem0xSGwxUFl6OVZqc21BNWZaUVQ4VFd6UXdsODZUX3hUNTRSWHQ1MDFGWmtlYnpONG9sTnEyRWNsUENiUmt4MVZhTWQ1UTRsYnk2MGExZXFjWDA1d2JQdFNHbWFuazk1SHJpM0ZNcFQ3a1FyRDZWN2p3aDNUV2lDMWd5UF9hVllWNHc?oc=5",
       "published": "2026-11-15T17:00:00+00:00",
       "urgent": false,
@@ -62,6 +62,18 @@
       "published": "2026-11-15T10:03:28+00:00",
       "urgent": false,
       "title_hu": "Ez az új, minden az egyben hatótávnövelő bármilyen elektromos teherautóba beépíthető – InsideEVs"
+    },
+    {
+      "id": "b249fa380371a93ee1bcb914",
+      "title": "European truck checks begin Monday: Irish hauliers urged to prepare - HGV Ireland",
+      "summary": "European truck checks begin Monday: Irish hauliers urged to prepare HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdjVzel9UMlhzT2dya2hVTDFVaHZ3eG82ZHNXS1A4dmJZbDFnRmZBQ1V2ODdVajFqSFRYS3o1QmdRd3kzU0JfYWhQTjB0ZDJpRVlmcnkwZnZpazludjlNVFhhcU9oRGlkUXo2NGJma3FnWGdZTzFnMTFxTE9lWF9JMmx2dl92WmpVNTFEYXBmSFRxYm9sMFl3cXZn?oc=5",
+      "published": "2026-11-15T08:22:39+00:00",
+      "urgent": false,
+      "title_hu": "Hétfőn kezdődnek az európai teherautó-ellenőrzések: az ír fuvarozókat felkészülésre szólítják fel – HGV Ireland"
     },
     {
       "id": "12ab45f2e9719053c8728a02",
@@ -463,6 +475,18 @@
       "summary_hu": "A Trakia-autópályán történt balesetek után az útügyi hatóságnak, a rendőrségnek és az útdíjszedő szervezetnek 7 napja van, hogy megállapodjanak a közös szabályokról – BurgasMedia"
     },
     {
+      "id": "d52ea408608535cf16f7103e",
+      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
+      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
+      "published": "2026-11-11T16:04:00+00:00",
+      "urgent": false,
+      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+    },
+    {
       "id": "241cfac8182bfb1c60fcd1ca",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -485,18 +509,6 @@
       "published": "2026-11-11T16:04:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Yahoo Finance"
-    },
-    {
-      "id": "d52ea408608535cf16f7103e",
-      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
-      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
-      "country": "Oroszország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
-      "published": "2026-11-11T16:04:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
     },
     {
       "id": "789fd61ea464084d9db6cdcf",
@@ -1014,9 +1026,9 @@
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
-      "country": "Belgium",
+      "country": "Olaszország",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
@@ -1223,7 +1235,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-16T12:36:33.864155+00:00",
+  "updated_at": "2026-11-16T15:55:08.748710+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
