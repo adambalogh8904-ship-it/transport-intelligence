@@ -202,6 +202,19 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
+      "id": "d5ac6724eaa2ffef430a04b7",
+      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
+      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
+      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
+    },
+    {
       "id": "c1144e788dd27bca57df891a",
       "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
       "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
@@ -961,18 +974,6 @@
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
     },
     {
-      "id": "3c90f61f5df8f91452e81f06",
-      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
-      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
-      "country": "Észtország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
-    },
-    {
       "id": "41a3ab6178f61619f6d3cdad",
       "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
       "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
@@ -983,6 +984,18 @@
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
+    },
+    {
+      "id": "3c90f61f5df8f91452e81f06",
+      "title": "Moldova gets 50 additional permits for passenger road transport in Estonia - Moldpres",
+      "summary": "Moldova gets 50 additional permits for passenger road transport in Estonia Moldpres",
+      "country": "Észtország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXVJUm9yT0E2M3BJX2N3dzBQb2tFQUJWcDNRdnVGWnBGeFNia1dfX1RYZi0xTHNpdHhWWk1ObHFCWHZjZUdIUGNfUVIxMEVjdmljQmkxV0dDZUktY2hEVW5EUkMyem9vR0F4RUdIdXE0XzlHQ3dUWk0zQ19YRFFKM2NtSjhrZHlTdnZNMDFISkd3WTcwcmd5T3pwYjJlLS03WkM3cHRPYjlsQnI3QUVmTlIwV1ZvZkNYUFo2NkdVRQ?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Moldova 50 további engedélyt kap a közúti személyszállításra Észtországban – Moldpres"
     },
     {
       "id": "6c3d2d673f800738babe0c2e",
@@ -1160,7 +1173,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-15T23:59:31.420323+00:00",
+  "updated_at": "2026-11-16T01:47:32.648455+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
