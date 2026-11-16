@@ -76,19 +76,6 @@
       "title_hu": "Hétfőn kezdődnek az európai teherautó-ellenőrzések: az ír fuvarozókat felkészülésre szólítják fel – HGV Ireland"
     },
     {
-      "id": "12ab45f2e9719053c8728a02",
-      "title": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
-      "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
-      "country": "Bulgária",
-      "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0tlTUVVN3RrTTRYek12SDF0RkJIQmR6NTg4bi1kRXBSTk9pZ3dtUGRKeUxUUFhTZFJsLWFxQmpuMnlzbFAtM0JLLWVYMlNYenlzdkpGanpuTmQzWlQ5bGt3SzlJX0dQMnNXTDlndjNIbUtQV3p6SldjbEZEMWVGWlBfVTNwbENHcmNxbXdQYTdHT05DM0NwZkFRZ1g?oc=5",
-      "published": "2026-11-15T06:47:00+00:00",
-      "urgent": false,
-      "title_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
-      "summary_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
-    },
-    {
       "id": "8cc0c86c4f2d044a1970fe0c",
       "title": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
@@ -100,6 +87,19 @@
       "urgent": false,
       "title_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
       "summary_hu": "Nagy tehergépjármű-forgalom a kapitan andreevói határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+    },
+    {
+      "id": "12ab45f2e9719053c8728a02",
+      "title": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "country": "Bulgária",
+      "category": "Határ",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0tlTUVVN3RrTTRYek12SDF0RkJIQmR6NTg4bi1kRXBSTk9pZ3dtUGRKeUxUUFhTZFJsLWFxQmpuMnlzbFAtM0JLLWVYMlNYenlzdkpGanpuTmQzWlQ5bGt3SzlJX0dQMnNXTDlndjNIbUtQV3p6SldjbEZEMWVGWlBfVTNwbENHcmNxbXdQYTdHT05DM0NwZkFRZ1g?oc=5",
+      "published": "2026-11-15T06:47:00+00:00",
+      "urgent": false,
+      "title_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
     },
     {
       "id": "2b9093aa5c4500e2b7865320",
@@ -1026,9 +1026,9 @@
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
-      "country": "Olaszország",
+      "country": "Belgium",
       "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE0V1p5UWMwdHhKZndoTzdfSWZLQWplT1EtWkRvRmhkREtHUG1mdGpRVnQtYThfOWJhRWpESE9KbU5Iakt5ZGZiRWFjMzhBOVpyTXBVeWN3RFc3eGRBdngtRVBVek1PcEFHWFExRWVOSzZDVUd4OVEyVl9LX0gxN1IwOHppMWViNXc?oc=5",
       "published": "2026-11-03T08:00:00+00:00",
       "urgent": false,
@@ -1235,7 +1235,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-16T15:55:08.748710+00:00",
+  "updated_at": "2026-11-16T17:32:08.378787+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
