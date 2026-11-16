@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6178ccc140005fd7d4ce8f7e",
+      "title": "Road Freight Transport: 2nd Quarter 2026 - Κυβερνητική Πύλη - Gov.cy",
+      "summary": "Road Freight Transport: 2nd Quarter 2026 Κυβερνητική Πύλη - Gov.cy",
+      "country": "Ciprus",
+      "category": "Egyéb",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG43dERaVXNsc0VLSlQwb0pTM0w5SEdmY3pGRUNBanp0akl5OWRPc3Bob0VOejVKTnJvODl0d0U4d1VUSEl4YkJkSWxlMURCSjRTaG9VaFM2UVJ3bjU4cWJ3N3pRYzJqQXdmYnQ0Z3dOWFFaaXNKMVA1QjU1Q01OSVlPdVdMd3VKeUE?oc=5",
+      "published": "2026-11-16T13:05:43+00:00",
+      "urgent": false,
+      "title_hu": "Közúti árufuvarozás: 2026. II. negyedév – Κυβερνητική Πύλη – Gov.cy"
+    },
+    {
       "id": "39c663fef255c1613fc52acf",
       "title": "Update on major Essex road closure as drivers face 40-minute diversion - Maldon & Burnham Standard",
       "summary": "Update on major Essex road closure as drivers face 40-minute diversion Maldon & Burnham Standard",
@@ -1235,7 +1247,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-16T17:32:08.378787+00:00",
+  "updated_at": "2026-11-16T19:20:34.842092+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
