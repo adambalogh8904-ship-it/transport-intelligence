@@ -1,16 +1,53 @@
 {
   "items": [
     {
+      "id": "640e0df1058c431bc21b10f2",
+      "title": "Night-time truck bans in Austria and on the A12 have different hours and exemptions - trafficban.com",
+      "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
+      "country": "Ausztria",
+      "category": "Egyéb",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vaXgtSVZrRzZUSWZja2tZWmc5QkJtSC1vS0w1WlpBYmpLMHFjY2wzekdrODl3QXUtamJZcDFwS0dmXzkyMVpzcWNCSmoxTkpyX3c?oc=5",
+      "published": "2026-11-17T08:29:16+00:00",
+      "urgent": false,
+      "title_hu": "Az éjszakai teherautó-forgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban vannak érvényben, és eltérő kivételek vonatkoznak rájuk – trafficban.com",
+      "summary_hu": "Az éjszakai tehergépkocsi-forgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban érvényesek, és eltérő kivételek vonatkoznak rájuk trafficban.com"
+    },
+    {
+      "id": "b4a8aa70598dd994216068ae",
+      "title": "EU truck-weight talks postponed as payload issues remain unresolved - HGV Ireland",
+      "summary": "EU truck-weight talks postponed as payload issues remain unresolved HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3Y4LUxUZE16bDBZWWlKOV9YN1BZbTdhNmEyRDF5R0hRU3BCb2NzNVlaaWxpRFIxOUdxVlVUbk4zZzZRazRDYjdkSUdDc01aYzVqb1lISDJOMDE2c3VIOFZwLURsZzdpVjRmVExaYUU3dThfX2dvUWI4OU9WelJYYTM0OGRUNGpmN3dvbUhNaG50NUhwZHZUQ1kxZw?oc=5",
+      "published": "2026-11-17T06:20:40+00:00",
+      "urgent": false,
+      "title_hu": "Elhalasztották az EU teherautó-tömegről szóló tárgyalásait, mivel a hasznos teherrel kapcsolatos kérdések továbbra sem rendeződtek – HGV Ireland"
+    },
+    {
       "id": "52fc83659b26b82103694bb8",
       "title": "Estonia's eastern border closure will stop bus and truck traffic to Russia - ERR",
       "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
       "country": "EU",
       "category": "Útlezárás",
-      "source": "Google News RSS – Lettország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
       "published": "2026-11-17T06:16:00+00:00",
       "urgent": false,
       "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
+    },
+    {
+      "id": "3e95e5059e53ed5fae2f2da9",
+      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
+      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
+      "published": "2026-11-17T06:15:26+00:00",
+      "urgent": false,
+      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -274,6 +311,19 @@
       "published": "2026-11-13T08:08:28+00:00",
       "urgent": false,
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
+    },
+    {
+      "id": "a9d0e42ce7d23602620f837c",
+      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
+      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
+      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
       "id": "d5ac6724eaa2ffef430a04b7",
@@ -612,9 +662,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
+      "country": "Egyesült Királyság",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -687,7 +737,7 @@
       "summary": "Nearly two-week road closure set to hit Strathaven for power works www.eastkilbridetoday.co.uk",
       "country": "Egyesült Királyság",
       "category": "Útlezárás",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUk3Y0FTNzI2MkpvOVdXbWtjMmxrbEQ5bUJqLXlXLVRsTzI2aEdHRzZhQjQ0amZublFLYi0xbVdPVkE0NGhGYlFZNTVveWt0cEdJR25Rdm1ZbDNDOURBaUJWQ0xlVFFZVlpDT1d2OG1rT3hsQUFwZ3hLQm14R3lMZ2tmNnNfOE9qZmJ5VnNBU0xjYVE1TVk3T0pabG4wUW4xZXh1d1ZFQ1lYaUhWdnc?oc=5",
       "published": "2026-11-10T15:27:10+00:00",
       "urgent": false,
@@ -922,6 +972,18 @@
       "title_hu": "Romániai útdíj: Fizessen előre, hogy elkerülje a késedelmeket a határon – finway.com.ua"
     },
     {
+      "id": "aa6e1b45e803ffd4584ace5c",
+      "title": "Driver lived in truck cab for seven months - Trans.INFO",
+      "summary": "Driver lived in truck cab for seven months Trans.INFO",
+      "country": "Svédország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRmQ042SGZqcXEzRFRobF9tOVNZS0lEczl5bE9UMWhyQ3hyZ3M5ZVRqeWFaV3hUdElwejEyeGhVUGV1cVVTT3VOUnJVNUZCVFpPc2lfREdrVHVjR0hOMFdSLURzbDJEVENQWTFCenZId29iWjdrVEJPVFo3Tzh0R01sV2N1dTEzbW9zOExn?oc=5",
+      "published": "2026-11-05T09:41:12+00:00",
+      "urgent": false,
+      "title_hu": "Egy sofőr hét hónapig élt a teherautója vezetőfülkéjében – Trans.INFO"
+    },
+    {
       "id": "b0abca1ba8b6ce923814114e",
       "title": "ADR 2027: What road transport operators need to know - IRU | World Road Transport Organisation",
       "summary": "ADR 2027: What road transport operators need to know IRU | World Road Transport Organisation",
@@ -1065,7 +1127,7 @@
       "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "urgent": false,
@@ -1297,33 +1359,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T07:42:25.654160+00:00",
-  "sources_ok": 11,
+  "updated_at": "2026-11-17T09:23:07.133520+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Ausztria fuvarozás",
-    "Google News RSS – Belgium fuvarozás",
-    "Google News RSS – Észtország fuvarozás",
-    "Google News RSS – Finnország fuvarozás",
-    "Google News RSS – Görögország fuvarozás",
-    "Google News RSS – Horvátország fuvarozás",
-    "Google News RSS – Írország fuvarozás",
-    "Google News RSS – Lengyelország fuvarozás",
-    "Google News RSS – Luxemburg fuvarozás",
-    "Google News RSS – Magyarország fuvarozás",
-    "Google News RSS – Málta fuvarozás",
-    "Google News RSS – Németország fuvarozás",
-    "Google News RSS – Románia fuvarozás",
-    "Google News RSS – Svédország fuvarozás",
-    "Google News RSS – Szlovákia fuvarozás",
-    "Google News RSS – Szlovénia fuvarozás",
-    "Google News RSS – Oroszország fuvarozás",
-    "Google News RSS – Fehéroroszország fuvarozás",
-    "Google News RSS – Szerbia fuvarozás",
-    "Google News RSS – Bosznia-Hercegovina fuvarozás",
-    "Google News RSS – Montenegró fuvarozás",
-    "Google News RSS – Albánia fuvarozás",
-    "Google News RSS – Egyesült Királyság fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
