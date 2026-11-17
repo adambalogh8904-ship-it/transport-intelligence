@@ -602,7 +602,7 @@
       "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
       "country": "EU",
       "category": "Útdíj",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
       "published": "2026-11-11T06:32:13+00:00",
       "urgent": false,
@@ -783,6 +783,19 @@
       "urgent": false,
       "title_hu": "Az EU követelményének megfelelően Ukrajna 2027 végéig elfogadja az útdíjas utak bevezetéséről szóló törvényt – Közlekedési Minisztérium – Ukrán Hírügynökség",
       "summary_hu": "Az EU követelményének megfelelően Ukrajna 2027 végéig elfogadja az útdíjas utak bevezetéséről szóló törvényt – Közlekedési Minisztérium Ukrajnai Hírügynökség"
+    },
+    {
+      "id": "c811354dc2a4bcfb83f63640",
+      "title": "January toll increases could cost Irish haulage fleets thousands of euro in 2027 - HGV Ireland",
+      "summary": "January toll increases could cost Irish haulage fleets thousands of euro in 2027 HGV Ireland",
+      "country": "Írország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1ZLbmYzaWR0WGRTcFRIUjZyVHcyREx6QkRQRm56U0d5MFVfTjhvaVJHbkdudUlsT01BeE5pZkZlRzdUUTBwRENPaDRqQkhZSDd6cjZmeE1BSHpvMGFxYUxkcWJ2WC1QVi1TcXM1a09CbkVibjhuRWVzclI3WGVqUmk4OVhyZXlBUDJWOXlTTzBBMFBrV2NBMkpoVmY4RDZQV19GYi1nVmRsRnEy?oc=5",
+      "published": "2026-11-08T09:34:55+00:00",
+      "urgent": false,
+      "title_hu": "Az útdíjak januári emelése 2027-ben több ezer euróba kerülhet az ír fuvarozói flottáknak – HGV Ireland",
+      "summary_hu": "Az útdíjak januári emelése több ezer euróba kerülhet az ír fuvarozói flottáknak 2027-ben HGV Ireland"
     },
     {
       "id": "5ef491b7417e26ca1108df37",
@@ -1028,7 +1041,7 @@
       "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "urgent": false,
@@ -1260,21 +1273,30 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T04:16:13.813605+00:00",
-  "sources_ok": 23,
+  "updated_at": "2026-11-17T05:21:45.995766+00:00",
+  "sources_ok": 14,
   "sources_total": 34,
   "sources_failed": [
     "Google News RSS – Ausztria fuvarozás",
     "Google News RSS – Bulgária fuvarozás",
-    "Google News RSS – Ciprus fuvarozás",
     "Google News RSS – Csehország fuvarozás",
-    "Google News RSS – Dánia fuvarozás",
+    "Google News RSS – Hollandia fuvarozás",
+    "Google News RSS – Horvátország fuvarozás",
+    "Google News RSS – Lengyelország fuvarozás",
     "Google News RSS – Lettország fuvarozás",
-    "Google News RSS – Luxemburg fuvarozás",
-    "Google News RSS – Románia fuvarozás",
+    "Google News RSS – Magyarország fuvarozás",
+    "Google News RSS – Málta fuvarozás",
+    "Google News RSS – Németország fuvarozás",
+    "Google News RSS – Olaszország fuvarozás",
+    "Google News RSS – Portugália fuvarozás",
+    "Google News RSS – Spanyolország fuvarozás",
     "Google News RSS – Svédország fuvarozás",
+    "Google News RSS – Szlovákia fuvarozás",
     "Google News RSS – Szlovénia fuvarozás",
-    "Google News RSS – Albánia fuvarozás"
+    "Google News RSS – Oroszország fuvarozás",
+    "Google News RSS – Fehéroroszország fuvarozás",
+    "Google News RSS – Bosznia-Hercegovina fuvarozás",
+    "Google News RSS – Montenegró fuvarozás"
   ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
