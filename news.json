@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "973ba4d4dbd79acc81dbc94c",
+      "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
+      "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
+      "country": "Olaszország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sR3NaZTdMczlHOE5JbTBnX0NnNW8tMjM3cXNGTFBnLVEwcnpkUXdEUUVhOU03aTRNOFFJdk9DSDR2Ylo5UHZPdG9SVlg3cXdhdmc?oc=5",
+      "published": "2026-11-17T11:54:07+00:00",
+      "urgent": false,
+      "title_hu": "Olaszország új tehergépkocsi-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
+    },
+    {
       "id": "640e0df1058c431bc21b10f2",
       "title": "Night-time truck bans in Austria and on the A12 have different hours and exemptions - trafficban.com",
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
@@ -43,7 +55,7 @@
       "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
       "country": "Írország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
       "published": "2026-11-17T06:15:26+00:00",
       "urgent": false,
@@ -1359,9 +1371,13 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T09:23:07.133520+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-17T12:11:16.444985+00:00",
+  "sources_ok": 31,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Ausztria fuvarozás",
+    "Google News RSS – Litvánia fuvarozás",
+    "Google News RSS – Románia fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
