@@ -870,6 +870,18 @@
       "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
     },
     {
+      "id": "62bc2ee768a908fda8d7c6b6",
+      "title": "Italy: daily truck ban on SR 206 from 3 to 31 August - trafficban.com",
+      "summary": "Italy: daily truck ban on SR 206 from 3 to 31 August trafficban.com",
+      "country": "Olaszország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RMVBBbWFBNzBZNVVQX3lCMW4xRXhNSU9fd3pFSVRlNFc5LVRrNG9LMmc1aTZEMGtkZnpYRVFaeFZLSUhYajJ6em9menltUQ?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Olaszország: Napi teherautó-forgalmi korlátozás az SR 206-os úton augusztus 3. és 31. között – trafficban.com"
+    },
+    {
       "id": "2fd70484447707c21a806ec3",
       "title": "How 5G is Driving the Future of Smart Railways and Freight Transport - Trending Now Infrastructure",
       "summary": "How 5G is Driving the Future of Smart Railways and Freight Transport Trending Now Infrastructure",
@@ -1159,18 +1171,6 @@
       "title_hu": "Hóesés Ivanjica közelében és teherautó-forgalmi korlátozás a Kopaonik felé vezető úton – srpske.rs"
     },
     {
-      "id": "adf7c379e66f3cc72824d3bc",
-      "title": "Lithuania turns back truck with radioactive mushrooms from Belarus - Belsat",
-      "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
-      "country": "EU",
-      "category": "Egyéb",
-      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
-    },
-    {
       "id": "7c20c1b0b29132840c4d8e17",
       "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
       "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
@@ -1182,6 +1182,18 @@
       "urgent": false,
       "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
       "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
+    },
+    {
+      "id": "adf7c379e66f3cc72824d3bc",
+      "title": "Lithuania turns back truck with radioactive mushrooms from Belarus - Belsat",
+      "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
     },
     {
       "id": "e5c92c93debc6b62f93cea57",
@@ -1409,12 +1421,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T15:12:11.813669+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-17T16:17:42.362674+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Franciaország fuvarozás",
-    "Google News RSS – Hollandia fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
