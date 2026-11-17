@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "52fc83659b26b82103694bb8",
+      "title": "Estonia's eastern border closure will stop bus and truck traffic to Russia - ERR",
+      "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
+      "country": "EU",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Lettország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
+      "published": "2026-11-17T06:16:00+00:00",
+      "urgent": false,
+      "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
+    },
+    {
+      "id": "0bb5fcb06215be2c51950b07",
+      "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - CBN.com.cy",
+      "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter CBN.com.cy",
+      "country": "Ciprus",
+      "category": "Egyéb",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iN3VBUm9pQzlKbHkwZVRBc090MnF5ZmYtbi1lR0JJSGtLS3QxdHBvLVo4SDJpbENESjhlS0pONXFJRUZCZlVLWWRQQUQyUQ?oc=5",
+      "published": "2026-11-17T06:06:02+00:00",
+      "urgent": false,
+      "title_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben – CBN.com.cy"
+    },
+    {
       "id": "6178ccc140005fd7d4ce8f7e",
       "title": "Road Freight Transport: 2nd Quarter 2026 - Κυβερνητική Πύλη - Gov.cy",
       "summary": "Road Freight Transport: 2nd Quarter 2026 Κυβερνητική Πύλη - Gov.cy",
@@ -588,9 +612,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Egyesült Királyság",
+      "country": "Franciaország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -1273,30 +1297,33 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T05:21:45.995766+00:00",
-  "sources_ok": 14,
+  "updated_at": "2026-11-17T07:42:25.654160+00:00",
+  "sources_ok": 11,
   "sources_total": 34,
   "sources_failed": [
     "Google News RSS – Ausztria fuvarozás",
-    "Google News RSS – Bulgária fuvarozás",
-    "Google News RSS – Csehország fuvarozás",
-    "Google News RSS – Hollandia fuvarozás",
+    "Google News RSS – Belgium fuvarozás",
+    "Google News RSS – Észtország fuvarozás",
+    "Google News RSS – Finnország fuvarozás",
+    "Google News RSS – Görögország fuvarozás",
     "Google News RSS – Horvátország fuvarozás",
+    "Google News RSS – Írország fuvarozás",
     "Google News RSS – Lengyelország fuvarozás",
-    "Google News RSS – Lettország fuvarozás",
+    "Google News RSS – Luxemburg fuvarozás",
     "Google News RSS – Magyarország fuvarozás",
     "Google News RSS – Málta fuvarozás",
     "Google News RSS – Németország fuvarozás",
-    "Google News RSS – Olaszország fuvarozás",
-    "Google News RSS – Portugália fuvarozás",
-    "Google News RSS – Spanyolország fuvarozás",
+    "Google News RSS – Románia fuvarozás",
     "Google News RSS – Svédország fuvarozás",
     "Google News RSS – Szlovákia fuvarozás",
     "Google News RSS – Szlovénia fuvarozás",
     "Google News RSS – Oroszország fuvarozás",
     "Google News RSS – Fehéroroszország fuvarozás",
+    "Google News RSS – Szerbia fuvarozás",
     "Google News RSS – Bosznia-Hercegovina fuvarozás",
-    "Google News RSS – Montenegró fuvarozás"
+    "Google News RSS – Montenegró fuvarozás",
+    "Google News RSS – Albánia fuvarozás",
+    "Google News RSS – Egyesült Királyság fuvarozás"
   ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
