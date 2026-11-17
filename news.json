@@ -75,18 +75,6 @@
       "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
     },
     {
-      "id": "95c8fac9dedc8d18f6a904db",
-      "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - CBN.com.cy",
-      "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter CBN.com.cy",
-      "country": "Ciprus",
-      "category": "Egyéb",
-      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnMzWS15c2tYcmc3dG02QnFQMjRZcTVOMHNOZmE2LURWX0xhWUlxNTNBS25xZW16Q2Q0UkU0bVZnQlVlSnh5RldsakNvX2xpbVNIelNnZnFOOWNjWEJZNEtaQjE0RUQ2TEQwVmljcXlkMzk2cTkzNGtQbWxxTXo4ZkxaVGk5WWlvUlRuTjVucW8wUEdDM2ZTMlJOZ05SLTZOS3dmN1V3X1FGV0kwT00ycFVQZ2k?oc=5",
-      "published": "2026-11-17T06:06:02+00:00",
-      "urgent": false,
-      "title_hu": "A Ciprusra irányuló és onnan induló közúti áruforgalom 17,7%-kal nőtt a második negyedévben – CBN.com.cy"
-    },
-    {
       "id": "0bb5fcb06215be2c51950b07",
       "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - CBN.com.cy",
       "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter CBN.com.cy",
@@ -97,6 +85,18 @@
       "published": "2026-11-17T06:06:02+00:00",
       "urgent": false,
       "title_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben – CBN.com.cy"
+    },
+    {
+      "id": "95c8fac9dedc8d18f6a904db",
+      "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - CBN.com.cy",
+      "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter CBN.com.cy",
+      "country": "Ciprus",
+      "category": "Egyéb",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnMzWS15c2tYcmc3dG02QnFQMjRZcTVOMHNOZmE2LURWX0xhWUlxNTNBS25xZW16Q2Q0UkU0bVZnQlVlSnh5RldsakNvX2xpbVNIelNnZnFOOWNjWEJZNEtaQjE0RUQ2TEQwVmljcXlkMzk2cTkzNGtQbWxxTXo4ZkxaVGk5WWlvUlRuTjVucW8wUEdDM2ZTMlJOZ05SLTZOS3dmN1V3X1FGV0kwT00ycFVQZ2k?oc=5",
+      "published": "2026-11-17T06:06:02+00:00",
+      "urgent": false,
+      "title_hu": "A Ciprusra irányuló és onnan induló közúti áruforgalom 17,7%-kal nőtt a második negyedévben – CBN.com.cy"
     },
     {
       "id": "6178ccc140005fd7d4ce8f7e",
@@ -1421,7 +1421,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T16:17:42.362674+00:00",
+  "updated_at": "2026-11-17T18:14:03.402712+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
