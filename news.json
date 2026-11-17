@@ -39,6 +39,19 @@
       "title_hu": "Olaszország új tehergépkocsi-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
     },
     {
+      "id": "0482646c69b11065e320dfb9",
+      "title": "Fallen tree along Upper Thomson Road causes hour-long jam, temporary road closure, Singapore News - AsiaOne.com",
+      "summary": "Fallen tree along Upper Thomson Road causes hour-long jam, temporary road closure, Singapore News AsiaOne.com",
+      "country": "Spanyolország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTUtWZ1JLTEc3YWtzTEhyaDJBTW5tcU5zR2RwOXNZbU1nbGZ0S3JQNlMxSmdreGROWWFneUJ6dE84aUNMSjdlRHMwVzJPdVJRU0JoWmsxdGNfNEJvejJEbHBrX2JXbGZ2OHJRc2FadldzUQ?oc=5",
+      "published": "2026-11-17T09:40:47+00:00",
+      "urgent": false,
+      "title_hu": "Egy kidőlt fa miatt órákig tartó dugó keletkezett az Upper Thomson Roadon, és ideiglenesen le kellett zárni az utat, Singapore News – AsiaOne.com",
+      "summary_hu": "Egy kidőlt fa órákon át tartó dugót okozott az Upper Thomson Roadon, és az út ideiglenes lezárásához vezetett, Singapore News AsiaOne.com"
+    },
+    {
       "id": "640e0df1058c431bc21b10f2",
       "title": "Night-time truck bans in Austria and on the A12 have different hours and exemptions - trafficban.com",
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
@@ -1447,7 +1460,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T22:13:30.021362+00:00",
+  "updated_at": "2026-11-17T23:13:46.004224+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
