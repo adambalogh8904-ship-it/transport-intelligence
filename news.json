@@ -588,9 +588,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
+      "country": "Egyesült Királyság",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -602,7 +602,7 @@
       "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
       "country": "EU",
       "category": "Útdíj",
-      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
       "published": "2026-11-11T06:32:13+00:00",
       "urgent": false,
@@ -923,6 +923,19 @@
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
     },
     {
+      "id": "d18aabe6a6a50c654d20d810",
+      "title": "Egala joins IRU to advance greener, smarter trucking | IRU | World Road Transport Organisation - IRU | World Road Transport Organisation",
+      "summary": "Egala joins IRU to advance greener, smarter trucking | IRU | World Road Transport Organisation IRU | World Road Transport Organisation",
+      "country": "Lengyelország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmVxSWJpRFAwbXk1Zl9qb3MwZHI4QUNQZUZmeGpDbjBZaHE5WG5DOGRnWTk4dEhOcG9JQmlVSW9mYkc1TlhNOHFaWjlkN1JwZWpzR2hSS0xPcHI4TjM2T2dFT1JMcVY2OFZtanVyMkxFQ1p6bTNZVUFEQ2xVLUlnOFJ1OUEzNGs4TU9sTlE0R05fTFFpVFBJ?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | Közúti Közlekedés Nemzetközi Szövetsége – IRU | Közúti Közlekedés Nemzetközi Szövetsége",
+      "summary_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | IRU Közúti Közlekedés Nemzetközi Szövetsége | Közúti Közlekedés Nemzetközi Szövetsége"
+    },
+    {
       "id": "bf2cc15b9c9ad8ac70ceda8f",
       "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
       "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
@@ -1015,7 +1028,7 @@
       "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "urgent": false,
@@ -1035,18 +1048,6 @@
       "summary_hu": "Árammal a fesztiválsátrakba: az eActros 600 sört szállít Németország két legnagyobb népünnepélyére Daimler Truck"
     },
     {
-      "id": "41a3ab6178f61619f6d3cdad",
-      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
-      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
-      "country": "Magyarország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
-    },
-    {
       "id": "014acf74c4affce33307a36a",
       "title": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? - Trans.INFO",
       "summary": "The cabotage trap: when is a freight forwarder responsible for the carrier’s mistakes? Trans.INFO",
@@ -1058,6 +1059,18 @@
       "urgent": false,
       "title_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? – Trans.INFO",
       "summary_hu": "A kabotázscsapda: Mikor felelős a szállítmányozó a fuvarozó hibáiért? Trans.INFO"
+    },
+    {
+      "id": "41a3ab6178f61619f6d3cdad",
+      "title": "Hungary plans changes to truck driving bans and transit rules - trafficban.com",
+      "summary": "Hungary plans changes to truck driving bans and transit rules trafficban.com",
+      "country": "Magyarország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15eEwzcWNMVEhZdXZJWXpXejY4M1l1ZFg3alloc1BlRGJNSjdvbEt2VUt5NU0xYnVLZVZPOVlNVnVpTER3b0dyWXZaeHI5Zw?oc=5",
+      "published": "2026-11-03T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Magyarország változtatásokat tervez a tehergépjárművek közlekedési tilalmaival és a tranzitforgalomra vonatkozó szabályokkal kapcsolatban – trafficban.com"
     },
     {
       "id": "3c90f61f5df8f91452e81f06",
@@ -1247,29 +1260,21 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T03:08:19.545522+00:00",
-  "sources_ok": 15,
+  "updated_at": "2026-11-17T04:16:13.813605+00:00",
+  "sources_ok": 23,
   "sources_total": 34,
   "sources_failed": [
     "Google News RSS – Ausztria fuvarozás",
-    "Google News RSS – Belgium fuvarozás",
+    "Google News RSS – Bulgária fuvarozás",
+    "Google News RSS – Ciprus fuvarozás",
     "Google News RSS – Csehország fuvarozás",
     "Google News RSS – Dánia fuvarozás",
-    "Google News RSS – Finnország fuvarozás",
-    "Google News RSS – Görögország fuvarozás",
-    "Google News RSS – Horvátország fuvarozás",
-    "Google News RSS – Írország fuvarozás",
-    "Google News RSS – Lengyelország fuvarozás",
     "Google News RSS – Lettország fuvarozás",
     "Google News RSS – Luxemburg fuvarozás",
-    "Google News RSS – Olaszország fuvarozás",
-    "Google News RSS – Portugália fuvarozás",
+    "Google News RSS – Románia fuvarozás",
     "Google News RSS – Svédország fuvarozás",
     "Google News RSS – Szlovénia fuvarozás",
-    "Google News RSS – Fehéroroszország fuvarozás",
-    "Google News RSS – Bosznia-Hercegovina fuvarozás",
-    "Google News RSS – Montenegró fuvarozás",
-    "Google News RSS – Egyesült Királyság fuvarozás"
+    "Google News RSS – Albánia fuvarozás"
   ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
