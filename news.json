@@ -93,7 +93,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-17T14:28:00+00:00",
       "urgent": false,
@@ -182,7 +182,7 @@
       "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
       "country": "Írország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
       "published": "2026-11-17T06:16:27+00:00",
       "urgent": false,
@@ -194,7 +194,7 @@
       "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
       "country": "EU",
       "category": "Útlezárás",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
       "published": "2026-11-17T06:16:00+00:00",
       "urgent": false,
@@ -763,6 +763,18 @@
       "summary_hu": "A Trakia-autópályán történt balesetek után az útügyi hatóságnak, a rendőrségnek és az útdíjszedő szervezetnek 7 napja van, hogy megállapodjanak a közös szabályokról – BurgasMedia"
     },
     {
+      "id": "d52ea408608535cf16f7103e",
+      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
+      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
+      "published": "2026-11-11T16:04:00+00:00",
+      "urgent": false,
+      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+    },
+    {
       "id": "241cfac8182bfb1c60fcd1ca",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -785,18 +797,6 @@
       "published": "2026-11-11T16:04:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Yahoo Finance"
-    },
-    {
-      "id": "d52ea408608535cf16f7103e",
-      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
-      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
-      "country": "Oroszország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
-      "published": "2026-11-11T16:04:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
     },
     {
       "id": "789fd61ea464084d9db6cdcf",
@@ -1573,16 +1573,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T15:16:23.948640+00:00",
-  "sources_ok": 28,
+  "updated_at": "2026-11-18T16:23:37.438354+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Csehország fuvarozás",
-    "Google News RSS – Lettország fuvarozás",
-    "Google News RSS – Románia fuvarozás",
-    "Google News RSS – Spanyolország fuvarozás",
-    "Google News RSS – Oroszország fuvarozás",
-    "Google News RSS – Albánia fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
