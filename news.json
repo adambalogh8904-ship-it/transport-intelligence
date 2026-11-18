@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "df8e04fb0b7f8c87048a9f75",
+      "title": "Irish hauliers face a double hit from diesel and toll costs - HGV Ireland",
+      "summary": "Irish hauliers face a double hit from diesel and toll costs HGV Ireland",
+      "country": "Írország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWJTeVBnYU0zLVBHeldvWHJTN191TjRfaVhNdEtmaWJBRGwtRFhvZU52V0pSeTBjSFhqaTBOV3JMU1NwNDZZMFlnOFp5LWlRUjBwdzFYSU9xSXJTQm9PbW5WUjJOX2pEWU1USzk1WnNTUXpkU0MzUWNLTzlYbXMwbXFKZ2t2WnpHaHJQdlJ5Nzg?oc=5",
+      "published": "2026-11-18T07:09:07+00:00",
+      "urgent": false,
+      "title_hu": "Az ír fuvarozókat kettős csapás éri a gázolaj- és az útdíjköltségek miatt – HGV Ireland"
+    },
+    {
+      "id": "3460980cc8d03b9ea118a3dc",
+      "title": "ECTA calls for cheaper finance and better charging to drive clean truck uptake - HGV Ireland",
+      "summary": "ECTA calls for cheaper finance and better charging to drive clean truck uptake HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjRXNUl6RC02aERjbFVhbXc4ZzNTb01URjJ0akVaVjNWX0JKZ1N4QWd4UzV3eUlpX29UMjllLUhUSV91RmtYSXdxekFUSV9PU2RVT1pxbFJuNXFELW5wZGRsZlNia1JQMUExSkJ6SEQtODdwM2lGN2NqdnFfaWZPLUpkNmkxRU5IVHM4MjdWbExiZlVLdDdqY0NXTEVKRzVRYWdFNWVRZ3oyQQ?oc=5",
+      "published": "2026-11-18T06:33:54+00:00",
+      "urgent": false,
+      "title_hu": "Az ECTA olcsóbb finanszírozást és jobb díjszabást sürget a tiszta tehergépjárművek elterjedésének előmozdítása érdekében – HGV Ireland",
+      "summary_hu": "Az ECTA olcsóbb finanszírozást és jobb díjszabást sürget a tiszta tehergépjárművek elterjedésének előmozdítása érdekében – HGV Ireland"
+    },
+    {
       "id": "b792105c37ab62ee6601605f",
       "title": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing - CTV News",
       "summary": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing CTV News",
@@ -151,6 +176,19 @@
       "title_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben – CBN.com.cy"
     },
     {
+      "id": "576acfa2f4ccf4d741a0d151",
+      "title": "Route 123 nighttime lane closures and traffic stoppages at Dulles Toll Road in McLean Nov. 19 and 20 - Richmond Times-Dispatch",
+      "summary": "Route 123 nighttime lane closures and traffic stoppages at Dulles Toll Road in McLean Nov. 19 and 20 Richmond Times-Dispatch",
+      "country": "Egyesült Királyság",
+      "category": "Útdíj",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanA0UVA1N2RDYXVSbkNUcWhyeGNIbzZUSHRWLTQyQTBYdVAzdURKbTJuQVZNQkp4RlUyQWtjMkdVTl9kMWVTMUVpRklReFZsSmktUlJtMUdqb3NTeGktbE91MTR1LXBoTllad0NTbmZrejd6Rm9vTTZ0TjgtZ0wyRlVDLTZGSzU4T193eHZB?oc=5",
+      "published": "2026-11-17T06:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az 123-as út éjszakai sávlezárásai és forgalomleállások a Dulles fizetős úton McLeanben november 19-én és 20-án – Richmond Times-Dispatch",
+      "summary_hu": "Az 123-as út éjszakai sávlezárásai és forgalomleállások a Dulles Toll Roadon McLeanben november 19-én és 20-án Richmond Times-Dispatch"
+    },
+    {
       "id": "7b191d74cdc75ca36a2c2f65",
       "title": "‘You will be towed’: Limerick motorists warned as Christmas road closure takes effect - Ireland Live News",
       "summary": "‘You will be towed’: Limerick motorists warned as Christmas road closure takes effect Ireland Live News",
@@ -171,7 +209,7 @@
       "category": "Egyéb",
       "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG43dERaVXNsc0VLSlQwb0pTM0w5SEdmY3pGRUNBanp0akl5OWRPc3Bob0VOejVKTnJvODl0d0U4d1VUSEl4YkJkSWxlMURCSjRTaG9VaFM2UVJ3bjU4cWJ3N3pRYzJqQXdmYnQ0Z3dOWFFaaXNKMVA1QjU1Q01OSVlPdVdMd3VKeUE?oc=5",
-      "published": "2026-11-16T13:05:43+00:00",
+      "published": "2026-11-16T13:02:57+00:00",
       "urgent": false,
       "title_hu": "Közúti árufuvarozás: 2026. II. negyedév – Κυβερνητική Πύλη – Gov.cy"
     },
@@ -1486,12 +1524,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T06:22:19.802760+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-18T08:32:39.952369+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Belgium fuvarozás",
-    "Google News RSS – Litvánia fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
