@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bd62be025ab00419476364a8",
+      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
+      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
+      "country": "Portugália",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
+      "published": "2026-11-18T20:23:47+00:00",
+      "urgent": false,
+      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
+    },
+    {
       "id": "0d2251b3226718209d25ccc2",
       "title": "Belgian vignette: Luxembourg rejects road charge as 'unacceptable' - RTL Today",
       "summary": "Belgian vignette: Luxembourg rejects road charge as 'unacceptable' RTL Today",
@@ -1161,6 +1173,18 @@
       "title_hu": "CAREC Intézet 6. éves kutatási konferenciája – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
+      "id": "3f22678fde1e2d09dfc17db5",
+      "title": "Electric truck targets unachievable without charging investment, says IRHA - HGV Ireland",
+      "summary": "Electric truck targets unachievable without charging investment, says IRHA HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjUxLW11LTY3WFVXZ2tFdUNQd2lBQ09mMWZnQTdiejhNVWV5T0ZRVW9QM1JhNHVEcTF6Nkc0QjBJbjJyQ2JKeEMzdlpWMmZ3aHVOTWJWMlA2dllkTjNxVm9BeEVpQVdrYlEwZ25SLW8ycGNiMzBzWmRsZWdYS1psbkZpRjFvSmZqZWgxWHJ1ZlFwQWdycWR4UG9mSDFWMEtHN1Vr?oc=5",
+      "published": "2026-11-06T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az IRHA szerint az elektromos tehergépjárművekre vonatkozó célok nem érhetők el töltési beruházások nélkül – HGV Ireland"
+    },
+    {
       "id": "de59bffa77348ada9d158da3",
       "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
       "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
@@ -1172,18 +1196,6 @@
       "urgent": false,
       "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
       "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
-    },
-    {
-      "id": "3f22678fde1e2d09dfc17db5",
-      "title": "Electric truck targets unachievable without charging investment, says IRHA - HGV Ireland",
-      "summary": "Electric truck targets unachievable without charging investment, says IRHA HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjUxLW11LTY3WFVXZ2tFdUNQd2lBQ09mMWZnQTdiejhNVWV5T0ZRVW9QM1JhNHVEcTF6Nkc0QjBJbjJyQ2JKeEMzdlpWMmZ3aHVOTWJWMlA2dllkTjNxVm9BeEVpQVdrYlEwZ25SLW8ycGNiMzBzWmRsZWdYS1psbkZpRjFvSmZqZWgxWHJ1ZlFwQWdycWR4UG9mSDFWMEtHN1Vr?oc=5",
-      "published": "2026-11-06T07:23:53+00:00",
-      "urgent": false,
-      "title_hu": "Az IRHA szerint az elektromos tehergépjárművekre vonatkozó célok nem érhetők el töltési beruházások nélkül – HGV Ireland"
     },
     {
       "id": "957695b6ed38c251fe52a6e3",
@@ -1585,7 +1597,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T19:19:22.224377+00:00",
+  "updated_at": "2026-11-18T21:12:07.158342+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
