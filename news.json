@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "b792105c37ab62ee6601605f",
+      "title": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing - CTV News",
+      "summary": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing CTV News",
+      "country": "Portugália",
+      "category": "Határ",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1NwZzZJNWZmSjBEcTA0MTNxeUhqV3B5WTlxZ1pyZ0F2akh0S3VabHlKY19KUUEtNDdoMmJxcnlQbjVIamZ1ZjhGd3JaVVlUOVdKOHp6SF8zb01JaGtPa2Z0U3lDUFhRVFJxNDN2d2IwMm1oODJPTUlKU05XanBJSlhWOTVYNUgwM08yZndDZm00STZLNVE5Z2VxZEJXNlFUT0xuVHdSbWFydTRtNnFsclNZOWpwRGI3aFM0UW81MkswTjIzcjFDTw?oc=5",
+      "published": "2026-11-17T17:43:58+00:00",
+      "urgent": false
+    },
+    {
       "id": "93832be850cc4aa97d8abea9",
       "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
@@ -728,9 +739,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Hollandia",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1473,7 +1484,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T03:10:44.697426+00:00",
+  "updated_at": "2026-11-18T04:17:50.837837+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
