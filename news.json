@@ -16,9 +16,9 @@
       "id": "fbf8781c08a53cb6400576fc",
       "title": "One person dies in Mapleton Township crash involving transport truck - CTV News",
       "summary": "One person dies in Mapleton Township crash involving transport truck CTV News",
-      "country": "Portugália",
+      "country": "Dánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Dánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFJiNWFRaWZZcmFtYzZwSS1WMEtKcnRLZkxwYllZRHVuZ2RuMWxhNi15ZE5rcVFqLVd2SUl4eC02NjIyY28xc1ROUmpVWDFrb0VmOVdXVXJuTlh1ZkRtNVozZHEwSUZpNmhURjRyM1VuVDRrQTRNdEFxUWhrdDNtZU9FZzFMZUY2dFRNV3pVRElxLWl2dURwWVJGYjBkRnhTUmFTckFsdS1zenBXVVFJ?oc=5",
       "published": "2026-11-18T19:30:58+00:00",
       "urgent": false,
@@ -1260,6 +1260,18 @@
       "title_hu": "Romániai útdíj: Fizessen előre, hogy elkerülje a késedelmeket a határon – finway.com.ua"
     },
     {
+      "id": "c1e81bf784fef9f98a6502e6",
+      "title": "10-day road closure planned at North Alby at Humbert - AdVantageNews.com",
+      "summary": "10-day road closure planned at North Alby at Humbert AdVantageNews.com",
+      "country": "Szlovákia",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSVhMWkpTVGFHYjlMeDRZS29hUUdrWE9Ncl9Bd3RLSkd3ZWVfa2ZtN0pvQmFldGUyZXJZaUplQUQtMFBxWXM5M2pJVGJEWVQzZ3JLUjJSem9LQ2RFQUpPOHpOMnlENEZBT0VTeWh5LXFETXpTNHB2c1k3RVhtLXZsWjZKZGNRVjBxZmdjYU1lR09jLTV6X0xtYlZVTUR5dExBb3dLOFhXMGxubkdZcVo0TTNNUXpHTDVxWTVyazRTeXpYRVhmNnpuSldqX2JhMVFoNFVKbzBLdUdpZk0?oc=5",
+      "published": "2026-11-05T12:00:00+00:00",
+      "urgent": false,
+      "title_hu": "10 napos útlezárást terveznek North Albynál, a Humbertnél – AdVantageNews.com"
+    },
+    {
       "id": "aa6e1b45e803ffd4584ace5c",
       "title": "Driver lived in truck cab for seven months - Trans.INFO",
       "summary": "Driver lived in truck cab for seven months Trans.INFO",
@@ -1659,7 +1671,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T22:09:41.682210+00:00",
+  "updated_at": "2026-11-18T23:10:17.830189+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
