@@ -9,7 +9,9 @@
       "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1NwZzZJNWZmSjBEcTA0MTNxeUhqV3B5WTlxZ1pyZ0F2akh0S3VabHlKY19KUUEtNDdoMmJxcnlQbjVIamZ1ZjhGd3JaVVlUOVdKOHp6SF8zb01JaGtPa2Z0U3lDUFhRVFJxNDN2d2IwMm1oODJPTUlKU05XanBJSlhWOTVYNUgwM08yZndDZm00STZLNVE5Z2VxZEJXNlFUT0xuVHdSbWFydTRtNnFsclNZOWpwRGI3aFM0UW81MkswTjIzcjFDTw?oc=5",
       "published": "2026-11-17T17:43:58+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "A határőrök 81 kg kokaint foglaltak le egy római salátát szállító teherautóból a Brit-Kolumbia határán – CTV News",
+      "summary_hu": "A határőrök 81 kg kokaint foglaltak le egy római salátát szállító teherautóból a Brit-Kolumbia határán – CTV News"
     },
     {
       "id": "93832be850cc4aa97d8abea9",
@@ -68,7 +70,7 @@
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
       "published": "2026-11-17T08:28:57+00:00",
       "urgent": false,
@@ -1484,9 +1486,12 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T04:17:50.837837+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-18T06:22:19.802760+00:00",
+  "sources_ok": 32,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Belgium fuvarozás",
+    "Google News RSS – Litvánia fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
