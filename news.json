@@ -765,7 +765,7 @@
       "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
       "country": "EU",
       "category": "Útdíj",
-      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
       "published": "2026-11-11T06:32:13+00:00",
       "urgent": false,
@@ -1085,19 +1085,6 @@
       "title_hu": "Egy sofőr hét hónapig élt a teherautója vezetőfülkéjében – Trans.INFO"
     },
     {
-      "id": "b0abca1ba8b6ce923814114e",
-      "title": "ADR 2027: What road transport operators need to know - IRU | World Road Transport Organisation",
-      "summary": "ADR 2027: What road transport operators need to know IRU | World Road Transport Organisation",
-      "country": "Görögország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzhzcVVTT0ctOGFCOXA5UURVM1F0NENBd0pLWWhuaWYtZFBJMld2anZXSHFCQnR3UXVZR1RuZ2ZRdjE5MXhNTzBIakZHUHZwc19feWJqRTBtQ281bUpCNWtHSFhRXzhOTTJURTctZHIxdmpIME5MVGhoRm55V2YxWGdoLW53V0VCNndYLS1JV0I4QWYySzRXLTV3?oc=5",
-      "published": "2026-11-05T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell – IRU | Nemzetközi Közúti Szállítmányozási Szövetség",
-      "summary_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell IRU | Nemzetközi Közúti Szállítmányozási Szövetség"
-    },
-    {
       "id": "7cff2eac96951689597fc231",
       "title": "Haulage body says targets for electric HGVs unachievable - RTE.ie",
       "summary": "Haulage body says targets for electric HGVs unachievable RTE.ie",
@@ -1146,6 +1133,19 @@
       "published": "2026-11-05T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
+    },
+    {
+      "id": "b0abca1ba8b6ce923814114e",
+      "title": "ADR 2027: What road transport operators need to know - IRU | World Road Transport Organisation",
+      "summary": "ADR 2027: What road transport operators need to know IRU | World Road Transport Organisation",
+      "country": "Görögország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzhzcVVTT0ctOGFCOXA5UURVM1F0NENBd0pLWWhuaWYtZFBJMld2anZXSHFCQnR3UXVZR1RuZ2ZRdjE5MXhNTzBIakZHUHZwc19feWJqRTBtQ281bUpCNWtHSFhRXzhOTTJURTctZHIxdmpIME5MVGhoRm55V2YxWGdoLW53V0VCNndYLS1JV0I4QWYySzRXLTV3?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell – IRU | Nemzetközi Közúti Szállítmányozási Szövetség",
+      "summary_hu": "ADR 2027: Amit a közúti fuvarozóknak tudniuk kell IRU | Nemzetközi Közúti Szállítmányozási Szövetség"
     },
     {
       "id": "72bef13f4e607a4fce2092f5",
@@ -1210,6 +1210,18 @@
       "title_hu": "Hóesés Ivanjica közelében és teherautó-forgalmi korlátozás a Kopaonik felé vezető úton – srpske.rs"
     },
     {
+      "id": "adf7c379e66f3cc72824d3bc",
+      "title": "Lithuania turns back truck with radioactive mushrooms from Belarus - Belsat",
+      "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
+    },
+    {
       "id": "7c20c1b0b29132840c4d8e17",
       "title": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 - La Veu Lliure",
       "summary": "Andorra and France Explore Alternative Routes Ahead of RN20 Road Closure in 2027 La Veu Lliure",
@@ -1221,18 +1233,6 @@
       "urgent": false,
       "title_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt – La Veu Lliure",
       "summary_hu": "Andorra és Franciaország alternatív útvonalakat keres az RN20-as út 2027-es lezárása előtt La Veu Lliure"
-    },
-    {
-      "id": "adf7c379e66f3cc72824d3bc",
-      "title": "Lithuania turns back truck with radioactive mushrooms from Belarus - Belsat",
-      "summary": "Lithuania turns back truck with radioactive mushrooms from Belarus Belsat",
-      "country": "EU",
-      "category": "Egyéb",
-      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFRVa0gtRThzWTlMTTJOV1g0MmJ1azZRekRVb2haVzBpOElBWklmWlNhMWZzQS01c2ZOQ2p0R0tDMzcxR2tlTDhySGNKUlM5bnBUVmtIOEJhM2dVd040Nk5iWEU2QUNDSU1DOEx3SUREMG0xbnAtUFhQMVhTeHllaHhUSG84WWhJLUFiOWpqc09vVzdxVTdBV05iRjE?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Litvánia visszafordított egy radioaktív gombát szállító teherautót Fehéroroszországból – Belsat"
     },
     {
       "id": "e5c92c93debc6b62f93cea57",
@@ -1460,9 +1460,13 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-17T23:13:46.004224+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-18T00:06:33.849541+00:00",
+  "sources_ok": 31,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Franciaország fuvarozás",
+    "Google News RSS – Görögország fuvarozás",
+    "Google News RSS – Luxemburg fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
