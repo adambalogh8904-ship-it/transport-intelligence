@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f4e27a616d3763bdef620bc7",
+      "title": "Hauliers still without a date for September and October fuel support payments - HGV Ireland",
+      "summary": "Hauliers still without a date for September and October fuel support payments HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlRNy1IcHpiSHJzSU9CNkdzandNeVpVeGhCRW5kWFBzZGV1WTY0RjI1VEUwMHdrSnQzSWh4RXpZclA4cHFPemlrT2x3TGRFOS1ZNmV6cE9VRGJBUEJaeFNYMUF4ajRpVWlLellieTFXSVM2b0p6R1UySHJteERnaWRuNFdRTmFSMGpHWXExS1pwTG5DMjRoYm1GWG5PN21kMElTRDEyd08?oc=5",
+      "published": "2026-11-18T09:54:30+00:00",
+      "urgent": false,
+      "title_hu": "A fuvarozók még mindig nem tudják, mikor kapják meg a szeptemberi és októberi üzemanyag-támogatási kifizetéseket – HGV Ireland"
+    },
+    {
       "id": "df8e04fb0b7f8c87048a9f75",
       "title": "Irish hauliers face a double hit from diesel and toll costs - HGV Ireland",
       "summary": "Irish hauliers face a double hit from diesel and toll costs HGV Ireland",
@@ -861,18 +873,6 @@
       "title_hu": "A közlekedési miniszter megvédi az útdíjak emelését – Irish Examiner"
     },
     {
-      "id": "5e38d9dbb8fd4b3966731ec6",
-      "title": "Call for Govt to scrap toll, public transport fare hikes - RTE.ie",
-      "summary": "Call for Govt to scrap toll, public transport fare hikes RTE.ie",
-      "country": "Írország",
-      "category": "Útdíj",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MUFNM0dSZDFvRHJULVpucFc4ZTgxREpWY2ZZNVh3SVpiTF9KWF82SGM2eTNRczg0eVd5ODBoSGRjakNNVGp1U1Ewak1tNHdmcUFmN3R6VkJBNmljb1AyR21BQXhDNUx4NUp0OElwOA?oc=5",
-      "published": "2026-11-10T20:45:11+00:00",
-      "urgent": false,
-      "title_hu": "Felhívás a kormányhoz az útdíjak és a tömegközlekedési díjak emelésének visszavonására – RTE.ie"
-    },
-    {
       "id": "a06f2b41c9181fb5578d4dc3",
       "title": "IRHA will not participate in Friday’s planned fuel protests - HGV Ireland",
       "summary": "IRHA will not participate in Friday’s planned fuel protests HGV Ireland",
@@ -946,6 +946,18 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
+    },
+    {
+      "id": "5e38d9dbb8fd4b3966731ec6",
+      "title": "Call for Govt to scrap toll, public transport fare hikes - RTE.ie",
+      "summary": "Call for Govt to scrap toll, public transport fare hikes RTE.ie",
+      "country": "Írország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MUFNM0dSZDFvRHJULVpucFc4ZTgxREpWY2ZZNVh3SVpiTF9KWF82SGM2eTNRczg0eVd5ODBoSGRjakNNVGp1U1Ewak1tNHdmcUFmN3R6VkJBNmljb1AyR21BQXhDNUx4NUp0OElwOA?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Felhívás a kormányhoz az útdíjak és a tömegközlekedési díjak emelésének visszavonására – RTE.ie"
     },
     {
       "id": "728566a57895ad9cbcfd4970",
@@ -1524,7 +1536,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T08:32:39.952369+00:00",
+  "updated_at": "2026-11-18T10:24:39.080683+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
