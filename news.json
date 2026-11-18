@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0d2251b3226718209d25ccc2",
+      "title": "Belgian vignette: Luxembourg rejects road charge as 'unacceptable' - RTL Today",
+      "summary": "Belgian vignette: Luxembourg rejects road charge as 'unacceptable' RTL Today",
+      "country": "EU",
+      "category": "Útdíj",
+      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkhNQThMNFpxTy1oV01Nd0VTQVJ1VlNpc041djBLQkRpeUszLTZJSGVxeEtuT3ZjRXFVODVSWGJiWDBrcldMWE1GQXpWelJPaG5kLU5FaEpMWDhwZHRubWhrdmFDZlItX3Y1V0FWTGtQYnRId3ZqVDZTQ1ZiTzNMYXN1VldBcWkzQUJzTkMxZFFDV3g1RS1hYU53?oc=5",
+      "published": "2026-11-18T13:48:30+00:00",
+      "urgent": false,
+      "title_hu": "Belga matricarendszer: Luxemburg „elfogadhatatlannak” minősíti az úthasználati díjat – RTL Today"
+    },
+    {
       "id": "361113905ed80ae32c29ae60",
       "title": "What could France’s draft budget change for APRR toll road returns at Atlas Arteria (ASX:ALX)? - Kalkine",
       "summary": "What could France’s draft budget change for APRR toll road returns at Atlas Arteria (ASX:ALX)? Kalkine",
@@ -763,18 +775,6 @@
       "summary_hu": "A Trakia-autópályán történt balesetek után az útügyi hatóságnak, a rendőrségnek és az útdíjszedő szervezetnek 7 napja van, hogy megállapodjanak a közös szabályokról – BurgasMedia"
     },
     {
-      "id": "d52ea408608535cf16f7103e",
-      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
-      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
-      "country": "Oroszország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
-      "published": "2026-11-11T16:04:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
-    },
-    {
       "id": "241cfac8182bfb1c60fcd1ca",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -797,6 +797,18 @@
       "published": "2026-11-11T16:04:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Yahoo Finance"
+    },
+    {
+      "id": "d52ea408608535cf16f7103e",
+      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
+      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
+      "published": "2026-11-11T16:04:00+00:00",
+      "urgent": false,
+      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
     },
     {
       "id": "789fd61ea464084d9db6cdcf",
@@ -1236,18 +1248,6 @@
       "summary_hu": "A pontos útlezárási információk és a tömegközlekedési zavarok bejelentése az EU-csúcstalálkozó miatt kialakított „acélgyűrűvel” kapcsolatban – Dublin Live"
     },
     {
-      "id": "bf2cc15b9c9ad8ac70ceda8f",
-      "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
-      "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
-      "country": "EU",
-      "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxTU1wem1ORjRpTlhHcUp2U0ZuWmR5eGRITzFnNTAxS2loLW5OYUlSeHZweGZxT2RaUG03aWhjb1k3TmpfeHVndlhQNmtnQ21jc21rcHRnWWxfVU1LOW5IMEFJeTBEZzU5VXRyaUt5WjRHcllrTURLb3hoZS0?oc=5",
-      "published": "2026-11-05T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
-    },
-    {
       "id": "d18aabe6a6a50c654d20d810",
       "title": "Egala joins IRU to advance greener, smarter trucking | IRU | World Road Transport Organisation - IRU | World Road Transport Organisation",
       "summary": "Egala joins IRU to advance greener, smarter trucking | IRU | World Road Transport Organisation IRU | World Road Transport Organisation",
@@ -1259,6 +1259,18 @@
       "urgent": false,
       "title_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | Közúti Közlekedés Nemzetközi Szövetsége – IRU | Közúti Közlekedés Nemzetközi Szövetsége",
       "summary_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | IRU Közúti Közlekedés Nemzetközi Szövetsége | Közúti Közlekedés Nemzetközi Szövetsége"
+    },
+    {
+      "id": "bf2cc15b9c9ad8ac70ceda8f",
+      "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
+      "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxTU1wem1ORjRpTlhHcUp2U0ZuWmR5eGRITzFnNTAxS2loLW5OYUlSeHZweGZxT2RaUG03aWhjb1k3TmpfeHVndlhQNmtnQ21jc21rcHRnWWxfVU1LOW5IMEFJeTBEZzU5VXRyaUt5WjRHcllrTURLb3hoZS0?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
     },
     {
       "id": "72bef13f4e607a4fce2092f5",
@@ -1573,7 +1585,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-18T16:23:37.438354+00:00",
+  "updated_at": "2026-11-18T18:08:59.968489+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
