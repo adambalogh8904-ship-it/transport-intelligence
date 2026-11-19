@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "da3a6b5414c21b2c4eded9f6",
+      "title": "Truck on fire forces closure of Hwy. 11 in Orillia - CTV News",
+      "summary": "Truck on fire forces closure of Hwy. 11 in Orillia CTV News",
+      "country": "Dánia",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Dánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalJSc25nNnBEOW10bkUxQzVvNUlDSkxOVkE5UWVaMlRCWUdVbWI4TUxwX0twX1ZYQ1VTMVN0R3NsRVhLXzB4c2owR1RodG5GdHI4ODNrZG9ZRUdXVU1QQjhRdHlWZ2hIZUVLb0NWWlB0TFdYV25xdXFGUlctZE5KQS1ueGt3UmdUbUdmRzRwVENPdw?oc=5",
+      "published": "2026-11-19T15:06:03+00:00",
+      "urgent": false,
+      "title_hu": "Egy kigyulladt teherautó miatt lezárták a 11-es főutat Orilliában – CTV News"
+    },
+    {
       "id": "38765739bd25e0683eeb6437",
       "title": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden - Hortidaily",
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
@@ -340,7 +352,7 @@
       "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
       "country": "EU",
       "category": "Útlezárás",
-      "source": "Google News RSS – Lettország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
       "published": "2026-11-17T06:16:00+00:00",
       "urgent": false,
@@ -1845,12 +1857,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T13:43:28.716560+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-19T15:17:36.986762+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Litvánia fuvarozás",
-    "Google News RSS – Oroszország fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
