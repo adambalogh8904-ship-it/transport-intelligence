@@ -1,12 +1,37 @@
 {
   "items": [
     {
+      "id": "6afde5b22573892cd0c7de48",
+      "title": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden - FreshPlaza",
+      "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden FreshPlaza",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakgxQzFOWkU2dURUeWZPRjZKdmJIRnFQV3c5UjdtS0xEWTlVM2RJdlF4Yk9lRmRVRWNDWEZLMDBIcVQwZzI2RGVuYlVtTjdSUFB2OXV5dVBuUF9pdld2cXdoNk9IdGhrRDB2M3BQX2ZIQ3NsTWJhMG9fOHlrMF8tUlJuakRWTXE0bXZJcWFnck93d3MxZVV5SFFnRWJYQlN2S0VzWHFPNjVjRnpGTl9ObE56bkVVREFrbkxNbERFbFZBcDYtSjlxQ3dyR1JrbHFEN2FGajEzVFJ0NTlyMkE?oc=5",
+      "published": "2026-11-19T16:52:30+00:00",
+      "urgent": false,
+      "title_hu": "Első alkalommal szállít egy teljesen elektromos teherautó gyümölcsöt és zöldséget Spanyolországból Svédországba – FreshPlaza",
+      "summary_hu": "Első alkalommal szállít teljesen elektromos teherautó gyümölcsöt és zöldséget Spanyolországból Svédországba FreshPlaza"
+    },
+    {
+      "id": "4bcd0b4788fd86c6eb07aa53",
+      "title": "France: Road transport prices fell despite soaring diesel prices - Upply",
+      "summary": "France: Road transport prices fell despite soaring diesel prices Upply",
+      "country": "Franciaország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDY4RmZOcnQwMkhoUXJTbjg0WTREQ3hCdHBTbFVQdW5RbzVUQm1jTmFiWVdCV3YwTm5Xd09lX1lXeGlQM3NTcVQ0cU1VcDJhV2dDcG1xbWswLWllbTdWckZFZ3M0TXp6b3VEZ0xZTzdIaEZLYkpKLVg5YWZtWGd5eXBPWmVCZW56ZzhybDBSTG9uSW00R0kzTF91WFVBSXJra3fSAbIBQVVfeXFMTWZVcTBzZUk2akFWMTFoRFpkcHAwaDY0WGcyWENNdUh0WFVnaDh4ZVVOaXRGZEVFRU9sUVpfb0h6VlJvZ0ltMHBZbjY5OE55aDNWOWdsZlA4YjloU0JhTUNnUnZfTVZVaFVyRmlqck1LeXZ1WUZnQnQzVzRhNGtBbUhnX3RCOEtDRnB6S0NKclBnd2RPX3NSYTJjc0V3ajhuZEROaXRnRmpIMV9xR0dkYUtVdw?oc=5",
+      "published": "2026-11-19T16:22:59+00:00",
+      "urgent": false,
+      "title_hu": "Franciaország: A közúti szállítási árak a gázolaj árának emelkedése ellenére csökkentek – Upply"
+    },
+    {
       "id": "da3a6b5414c21b2c4eded9f6",
       "title": "Truck on fire forces closure of Hwy. 11 in Orillia - CTV News",
       "summary": "Truck on fire forces closure of Hwy. 11 in Orillia CTV News",
-      "country": "Dánia",
+      "country": "Oroszország",
       "category": "Útlezárás",
-      "source": "Google News RSS – Dánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalJSc25nNnBEOW10bkUxQzVvNUlDSkxOVkE5UWVaMlRCWUdVbWI4TUxwX0twX1ZYQ1VTMVN0R3NsRVhLXzB4c2owR1RodG5GdHI4ODNrZG9ZRUdXVU1QQjhRdHlWZ2hIZUVLb0NWWlB0TFdYV25xdXFGUlctZE5KQS1ueGt3UmdUbUdmRzRwVENPdw?oc=5",
       "published": "2026-11-19T15:06:03+00:00",
       "urgent": false,
@@ -1056,6 +1081,19 @@
       "title_hu": "Az IRHA az januári útdíjemelések felülvizsgálatát kéri – HGV Ireland"
     },
     {
+      "id": "357e6e17204c4fccdd7449f4",
+      "title": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister - RTL Today",
+      "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
+      "country": "EU",
+      "category": "Útdíj",
+      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíjból nincs kivétel a luxemburgi sofőrök számára – RTL Today",
+      "summary_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíj tekintetében nem lesznek kivételek a luxemburgi járművezetők számára – RTL Today"
+    },
+    {
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
@@ -1066,19 +1104,6 @@
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
-    },
-    {
-      "id": "357e6e17204c4fccdd7449f4",
-      "title": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister - RTL Today",
-      "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
-      "country": "EU",
-      "category": "Útdíj",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
-      "published": "2026-11-11T06:32:13+00:00",
-      "urgent": false,
-      "title_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíjból nincs kivétel a luxemburgi sofőrök számára – RTL Today",
-      "summary_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíj tekintetében nem lesznek kivételek a luxemburgi járművezetők számára – RTL Today"
     },
     {
       "id": "3f5f72da4258377c69c8cc00",
@@ -1857,12 +1882,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T17:22:20.527524+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-19T19:23:00.221617+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Dánia fuvarozás",
-    "Google News RSS – Luxemburg fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
