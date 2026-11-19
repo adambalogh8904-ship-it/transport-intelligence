@@ -43,7 +43,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0YxZnZaM1A1QzhkVFNvNVlUS0ZrTTVRWVJ6VkZJOTFYZHVudi1QOEFpbTRhdF9UZF9KQVJQVlpTTkFnS1h6a3p3VlJtZnhGN1J3MzliWUhHVV9ZZlZnUUR4OU9UZlBDbnhBRXVkVE5uY3YxU3hnSThJQW0xdGM2aG5iTmJTa2ZPSEpzVGlxMFl5bmdMTEJDd1czTnAxczNUSjNkcndDZWFWLUozOHZvdVotQnpDOHEzYlU2NTg5OEZvSWFXR2RHaFVlTWhCQ2RFenNLVg?oc=5",
       "published": "2026-11-19T12:46:36+00:00",
       "urgent": false,
@@ -74,6 +74,18 @@
       "published": "2026-11-19T07:24:25+00:00",
       "urgent": false,
       "title_hu": "Az ír fuvarozók pénzforgalmi válsággal néznek szembe, és nincs kitűzve az üzemanyag-támogatási kifizetések dátuma – HGV Ireland"
+    },
+    {
+      "id": "1e86fcb64b903315283a735d",
+      "title": "Nairobi–Thika Road: How much more will commuters pay under new toll plan? - People Daily",
+      "summary": "Nairobi–Thika Road: How much more will commuters pay under new toll plan? People Daily",
+      "country": "Fehéroroszország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOThtUnRhRWVjN0hJdU1iekpUMXBmb3JFNkN5NjRHbHlqckczcUFpc1dmcDc2amhXXzduOXY0bjRQWEFWSWdzbkhKY1gzV2xQWXFfVHRGQTdQN01UNFY2azdXYXd6S0lXQzVQVnVKZkNlTGlpZnpVekVyLWRVNFdZOFZxN2p5NmZaUmxjeHh3YUpYOThMNnFueUFENWJXaFFSS2ZQX1lSSFU3c2JW?oc=5",
+      "published": "2026-11-19T07:03:48+00:00",
+      "urgent": false,
+      "title_hu": "Nairobi–Thika út: Mennyivel többet fognak fizetni az ingázók az új útdíjrendszer szerint? – People Daily"
     },
     {
       "id": "cf8b1b2937ee240ae9ca6575",
@@ -626,9 +638,9 @@
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Svédország",
+      "country": "Németország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
       "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
@@ -1048,9 +1060,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Spanyolország",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1255,6 +1267,19 @@
       "summary_hu": "Ausztria: további tehergépkocsira vonatkozó korlátozások október 2-án és 3-án a Brenner-úton trafficban.com"
     },
     {
+      "id": "0559531749a66b77eb40dd79",
+      "title": "Bulgaria: truck bans on 17 and 19 July 2026 – affected sections and detours - trafficban.com",
+      "summary": "Bulgaria: truck bans on 17 and 19 July 2026 – affected sections and detours trafficban.com",
+      "country": "Bulgária",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SMzRqRGF0TVR0cDRvMFlVQ3V4R0otUEJ3ZVByQjloUUJtcUk2cVFjNHlQbnRUVzNwM2JrUEtIUVRBM1M2NEpxaDV3MDB4U1Rsbnc?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Bulgária: Teherautó-forgalmi korlátozások 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak – trafficban.com",
+      "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
+    },
+    {
       "id": "62bc2ee768a908fda8d7c6b6",
       "title": "Italy: daily truck ban on SR 206 from 3 to 31 August - trafficban.com",
       "summary": "Italy: daily truck ban on SR 206 from 3 to 31 August trafficban.com",
@@ -1394,6 +1419,18 @@
       "published": "2026-11-06T09:30:32+00:00",
       "urgent": false,
       "title_hu": "Moldova és Románia lépéseket tesz a teherautó-sorok csökkentésére a határon – logos-pres.md"
+    },
+    {
+      "id": "5d3c1d5c3b347085d2f62c0f",
+      "title": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border - Trend News Agency",
+      "summary": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border Trend News Agency",
+      "country": "Fehéroroszország",
+      "category": "Határ",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUmlKT0gzeTFDNzFYTU93ZmVaNncwVjBjSkdSc3VNRnpNTUlHX3F1dHNXQTJrUkU5a2Z2NlE0Sk5QbS1uRmt2dlJXemsyYWVLdVlFX05EUzhmcEV6V3NB?oc=5",
+      "published": "2026-11-06T08:53:57+00:00",
+      "urgent": false,
+      "title_hu": "Üzbegisztán lépéseket tesz a teherautók várakozási idejének csökkentésére a kazah határon – Trend hírügynökség"
     },
     {
       "id": "f7e88f8fcf11bf5ecaeb46ac",
@@ -1882,9 +1919,11 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T19:23:00.221617+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-19T21:10:15.718510+00:00",
+  "sources_ok": 33,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Svédország fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
