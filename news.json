@@ -507,7 +507,7 @@
       "category": "Üzemanyag",
       "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:23:17+00:00",
+      "published": "2026-11-13T21:17:02+00:00",
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
@@ -1024,9 +1024,9 @@
       "id": "5fe0db9f6ccdd30dd2739125",
       "title": "European road freight rates steady at record highs - IRU | World Road Transport Organisation",
       "summary": "European road freight rates steady at record highs IRU | World Road Transport Organisation",
-      "country": "Spanyolország",
+      "country": "Montenegró",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEpvSURKeTJhTTF6eEp3VGljV3l6VFh2Z0h6R3g1dk1iVU1qY1VwYk15elVoSjh5enZyRmE1QU0xeGQyUEh4MlRxSC1DdkkxNUNiS0s2bzNERDNCbDdWU1RoNTUzaDNXVmpiZDhla3VlWjFiMnpGS3NLQm5fUC1qeUdtanVKRTQweTZyTjlSODdDZ21jM0E?oc=5",
       "published": "2026-11-10T12:17:54+00:00",
       "urgent": false,
@@ -1721,11 +1721,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T03:11:15.152009+00:00",
-  "sources_ok": 33,
+  "updated_at": "2026-11-19T04:20:55.025926+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Montenegró fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
