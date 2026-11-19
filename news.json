@@ -50,12 +50,23 @@
       "summary_hu": "Hogyan változtathatja meg Franciaország költségvetési tervezete az APRR fizetős útjainak hozamát az Atlas Arteria (ASX:ALX) esetében? Kalkine"
     },
     {
+      "id": "17822065ad87cd1d95b4ffd0",
+      "title": "Sallaum adds inland vehicle storage and customs capacity - Freight News",
+      "summary": "Sallaum adds inland vehicle storage and customs capacity Freight News",
+      "country": "Belgium",
+      "category": "Határ",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnpuMXJ1bEJIdjloWks5dF9zT0hiRmQ4clJ1N1psTzlyc2lLX0tyVmxCbG5mMVU5N1I4ODk5cGpkMHNtYzMtalFFSjRNYVkxUmViZmZ0TzhaQjNnd2JZSlEtYUdBX1daSGZ1b3ZzYm9YN3dSdENFY1hXQTNfLXF1TnNLNDRsbmpBTlBSNHlyWUVYaTl2?oc=5",
+      "published": "2026-11-18T13:06:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "babd59d3091e58845e1b1dc1",
       "title": "GasNet: freight transport in Czechia cannot do without LNG and bioLNG - oEnergetice.cz",
       "summary": "GasNet: freight transport in Czechia cannot do without LNG and bioLNG oEnergetice.cz",
       "country": "Csehország",
       "category": "Egyéb",
-      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0ZWeUVVclVkb2ZYSDBVdmh6ZFNTZUxoWmhSbm9VVVhJWjlwLTBtcG9uNF9kZXk1WmRHaXBSNDR6dzlZdUE4MnJCRS1IR3ZhOVRaSzNmRHAtbUFoYkc2OXlFSHBYZEZ4RC1ITU5MN3ZuV3lHT2VVSTlxX1JaOWppWWR3b3REcDRCXy1MOWw0LWJWNnhTTXBWTFdPMmtMQkxscnU3ZnRPcDNZZw?oc=5",
       "published": "2026-11-18T12:31:00+00:00",
       "urgent": false,
@@ -192,7 +203,7 @@
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
       "published": "2026-11-17T08:28:57+00:00",
       "urgent": false,
@@ -309,6 +320,28 @@
       "published": "2026-11-16T13:02:57+00:00",
       "urgent": false,
       "title_hu": "Közúti árufuvarozás: 2026. II. negyedév – Κυβερνητική Πύλη – Gov.cy"
+    },
+    {
+      "id": "cb7abaee1be71812efe2cfca",
+      "title": "Routes through five countries affected by roadworks – important information for HGV drivers - trafficban.com",
+      "summary": "Routes through five countries affected by roadworks – important information for HGV drivers trafficban.com",
+      "country": "Németország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43M2ZkQlR3Q2ttd2cxV29XbTNGcW5DdjVvM210NmdXd3NSbE5qa1ZXRnByTl9kOHg4cGY4UVE3YnlGYzJRMURCaDNuYm96UQ?oc=5",
+      "published": "2026-11-16T10:42:24+00:00",
+      "urgent": false
+    },
+    {
+      "id": "8da8c093d2fed5540bbe9186",
+      "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
+      "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LanNSQUx4VXVnMVNKSHExY1J4cWFCZVQ4YWdCRno1SE1fUmJwWW1IZ1BnYTZObTNoTDdoWGJ2YjlHSFk3MmVhQk5Na2xPQQ?oc=5",
+      "published": "2026-11-16T08:17:18+00:00",
+      "urgent": false
     },
     {
       "id": "85f12bc412b3fc3f85e3a0c1",
@@ -563,19 +596,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "a9d0e42ce7d23602620f837c",
-      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
-      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
-      "country": "Egyesült Királyság",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
-      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
-    },
-    {
       "id": "d5ac6724eaa2ffef430a04b7",
       "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
       "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
@@ -587,6 +607,19 @@
       "urgent": false,
       "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
       "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
+    },
+    {
+      "id": "a9d0e42ce7d23602620f837c",
+      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
+      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
+      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -716,7 +749,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:49:32+00:00",
       "urgent": false,
@@ -1335,6 +1368,17 @@
       "summary_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | IRU Közúti Közlekedés Nemzetközi Szövetsége | Közúti Közlekedés Nemzetközi Szövetsége"
     },
     {
+      "id": "9460d7c5da98b1f1a44328d7",
+      "title": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. - Stock Titan",
+      "summary": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. Stock Titan",
+      "country": "Németország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFXbmRIRWJaRUloQ3U5VEFQUGFBeXNwNWtneU9EeHNyVFV4NkRVZ2tjSy1CQkpLVU9EWWNTY2RhWVBORGJweUl0eURRZnQ5SldYVUM5WWh6eXBfaXJKcWtoNVhZMjlIaVhldVhhOWdVeU1EbWlSRXptQ2NwR3RaTzV3a1A1NDlVTGgyWEY2dDBNTHZ0b1JiVTEzOUFyUTJDTnU0UTJIYU55djN2aGNDbk50dFhQZi1YQndHcGhfcw?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "bf2cc15b9c9ad8ac70ceda8f",
       "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
       "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
@@ -1671,7 +1715,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T00:07:19.665400+00:00",
+  "updated_at": "2026-11-19T01:37:32.176586+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
