@@ -58,7 +58,8 @@
       "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnpuMXJ1bEJIdjloWks5dF9zT0hiRmQ4clJ1N1psTzlyc2lLX0tyVmxCbG5mMVU5N1I4ODk5cGpkMHNtYzMtalFFSjRNYVkxUmViZmZ0TzhaQjNnd2JZSlEtYUdBX1daSGZ1b3ZzYm9YN3dSdENFY1hXQTNfLXF1TnNLNDRsbmpBTlBSNHlyWUVYaTl2?oc=5",
       "published": "2026-11-18T13:06:00+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "A Sallaum bővíti a szárazföldi járműtárolási és vámkezelési kapacitását – Szállítmányozási hírek"
     },
     {
       "id": "babd59d3091e58845e1b1dc1",
@@ -66,7 +67,7 @@
       "summary": "GasNet: freight transport in Czechia cannot do without LNG and bioLNG oEnergetice.cz",
       "country": "Csehország",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Csehország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0ZWeUVVclVkb2ZYSDBVdmh6ZFNTZUxoWmhSbm9VVVhJWjlwLTBtcG9uNF9kZXk1WmRHaXBSNDR6dzlZdUE4MnJCRS1IR3ZhOVRaSzNmRHAtbUFoYkc2OXlFSHBYZEZ4RC1ITU5MN3ZuV3lHT2VVSTlxX1JaOWppWWR3b3REcDRCXy1MOWw0LWJWNnhTTXBWTFdPMmtMQkxscnU3ZnRPcDNZZw?oc=5",
       "published": "2026-11-18T12:31:00+00:00",
       "urgent": false,
@@ -203,7 +204,7 @@
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
       "published": "2026-11-17T08:28:57+00:00",
       "urgent": false,
@@ -330,7 +331,9 @@
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43M2ZkQlR3Q2ttd2cxV29XbTNGcW5DdjVvM210NmdXd3NSbE5qa1ZXRnByTl9kOHg4cGY4UVE3YnlGYzJRMURCaDNuYm96UQ?oc=5",
       "published": "2026-11-16T10:42:24+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Útépítési munkálatok által érintett útvonalak öt országban – fontos információk a nehéz tehergépjárművek vezetői számára – trafficban.com",
+      "summary_hu": "Útburkolati munkálatok által érintett útvonalak öt országban – fontos információk a nehéz tehergépjárművek vezetői számára trafficban.com"
     },
     {
       "id": "8da8c093d2fed5540bbe9186",
@@ -341,7 +344,8 @@
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LanNSQUx4VXVnMVNKSHExY1J4cWFCZVQ4YWdCRno1SE1fUmJwWW1IZ1BnYTZObTNoTDdoWGJ2YjlHSFk3MmVhQk5Na2xPQQ?oc=5",
       "published": "2026-11-16T08:17:18+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
       "id": "85f12bc412b3fc3f85e3a0c1",
@@ -596,19 +600,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "d5ac6724eaa2ffef430a04b7",
-      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
-      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
-      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
-    },
-    {
       "id": "a9d0e42ce7d23602620f837c",
       "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
       "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
@@ -620,6 +611,19 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "d5ac6724eaa2ffef430a04b7",
+      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
+      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
+      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -1020,9 +1024,9 @@
       "id": "5fe0db9f6ccdd30dd2739125",
       "title": "European road freight rates steady at record highs - IRU | World Road Transport Organisation",
       "summary": "European road freight rates steady at record highs IRU | World Road Transport Organisation",
-      "country": "Montenegró",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEpvSURKeTJhTTF6eEp3VGljV3l6VFh2Z0h6R3g1dk1iVU1qY1VwYk15elVoSjh5enZyRmE1QU0xeGQyUEh4MlRxSC1DdkkxNUNiS0s2bzNERDNCbDdWU1RoNTUzaDNXVmpiZDhla3VlWjFiMnpGS3NLQm5fUC1qeUdtanVKRTQweTZyTjlSODdDZ21jM0E?oc=5",
       "published": "2026-11-10T12:17:54+00:00",
       "urgent": false,
@@ -1368,17 +1372,6 @@
       "summary_hu": "Az Egala csatlakozik az IRU-hoz a környezetbarátabb, intelligensebb tehergépjármű-szállítás előmozdítása érdekében | IRU | IRU Közúti Közlekedés Nemzetközi Szövetsége | Közúti Közlekedés Nemzetközi Szövetsége"
     },
     {
-      "id": "9460d7c5da98b1f1a44328d7",
-      "title": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. - Stock Titan",
-      "summary": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. Stock Titan",
-      "country": "Németország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFXbmRIRWJaRUloQ3U5VEFQUGFBeXNwNWtneU9EeHNyVFV4NkRVZ2tjSy1CQkpLVU9EWWNTY2RhWVBORGJweUl0eURRZnQ5SldYVUM5WWh6eXBfaXJKcWtoNVhZMjlIaVhldVhhOWdVeU1EbWlSRXptQ2NwR3RaTzV3a1A1NDlVTGgyWEY2dDBNTHZ0b1JiVTEzOUFyUTJDTnU0UTJIYU55djN2aGNDbk50dFhQZi1YQndHcGhfcw?oc=5",
-      "published": "2026-11-05T08:00:00+00:00",
-      "urgent": false
-    },
-    {
       "id": "bf2cc15b9c9ad8ac70ceda8f",
       "title": "Sweden fines Lithuanian haulier 180,000 kronor - Trans.INFO",
       "summary": "Sweden fines Lithuanian haulier 180,000 kronor Trans.INFO",
@@ -1389,6 +1382,19 @@
       "published": "2026-11-05T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Svédország 180 000 koronás bírságot szabott ki egy litván fuvarozóra – Trans.INFO"
+    },
+    {
+      "id": "9460d7c5da98b1f1a44328d7",
+      "title": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. - Stock Titan",
+      "summary": "A snack maker is moving plant transport from diesel to electric with four self-driving vehicles. Stock Titan",
+      "country": "Németország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFXbmRIRWJaRUloQ3U5VEFQUGFBeXNwNWtneU9EeHNyVFV4NkRVZ2tjSy1CQkpLVU9EWWNTY2RhWVBORGJweUl0eURRZnQ5SldYVUM5WWh6eXBfaXJKcWtoNVhZMjlIaVhldVhhOWdVeU1EbWlSRXptQ2NwR3RaTzV3a1A1NDlVTGgyWEY2dDBNTHZ0b1JiVTEzOUFyUTJDTnU0UTJIYU55djN2aGNDbk50dFhQZi1YQndHcGhfcw?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Egy rágcsálnivaló-gyártó négy önvezető járművel állítja át az üzemi szállítást dízelüzemről elektromosra. – Stock Titan",
+      "summary_hu": "Egy rágcsálnivaló-gyártó négy önvezető járművel állítja át az üzemi szállítást dízelüzemről elektromosra. Stock Titan"
     },
     {
       "id": "1c529d9d8b0c12ce71e0a81e",
@@ -1715,9 +1721,11 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T01:37:32.176586+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-19T03:11:15.152009+00:00",
+  "sources_ok": 33,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Montenegró fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
