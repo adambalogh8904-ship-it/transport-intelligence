@@ -1073,7 +1073,7 @@
       "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
       "country": "EU",
       "category": "Útdíj",
-      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTd4clRuRHozRml5WXFXU1J3ODVrcGZyWjFPeC1SVjg4NjFOdG16WE84cnktWGZtWHR2X0Rxb3hHbUcwbV85UTVCWUVJY0YyRGYwU2UyOG41ekZTUHNvYlo5c2ZZd3VuNl94NmYzcm5UQThSa1JfWkN6dk1Fd1h3b0xNWDBubHFPLWd3Tk5XWXhIeXpVWmpNSjNEaTdSekpiSEExUHRyMENWaVRkZEhFZl9mUUFHRzdaaXBVRklTemZJOHNxTVdONV9qSFFLM3cyVExTXw?oc=5",
       "published": "2026-11-11T06:32:13+00:00",
       "urgent": false,
@@ -1131,18 +1131,6 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
-      "id": "d4c1751a5475408493fcc818",
-      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
-      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
-      "country": "Írország",
-      "category": "Jogszabály",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
-      "published": "2026-11-10T10:12:18+00:00",
-      "urgent": false,
-      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
       "id": "e9c8b7710edc0e5126d0dd45",
       "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
       "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
@@ -1192,6 +1180,18 @@
       "title_hu": "Az IRHA nem vesz részt a péntekre tervezett üzemanyag-tiltakozásokon – HGV Ireland"
     },
     {
+      "id": "d4c1751a5475408493fcc818",
+      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
+      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
+      "country": "Írország",
+      "category": "Jogszabály",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
       "id": "0b69567872ae3bbda6721fe7",
       "title": "EU plans tougher roadside emissions checks—what could change for Irish trucks? - HGV Ireland",
       "summary": "EU plans tougher roadside emissions checks—what could change for Irish trucks? HGV Ireland",
@@ -1215,19 +1215,6 @@
       "published": "2026-11-09T17:07:46+00:00",
       "urgent": false,
       "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
-    },
-    {
-      "id": "61a5250fbf48eea29401677c",
-      "title": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions - trafficban.com",
-      "summary": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions trafficban.com",
-      "country": "Ausztria",
-      "category": "Útdíj",
-      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YVG82YlNkbU5XbklUWUJabXVYQWZjX0ZmNGJxZk01NVQyRm9PajJLdFAwX3pHa3FtcXktUG96V3R5N0VHdnNOSVR3N3U3UzJPSkE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Vége az útdíjas útvonalak elkerülésének Ausztriában. Burgenland új tehergépjármű-korlátozásokat vezet be – trafficban.com",
-      "summary_hu": "Vége az útdíjas útvonalak elkerülésének Ausztriában. Burgenland új tehergépjármű-korlátozásokat vezet be trafficban.com"
     },
     {
       "id": "94588bdfc320faa71464536f",
@@ -1266,6 +1253,19 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
+    },
+    {
+      "id": "61a5250fbf48eea29401677c",
+      "title": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions - trafficban.com",
+      "summary": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions trafficban.com",
+      "country": "Ausztria",
+      "category": "Útdíj",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YVG82YlNkbU5XbklUWUJabXVYQWZjX0ZmNGJxZk01NVQyRm9PajJLdFAwX3pHa3FtcXktUG96V3R5N0VHdnNOSVR3N3U3UzJPSkE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Vége az útdíjas útvonalak elkerülésének Ausztriában. Burgenland új tehergépjármű-korlátozásokat vezet be – trafficban.com",
+      "summary_hu": "Vége az útdíjas útvonalak elkerülésének Ausztriában. Burgenland új tehergépjármű-korlátozásokat vezet be trafficban.com"
     },
     {
       "id": "2fd70484447707c21a806ec3",
@@ -1857,9 +1857,12 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T15:17:36.986762+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-19T17:22:20.527524+00:00",
+  "sources_ok": 32,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Dánia fuvarozás",
+    "Google News RSS – Luxemburg fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
