@@ -1060,9 +1060,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Románia",
+      "country": "Litvánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1168,6 +1168,18 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
+      "id": "d4c1751a5475408493fcc818",
+      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
+      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
+      "country": "Írország",
+      "category": "Jogszabály",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
+      "published": "2026-11-10T10:12:18+00:00",
+      "urgent": false,
+      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
       "id": "b55b311358842ca2e8107488",
       "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
       "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
@@ -1202,18 +1214,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az IRHA nem vesz részt a péntekre tervezett üzemanyag-tiltakozásokon – HGV Ireland"
-    },
-    {
-      "id": "d4c1751a5475408493fcc818",
-      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
-      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
-      "country": "Írország",
-      "category": "Jogszabály",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
     },
     {
       "id": "e9c8b7710edc0e5126d0dd45",
@@ -1424,9 +1424,9 @@
       "id": "5d3c1d5c3b347085d2f62c0f",
       "title": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border - Trend News Agency",
       "summary": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border Trend News Agency",
-      "country": "Románia",
+      "country": "Litvánia",
       "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUmlKT0gzeTFDNzFYTU93ZmVaNncwVjBjSkdSc3VNRnpNTUlHX3F1dHNXQTJrUkU5a2Z2NlE0Sk5QbS1uRmt2dlJXemsyYWVLdVlFX05EUzhmcEV6V3NB?oc=5",
       "published": "2026-11-06T08:53:57+00:00",
       "urgent": false,
@@ -1919,7 +1919,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T22:09:27.717626+00:00",
+  "updated_at": "2026-11-19T23:05:06.817274+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
