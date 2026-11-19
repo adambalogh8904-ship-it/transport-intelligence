@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "a40c768d8b66b85110c1b73d",
+      "title": "Sixteen foreign citizens, hidden in a truck with food storage containers - World Border Security Congress",
+      "summary": "Sixteen foreign citizens, hidden in a truck with food storage containers World Border Security Congress",
+      "country": "Románia",
+      "category": "Határ",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTY4R0VzcUlMRkxfaUZYUVp2M1htbmpPYTAzUHp1Q2xfXzc5NGZOb1M2aWlzalZKQlJqQ2JndWJ0eXU2VkJaLWktNTB4Vk1ZeXNDUmRHRVlGdTlMY0RtTFpUalFfeFVaSG15cjdLWndiYlNfd0M0UEs4LWxtX3lhQ1lGUjRLdm05emFjZVU5NTFNWHRGWktzN2VuLU42SEtRZjlRLWE3ODZkZw?oc=5",
+      "published": "2026-11-19T09:52:23+00:00",
+      "urgent": false,
+      "title_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban – World Border Security Congress",
+      "summary_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban World Border Security Congress"
+    },
+    {
       "id": "5fd3920b5f7781d464796570",
       "title": "Irish hauliers face cash flow crisis with no date for fuel support payments - HGV Ireland",
       "summary": "Irish hauliers face cash flow crisis with no date for fuel support payments HGV Ireland",
@@ -23,6 +36,18 @@
       "published": "2026-11-19T06:39:18+00:00",
       "urgent": false,
       "title_hu": "Hat műhelyi ellenőrzés, amellyel csökkenthető a flotta dízelköltsége – HGV Ireland"
+    },
+    {
+      "id": "c8785dad0c9ea1208a68b14c",
+      "title": "Daytime Truck Traffic On Minsk Ring Road Set To Be Banned From January 1 - REFORM.news",
+      "summary": "Daytime Truck Traffic On Minsk Ring Road Set To Be Banned From January 1 REFORM.news",
+      "country": "Fehéroroszország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTRpTzN0Z0FFQThmWC1kRmV0cEdFOEpaV0UyeEdaOW1SM1V6LUN1MnM2UkhWRTV6aE9HOUs4cjhCajB2T3pucHowcFdJdm1BUWstd250Y1Y4QV8yM1ZicHhKQzhySVBZNmN2ay1KMmtHeFROSkJWTlQ3ZnJBb3Nfdy1PZ0FvMkVzX0F5Y0l5WUptWDY5cGFvOEpySVPSAaIBQVVfeXFMTk5zaW02Tkc1Ylhac1JRbWpIMFpJR2EwdHM3dnlieGhYSGpqU2hwdmV5NVVQSnEwTmZPZzhEcm1NMFJvcURDTTdSWVYydkNneWdTbndxd29mOWtVWmRRZ2dWb3BDS0dUVGFmYS1WMmdsbWNfQ05adklZOFluMnNVaVAzTnhPS2l0ci1FMW1xU0IybDE2Q0FreklIYW5PcWdudUdB?oc=5",
+      "published": "2026-11-19T04:30:52+00:00",
+      "urgent": false,
+      "title_hu": "Január 1-jétől betiltják a tehergépkocsik nappali forgalmát a minszki körgyűrűn – REFORM.news"
     },
     {
       "id": "bd62be025ab00419476364a8",
@@ -985,9 +1010,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
+      "country": "Egyesült Királyság",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -1044,19 +1069,6 @@
       "summary_hu": "Közel két hétre lezárják az utakat Strathavenben az elektromos hálózaton végzett munkálatok miatt www.eastkilbridetoday.co.uk"
     },
     {
-      "id": "e9c8b7710edc0e5126d0dd45",
-      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
-      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
-      "country": "Bulgária",
-      "category": "Útdíj",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
-      "published": "2026-11-10T12:31:17+00:00",
-      "urgent": false,
-      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
-      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
-    },
-    {
       "id": "5fe0db9f6ccdd30dd2739125",
       "title": "European road freight rates steady at record highs - IRU | World Road Transport Organisation",
       "summary": "European road freight rates steady at record highs IRU | World Road Transport Organisation",
@@ -1080,6 +1092,19 @@
       "published": "2026-11-10T10:12:18+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
+      "id": "e9c8b7710edc0e5126d0dd45",
+      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
+      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
+      "country": "Bulgária",
+      "category": "Útdíj",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
+      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
     },
     {
       "id": "b55b311358842ca2e8107488",
@@ -1757,11 +1782,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-19T08:36:07.381202+00:00",
-  "sources_ok": 33,
+  "updated_at": "2026-11-19T10:26:09.142589+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Egyesült Királyság fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
