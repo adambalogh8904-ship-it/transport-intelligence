@@ -54,9 +54,9 @@
       "id": "da3a6b5414c21b2c4eded9f6",
       "title": "Truck on fire forces closure of Hwy. 11 in Orillia - CTV News",
       "summary": "Truck on fire forces closure of Hwy. 11 in Orillia CTV News",
-      "country": "Oroszország",
+      "country": "Dánia",
       "category": "Útlezárás",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Dánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalJSc25nNnBEOW10bkUxQzVvNUlDSkxOVkE5UWVaMlRCWUdVbWI4TUxwX0twX1ZYQ1VTMVN0R3NsRVhLXzB4c2owR1RodG5GdHI4ODNrZG9ZRUdXVU1QQjhRdHlWZ2hIZUVLb0NWWlB0TFdYV25xdXFGUlctZE5KQS1ueGt3UmdUbUdmRzRwVENPdw?oc=5",
       "published": "2026-11-19T15:06:03+00:00",
       "urgent": false,
@@ -1045,6 +1045,19 @@
       "summary_hu": "A Trakia-autópályán történt balesetek után az útügyi hatóságnak, a rendőrségnek és az útdíjszedő szervezetnek 7 napja van, hogy megállapodjanak a közös szabályokról – BurgasMedia"
     },
     {
+      "id": "55b637231e69c3b640373a90",
+      "title": "Brent slide fails to ease diesel and freight costs, pushing US inflation relief out to 2027 - VT Markets",
+      "summary": "Brent slide fails to ease diesel and freight costs, pushing US inflation relief out to 2027 VT Markets",
+      "country": "Ciprus",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaWNldWhUNEk1dVhMOTY4NGNaXzhXTFBJMjNhUXFEc3IxQjVvbnl5LWx2ZHk3eXd6N1ltZVZLOVgxX3lRdUd3SS1ncVJyNkN5MmJwZVZYUWRzcVdxX1F4a2cxckQ2MUs4ZFk3MWdjMDAxekxzb2xyLS1FUGpPTDNtVW04Zjd5TTNXTFI4TWFPMXpFblhBUVoycUJxX01ERFVRenNCdWNnVkNFajVZVWc0WWI3RENEUzMybFgzaVVwOTM4R3hoZmhxRG5VaThYa1VENEE?oc=5",
+      "published": "2026-11-11T17:38:29+00:00",
+      "urgent": false,
+      "title_hu": "A Brent árának csökkenése nem enyhíti a dízel- és a szállítási költségeket, így az amerikai infláció csökkenése 2027-re tolódik – VT Markets",
+      "summary_hu": "A Brent árának csökkenése nem enyhíti a dízel- és a szállítási költségeket, így az amerikai infláció csökkenése 2027-re tolódik ki VT Markets"
+    },
+    {
       "id": "241cfac8182bfb1c60fcd1ca",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -1531,19 +1544,6 @@
       "title_hu": "Az IRHA szerint az elektromos tehergépjárművekre vonatkozó célok nem érhetők el töltési beruházások nélkül – HGV Ireland"
     },
     {
-      "id": "935ca9d51827242b34125073",
-      "title": "Safer Truck initiative puts real-world training at the heart of HGV road safety - HGV Ireland",
-      "summary": "Safer Truck initiative puts real-world training at the heart of HGV road safety HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFlwVmpBT3BydmdCZGtoOXFCS0YtaUdUNmdVeU9lbk9uMTNqTE5rTG5zcG54Ml9NX05helNlSXZnQWdtTmlpXy1vR0dKWDJBcEVBQ19TYnF5VUJZUm5vdnRGWTd0cWxZTC04RUFNU1pwbktVQWRlR2JLTjFtQl9NUkcxdHFTMl9GZUpYZC1EUGtRZ3VHcmhuSGFIU2p1ZzhvTVl5X2FFNUVSSEU?oc=5",
-      "published": "2026-11-06T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A Safer Truck kezdeményezés a valós körülmények között zajló képzést helyezi a nehéz tehergépjárművek közúti biztonságának középpontjába – HGV Ireland",
-      "summary_hu": "A Safer Truck kezdeményezés a valós körülmények között zajló képzést helyezi a nehéz tehergépjárművek közúti biztonságának középpontjába HGV Ireland"
-    },
-    {
       "id": "de59bffa77348ada9d158da3",
       "title": "Moldova and Romania to implement joint measures to streamline truck traffic at border - Moldpres",
       "summary": "Moldova and Romania to implement joint measures to streamline truck traffic at border Moldpres",
@@ -1555,6 +1555,19 @@
       "urgent": false,
       "title_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépkocsiforgalom határátlépésének egyszerűsítése érdekében – Moldpres",
       "summary_hu": "Moldova és Románia közös intézkedéseket fog végrehajtani a tehergépjármű-forgalom határátlépésének egyszerűsítése érdekében Moldpres"
+    },
+    {
+      "id": "935ca9d51827242b34125073",
+      "title": "Safer Truck initiative puts real-world training at the heart of HGV road safety - HGV Ireland",
+      "summary": "Safer Truck initiative puts real-world training at the heart of HGV road safety HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFlwVmpBT3BydmdCZGtoOXFCS0YtaUdUNmdVeU9lbk9uMTNqTE5rTG5zcG54Ml9NX05helNlSXZnQWdtTmlpXy1vR0dKWDJBcEVBQ19TYnF5VUJZUm5vdnRGWTd0cWxZTC04RUFNU1pwbktVQWRlR2JLTjFtQl9NUkcxdHFTMl9GZUpYZC1EUGtRZ3VHcmhuSGFIU2p1ZzhvTVl5X2FFNUVSSEU?oc=5",
+      "published": "2026-11-06T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A Safer Truck kezdeményezés a valós körülmények között zajló képzést helyezi a nehéz tehergépjárművek közúti biztonságának középpontjába – HGV Ireland",
+      "summary_hu": "A Safer Truck kezdeményezés a valós körülmények között zajló képzést helyezi a nehéz tehergépjárművek közúti biztonságának középpontjába HGV Ireland"
     },
     {
       "id": "957695b6ed38c251fe52a6e3",
@@ -1993,7 +2006,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-20T01:30:52.582871+00:00",
+  "updated_at": "2026-11-20T03:05:50.835424+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
