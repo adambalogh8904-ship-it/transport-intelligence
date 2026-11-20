@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9cc3223d245d4c3a91599045",
+      "title": "Croatia plans major motorway toll changes – cash payments to disappear - Croatia Week",
+      "summary": "Croatia plans major motorway toll changes – cash payments to disappear Croatia Week",
+      "country": "Horvátország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Horvátország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS01VTl3bGYtcXlFSk9NUmhTNVJ2d092NVR6aXU2OGpGdWlWR3hpaF9QNUtlRmFMX2kyamVsaEU5NVQ4WnpYdllOVW0wbHdlQXFvOGdBU285SnNwemEydzNWU2c3NnFIVTFobl8yekpGVnNRSUFEMGtKbDk1NFhrR014OHBpRkZvMGhxQUc1NV9GWWQ0LUZYc3Z2QWYzQQ?oc=5",
+      "published": "2026-11-20T16:00:08+00:00",
+      "urgent": false,
+      "title_hu": "Horvátország jelentős változtatásokat tervez az autópályadíjak terén – megszűnnek a készpénzes fizetések – Croatia Week"
+    },
+    {
       "id": "b7a3bbd10463a8ac81fa854e",
       "title": "Croatia plans major motorway toll changes – cash payments to disappear - Croatia Week",
       "summary": "Croatia plans major motorway toll changes – cash payments to disappear Croatia Week",
@@ -24,6 +36,18 @@
       "urgent": false,
       "title_hu": "Útépítési munkálatok az A4-es autópályán: Útzár az Esch-sur-Alzette csomópont és Leudelange között ezen a hétvégén – RTL Today",
       "summary_hu": "Útépítési munkálatok az A4-es autópályán: Útzár az Esch-sur-Alzette csomópont és Leudelange között ezen a hétvégén RTL Today"
+    },
+    {
+      "id": "27ce05564178a521213ed548",
+      "title": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound - CTV News",
+      "summary": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound CTV News",
+      "country": "Olaszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2dKN0NULUdQcEhSOTk2d2c5bkVwckFJMU9QR01rN0lzR2lFVWtfY0lndlNmSzRSTGtGUjNTOGpfbVQ1MUE2S3VZUXVYUXM3aVNpMkcyZENWck54V1F0VEhJNnpMOEpXaTRGT0NDdnctbmJGS2JBakRIZ3BnemtNdmI5ai0wbGg3LXo4Xzgycm90VUpzT1RBUFh4cktXNm1nU3pfbFBpTmZFR045SmRhcG54aWRaZlUtb0N3dl9GOGtLUG9jVkd4MkZOX3V1WWs?oc=5",
+      "published": "2026-11-20T13:46:50+00:00",
+      "urgent": false,
+      "title_hu": "Üzemanyag-szállító tartálykocsi balesete Trenton közelében, a tűz miatt lezárták a 401-es autópályát kelet felé – CTV News"
     },
     {
       "id": "095b8cfcb8fb0830544475d4",
@@ -118,7 +142,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0YxZnZaM1A1QzhkVFNvNVlUS0ZrTTVRWVJ6VkZJOTFYZHVudi1QOEFpbTRhdF9UZF9KQVJQVlpTTkFnS1h6a3p3VlJtZnhGN1J3MzliWUhHVV9ZZlZnUUR4OU9UZlBDbnhBRXVkVE5uY3YxU3hnSThJQW0xdGM2aG5iTmJTa2ZPSEpzVGlxMFl5bmdMTEJDd1czTnAxczNUSjNkcndDZWFWLUozOHZvdVotQnpDOHEzYlU2NTg5OEZvSWFXR2RHaFVlTWhCQ2RFenNLVg?oc=5",
       "published": "2026-11-19T12:46:36+00:00",
       "urgent": false,
@@ -884,19 +908,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "a9d0e42ce7d23602620f837c",
-      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
-      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
-      "country": "Egyesült Királyság",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
-      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
-    },
-    {
       "id": "d5ac6724eaa2ffef430a04b7",
       "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
       "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
@@ -908,6 +919,19 @@
       "urgent": false,
       "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
       "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
+    },
+    {
+      "id": "a9d0e42ce7d23602620f837c",
+      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
+      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
+      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -1272,9 +1296,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
+      "country": "Egyesült Királyság",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -1496,7 +1520,7 @@
       "summary": "Austria: additional truck restrictions on 2 and 3 October on the Brenner route trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WVHNDLXllVkU1RnFXTVM3R3NyRzYzUkRZYm10STA2eENMOVpseHRxWmRDMlNzLVBKNi1IdU82TGQ4ZlNIZzlMVjZFRTFranprUnc?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "urgent": false,
@@ -1517,6 +1541,18 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
+      "id": "f8fba468106f4a8b1b28a208",
+      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
+      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
+    },
+    {
       "id": "e71685212d3d3978df4514c6",
       "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
       "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
@@ -1528,18 +1564,6 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
-    },
-    {
-      "id": "f8fba468106f4a8b1b28a208",
-      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
-      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
     },
     {
       "id": "62bc2ee768a908fda8d7c6b6",
@@ -2193,7 +2217,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-20T16:18:21.891961+00:00",
+  "updated_at": "2026-11-20T18:15:00.865935+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
