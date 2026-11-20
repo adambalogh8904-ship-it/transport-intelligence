@@ -31,7 +31,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden FreshPlaza",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakgxQzFOWkU2dURUeWZPRjZKdmJIRnFQV3c5UjdtS0xEWTlVM2RJdlF4Yk9lRmRVRWNDWEZLMDBIcVQwZzI2RGVuYlVtTjdSUFB2OXV5dVBuUF9pdld2cXdoNk9IdGhrRDB2M3BQX2ZIQ3NsTWJhMG9fOHlrMF8tUlJuakRWTXE0bXZJcWFnck93d3MxZVV5SFFnRWJYQlN2S0VzWHFPNjVjRnpGTl9ObE56bkVVREFrbkxNbERFbFZBcDYtSjlxQ3dyR1JrbHFEN2FGajEzVFJ0NTlyMkE?oc=5",
       "published": "2026-11-19T16:52:30+00:00",
       "urgent": false,
@@ -68,7 +68,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0YxZnZaM1A1QzhkVFNvNVlUS0ZrTTVRWVJ6VkZJOTFYZHVudi1QOEFpbTRhdF9UZF9KQVJQVlpTTkFnS1h6a3p3VlJtZnhGN1J3MzliWUhHVV9ZZlZnUUR4OU9UZlBDbnhBRXVkVE5uY3YxU3hnSThJQW0xdGM2aG5iTmJTa2ZPSEpzVGlxMFl5bmdMTEJDd1czTnAxczNUSjNkcndDZWFWLUozOHZvdVotQnpDOHEzYlU2NTg5OEZvSWFXR2RHaFVlTWhCQ2RFenNLVg?oc=5",
       "published": "2026-11-19T12:46:36+00:00",
       "urgent": false,
@@ -92,9 +92,9 @@
       "id": "a40c768d8b66b85110c1b73d",
       "title": "Sixteen foreign citizens, hidden in a truck with food storage containers - World Border Security Congress",
       "summary": "Sixteen foreign citizens, hidden in a truck with food storage containers World Border Security Congress",
-      "country": "Lengyelország",
+      "country": "Románia",
       "category": "Határ",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTY4R0VzcUlMRkxfaUZYUVp2M1htbmpPYTAzUHp1Q2xfXzc5NGZOb1M2aWlzalZKQlJqQ2JndWJ0eXU2VkJaLWktNTB4Vk1ZeXNDUmRHRVlGdTlMY0RtTFpUalFfeFVaSG15cjdLWndiYlNfd0M0UEs4LWxtX3lhQ1lGUjRLdm05emFjZVU5NTFNWHRGWktzN2VuLU42SEtRZjlRLWE3ODZkZw?oc=5",
       "published": "2026-11-19T09:52:18+00:00",
       "urgent": false,
@@ -390,7 +390,7 @@
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
       "published": "2026-11-17T08:28:57+00:00",
       "urgent": false,
@@ -798,19 +798,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "d5ac6724eaa2ffef430a04b7",
-      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
-      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
-      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
-    },
-    {
       "id": "a9d0e42ce7d23602620f837c",
       "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
       "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
@@ -822,6 +809,19 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "d5ac6724eaa2ffef430a04b7",
+      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
+      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
+      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -863,9 +863,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Németország",
+      "country": "Litvánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -1124,9 +1124,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Litvánia",
+      "country": "Románia",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1157,6 +1157,18 @@
       "title_hu": "Az IRHA az januári útdíjemelések felülvizsgálatát kéri – HGV Ireland"
     },
     {
+      "id": "f5136b1c38abb71e6c5f93a8",
+      "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
+      "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
+    },
+    {
       "id": "357e6e17204c4fccdd7449f4",
       "title": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister - RTL Today",
       "summary": "From May 2027: No exceptions for Luxembourg drivers under Belgian road toll, says Walloon mobility minister RTL Today",
@@ -1168,18 +1180,6 @@
       "urgent": false,
       "title_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíjból nincs kivétel a luxemburgi sofőrök számára – RTL Today",
       "summary_hu": "2027 májusától: A vallon mobilitási miniszter szerint a belga útdíj tekintetében nem lesznek kivételek a luxemburgi járművezetők számára – RTL Today"
-    },
-    {
-      "id": "f5136b1c38abb71e6c5f93a8",
-      "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
-      "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Egyesült Királyság",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
     },
     {
       "id": "d52ea408608535cf16f7103e",
@@ -1281,18 +1281,6 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
-      "id": "d4c1751a5475408493fcc818",
-      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
-      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
-      "country": "Írország",
-      "category": "Jogszabály",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
-      "published": "2026-11-10T10:12:18+00:00",
-      "urgent": false,
-      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
       "id": "b55b311358842ca2e8107488",
       "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
       "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
@@ -1327,6 +1315,18 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az IRHA nem vesz részt a péntekre tervezett üzemanyag-tiltakozásokon – HGV Ireland"
+    },
+    {
+      "id": "d4c1751a5475408493fcc818",
+      "title": "RSA records 66 smart tachograph infringements at roadside checks - HGV Ireland",
+      "summary": "RSA records 66 smart tachograph infringements at roadside checks HGV Ireland",
+      "country": "Írország",
+      "category": "Jogszabály",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFVoQnFkOW5XR3FIcV9CRUJCam5wSTZmaEdILVlZcjUweC1yUEFIT2N0WlFKYldjV0JwRGZTUk5YcnAyQ2FxZkhaOGltRnR5V0hRSTUzRnRFNHV6WEFwLXpjakRyUFBVd0YtTVFqSURoSHBaalctelo2eGtMTm15R21Ib1ZkLUFkTDl3MFNCOC1JeldfS29j?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
     },
     {
       "id": "e9c8b7710edc0e5126d0dd45",
@@ -1406,18 +1406,6 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
-      "id": "f8fba468106f4a8b1b28a208",
-      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
-      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
-    },
-    {
       "id": "62bc2ee768a908fda8d7c6b6",
       "title": "Italy: daily truck ban on SR 206 from 3 to 31 August - trafficban.com",
       "summary": "Italy: daily truck ban on SR 206 from 3 to 31 August trafficban.com",
@@ -1441,6 +1429,18 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
+    },
+    {
+      "id": "f8fba468106f4a8b1b28a208",
+      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
+      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
     },
     {
       "id": "0a16635de4ac3fc2d61a3ed9",
@@ -1574,9 +1574,9 @@
       "id": "5d3c1d5c3b347085d2f62c0f",
       "title": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border - Trend News Agency",
       "summary": "Uzbekistan moves to reduce truck waiting times at Kazakhstan border Trend News Agency",
-      "country": "Litvánia",
+      "country": "Fehéroroszország",
       "category": "Határ",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Fehéroroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUmlKT0gzeTFDNzFYTU93ZmVaNncwVjBjSkdSc3VNRnpNTUlHX3F1dHNXQTJrUkU5a2Z2NlE0Sk5QbS1uRmt2dlJXemsyYWVLdVlFX05EUzhmcEV6V3NB?oc=5",
       "published": "2026-11-06T08:53:57+00:00",
       "urgent": false,
@@ -2069,9 +2069,15 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-20T05:25:50.155985+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-20T07:41:22.040743+00:00",
+  "sources_ok": 29,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Belgium fuvarozás",
+    "Google News RSS – Bulgária fuvarozás",
+    "Google News RSS – Hollandia fuvarozás",
+    "Google News RSS – Lettország fuvarozás",
+    "Google News RSS – Szlovénia fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
