@@ -1077,7 +1077,7 @@
       "category": "Egyéb",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdERxX1MzcXVHOUdYa29CcmVsRWcwNm5VdGNmZGtfMVIwWEttNFM3TjdZME5wVHpGOUx5MkVOYkVtMW44aFVKQUhRaE9ZVGx1VmdYUS1RRmdySjgzQlFfU3ZPR1hwcURkcW1XaDduWTJjeHQ1LS1LUk9mRjUzZjZLc0JyRk5YaXVPZ2MzZzB2NA?oc=5",
-      "published": "2026-11-13T08:08:28+00:00",
+      "published": "2026-11-13T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
@@ -1280,19 +1280,6 @@
       "summary_hu": "Jobb összekapcsoltság, kevesebb várakozás, kevesebb kibocsátás: az IRU a COP31-en | IRU | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége"
     },
     {
-      "id": "827160a2c127b8b76230877f",
-      "title": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice - Lovin Malta",
-      "summary": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice Lovin Malta",
-      "country": "Málta",
-      "category": "Egyéb",
-      "source": "Google News RSS – Málta fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1VsWjdMQ2N4N2wxR2E2b0VMMkMxanlaaGlsYXk3SjhYQUkyYWFZb3prOFZpaEhoeXNzbFJCbGxlcjNQN0NQb3NjaXZRVVg0d1l3aE9DSU80WThwbkRhbWx2VjhzcGVia3lhQmhzMkZQaHN6ZTFTTDZ2aVRaYzhSMVhKMk1BTVctNEZjSGxRTFQ1RnVvYlhmNmRVWncwMVNtZTU4bW5CdEM0YnhlcVpYNkE1TzQ?oc=5",
-      "published": "2026-11-12T08:58:07+00:00",
-      "urgent": false,
-      "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
-      "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
-    },
-    {
       "id": "7556ed2c3e49b6bd6ac3d9d4",
       "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
       "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
@@ -1303,6 +1290,19 @@
       "published": "2026-11-12T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Uniós szabályozási változások: mire kell felkészülniük az ír fuvarozóknak 2027-ben – HGV Ireland"
+    },
+    {
+      "id": "827160a2c127b8b76230877f",
+      "title": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice - Lovin Malta",
+      "summary": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice Lovin Malta",
+      "country": "Málta",
+      "category": "Egyéb",
+      "source": "Google News RSS – Málta fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1VsWjdMQ2N4N2wxR2E2b0VMMkMxanlaaGlsYXk3SjhYQUkyYWFZb3prOFZpaEhoeXNzbFJCbGxlcjNQN0NQb3NjaXZRVVg0d1l3aE9DSU80WThwbkRhbWx2VjhzcGVia3lhQmhzMkZQaHN6ZTFTTDZ2aVRaYzhSMVhKMk1BTVctNEZjSGxRTFQ1RnVvYlhmNmRVWncwMVNtZTU4bW5CdEM0YnhlcVpYNkE1TzQ?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
+      "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
     },
     {
       "id": "92a9576d5bb16b608d2807c8",
@@ -1420,9 +1420,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Olaszország",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1602,6 +1602,19 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
+      "id": "1ecea9846704600807b05960",
+      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "country": "Bulgária",
+      "category": "Egyéb",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+    },
+    {
       "id": "b55b311358842ca2e8107488",
       "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
       "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
@@ -1648,19 +1661,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
-      "id": "1ecea9846704600807b05960",
-      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
-      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
-      "country": "Bulgária",
-      "category": "Egyéb",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
-      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
     },
     {
       "id": "e9c8b7710edc0e5126d0dd45",
@@ -1834,7 +1834,7 @@
       "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
       "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
@@ -2441,7 +2441,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T22:58:16.848831+00:00",
+  "updated_at": "2026-11-21T23:55:56.110175+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
