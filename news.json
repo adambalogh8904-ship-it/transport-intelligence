@@ -861,7 +861,7 @@
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
       "published": "2026-11-15T06:47:00+00:00",
       "urgent": false,
@@ -1267,18 +1267,6 @@
       "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
     },
     {
-      "id": "92a9576d5bb16b608d2807c8",
-      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
-      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
-      "country": "Spanyolország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
-    },
-    {
       "id": "7556ed2c3e49b6bd6ac3d9d4",
       "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
       "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
@@ -1289,6 +1277,18 @@
       "published": "2026-11-12T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Uniós szabályozási változások: mire kell felkészülniük az ír fuvarozóknak 2027-ben – HGV Ireland"
+    },
+    {
+      "id": "92a9576d5bb16b608d2807c8",
+      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
+      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
     },
     {
       "id": "c2b48c81268e5e7d6fe597a0",
@@ -1364,19 +1364,6 @@
       "published": "2026-11-11T16:04:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
-    },
-    {
-      "id": "789fd61ea464084d9db6cdcf",
-      "title": "Germany now has a truck with no cab hauling Lidl groceries on a public road up to three times a day, and one human job still travels with it in a separate vehicle - ECOticias.com - El Periódico Verde",
-      "summary": "Germany now has a truck with no cab hauling Lidl groceries on a public road up to three times a day, and one human job still travels with it in a separate vehicle ECOticias.com - El Periódico Verde",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcFZrdnJoQU5RdTcwX1EtRE5SYUZqeE0wWDFWdXBScjZUVUpxUDRNRHZieVN5YlZIT1p0TG9uRnF1TEZOeHRWWUZqR1hJMkE3NDJVVzgtX19uUDEzV3pFdnQzOHQtU21jQnd3ZXpSQ0JJVnJGUF9IREhqU1NCUjNYMHBwekhoXzU1eHYzVV8zUjFaWFlwVS1wcmE3VUZhQlVuRnNMei10MXo1dFVqWDI4MV9sWFA1aHQzLVU3bWxia2pEaTNSMjlQbkZEYWRXT1ZzNU1ZQW9FX250bmd3c3czOE1iX1pwMy1iMjFMTjlyN2NIeEJLdnJsV0VMSURSR0tpR21lMlZTZ3hmR1YwcHpLX1VSZkZYWjFBMUdmTFY5b182dVE?oc=5",
-      "published": "2026-11-11T15:13:00+00:00",
-      "urgent": false,
-      "title_hu": "Németországban mostantól naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó, amely Lidl-élelmiszereket szállít közúton, és továbbra is egy emberi munkahely utazik vele egy külön járműben – ECOticias.com – El Periódico Verde",
-      "summary_hu": "Németországban jelenleg naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó közúton, amely Lidl-élelmiszereket szállít, és egy emberi munkahely továbbra is elkíséri egy külön járműben ECOticias.com – El Periódico Verde"
     },
     {
       "id": "3e53532a8179198cf07f7e61",
@@ -1463,6 +1450,19 @@
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
       "title_hu": "A közlekedési miniszter megvédi az útdíjak emelését – Irish Examiner"
+    },
+    {
+      "id": "789fd61ea464084d9db6cdcf",
+      "title": "Germany now has a truck with no cab hauling Lidl groceries on a public road up to three times a day, and one human job still travels with it in a separate vehicle - ECOticias.com - El Periódico Verde",
+      "summary": "Germany now has a truck with no cab hauling Lidl groceries on a public road up to three times a day, and one human job still travels with it in a separate vehicle ECOticias.com - El Periódico Verde",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcFZrdnJoQU5RdTcwX1EtRE5SYUZqeE0wWDFWdXBScjZUVUpxUDRNRHZieVN5YlZIT1p0TG9uRnF1TEZOeHRWWUZqR1hJMkE3NDJVVzgtX19uUDEzV3pFdnQzOHQtU21jQnd3ZXpSQ0JJVnJGUF9IREhqU1NCUjNYMHBwekhoXzU1eHYzVV8zUjFaWFlwVS1wcmE3VUZhQlVuRnNMei10MXo1dFVqWDI4MV9sWFA1aHQzLVU3bWxia2pEaTNSMjlQbkZEYWRXT1ZzNU1ZQW9FX250bmd3c3czOE1iX1pwMy1iMjFMTjlyN2NIeEJLdnJsV0VMSURSR0tpR21lMlZTZ3hmR1YwcHpLX1VSZkZYWjFBMUdmTFY5b182dVE?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Németországban mostantól naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó, amely Lidl-élelmiszereket szállít közúton, és továbbra is egy emberi munkahely utazik vele egy külön járműben – ECOticias.com – El Periódico Verde",
+      "summary_hu": "Németországban jelenleg naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó közúton, amely Lidl-élelmiszereket szállít, és egy emberi munkahely továbbra is elkíséri egy külön járműben ECOticias.com – El Periódico Verde"
     },
     {
       "id": "d52ea408608535cf16f7103e",
@@ -1564,17 +1564,17 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
-      "id": "1ecea9846704600807b05960",
-      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
-      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "id": "e9c8b7710edc0e5126d0dd45",
+      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
+      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
       "country": "Bulgária",
-      "category": "Egyéb",
+      "category": "Útdíj",
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
-      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
-      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
+      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
     },
     {
       "id": "b55b311358842ca2e8107488",
@@ -1625,17 +1625,17 @@
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
     },
     {
-      "id": "e9c8b7710edc0e5126d0dd45",
-      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
-      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
+      "id": "1ecea9846704600807b05960",
+      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
-      "category": "Útdíj",
+      "category": "Egyéb",
       "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
-      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
-      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
+      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
     },
     {
       "id": "0b69567872ae3bbda6721fe7",
@@ -1702,19 +1702,6 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
-      "id": "0a16635de4ac3fc2d61a3ed9",
-      "title": "July 14 in France – truck driving ban. What about refrigerated and frozen transport? - trafficban.com",
-      "summary": "July 14 in France – truck driving ban. What about refrigerated and frozen transport? trafficban.com",
-      "country": "Franciaország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XUGs1TkM0bmkybVBaX2o1TXJ3Nm5sSGVWUUpyZF9BM3MxY0VDdlZJVDI2RDJKZHlFNFBSckZFSzdTQkExSVQwS2hIbWNfOHNCLUE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Július 14. Franciaországban – tehergépjármű-forgalmi korlátozás. Mi a helyzet a hűtött és fagyasztott áruk szállításával? - trafficban.com",
-      "summary_hu": "Július 14. Franciaországban – tehergépjármű-forgalmi korlátozás. Mi a helyzet a hűtött és fagyasztott árukat szállító járművekkel? trafficban.com"
-    },
-    {
       "id": "f8fba468106f4a8b1b28a208",
       "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
       "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
@@ -1738,6 +1725,19 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
+    },
+    {
+      "id": "0a16635de4ac3fc2d61a3ed9",
+      "title": "July 14 in France – truck driving ban. What about refrigerated and frozen transport? - trafficban.com",
+      "summary": "July 14 in France – truck driving ban. What about refrigerated and frozen transport? trafficban.com",
+      "country": "Franciaország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XUGs1TkM0bmkybVBaX2o1TXJ3Nm5sSGVWUUpyZF9BM3MxY0VDdlZJVDI2RDJKZHlFNFBSckZFSzdTQkExSVQwS2hIbWNfOHNCLUE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Július 14. Franciaországban – tehergépjármű-forgalmi korlátozás. Mi a helyzet a hűtött és fagyasztott áruk szállításával? - trafficban.com",
+      "summary_hu": "Július 14. Franciaországban – tehergépjármű-forgalmi korlátozás. Mi a helyzet a hűtött és fagyasztott árukat szállító járművekkel? trafficban.com"
     },
     {
       "id": "62bc2ee768a908fda8d7c6b6",
@@ -2403,7 +2403,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T13:21:39.446251+00:00",
+  "updated_at": "2026-11-21T16:02:42.215611+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
