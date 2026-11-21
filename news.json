@@ -799,7 +799,7 @@
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
       "published": "2026-11-15T06:47:00+00:00",
       "urgent": false,
@@ -982,19 +982,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "d5ac6724eaa2ffef430a04b7",
-      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
-      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
-      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
-    },
-    {
       "id": "a9d0e42ce7d23602620f837c",
       "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
       "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
@@ -1006,6 +993,19 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "d5ac6724eaa2ffef430a04b7",
+      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
+      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
+      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -1160,7 +1160,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -1321,9 +1321,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Belgium",
+      "country": "Románia",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -2304,7 +2304,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-20T23:05:53.674789+00:00",
+  "updated_at": "2026-11-21T00:04:20.303200+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
