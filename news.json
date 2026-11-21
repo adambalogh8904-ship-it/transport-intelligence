@@ -168,7 +168,7 @@
       "summary": "France: Road transport prices fell despite soaring diesel prices Upply",
       "country": "Franciaország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDY4RmZOcnQwMkhoUXJTbjg0WTREQ3hCdHBTbFVQdW5RbzVUQm1jTmFiWVdCV3YwTm5Xd09lX1lXeGlQM3NTcVQ0cU1VcDJhV2dDcG1xbWswLWllbTdWckZFZ3M0TXp6b3VEZ0xZTzdIaEZLYkpKLVg5YWZtWGd5eXBPWmVCZW56ZzhybDBSTG9uSW00R0kzTF91WFVBSXJra3fSAbIBQVVfeXFMTWZVcTBzZUk2akFWMTFoRFpkcHAwaDY0WGcyWENNdUh0WFVnaDh4ZVVOaXRGZEVFRU9sUVpfb0h6VlJvZ0ltMHBZbjY5OE55aDNWOWdsZlA4YjloU0JhTUNnUnZfTVZVaFVyRmlqck1LeXZ1WUZnQnQzVzRhNGtBbUhnX3RCOEtDRnB6S0NKclBnd2RPX3NSYTJjc0V3ajhuZEROaXRnRmpIMV9xR0dkYUtVdw?oc=5",
       "published": "2026-11-19T16:22:59+00:00",
       "urgent": false,
@@ -849,7 +849,7 @@
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
       "published": "2026-11-15T06:47:00+00:00",
       "urgent": false,
@@ -1119,18 +1119,6 @@
       "summary_hu": "A walesi alapítású logisztikai csoport 60 teherautós mérföldkövet ünnepel, miközben európai üzleti tevékenysége bővül – Herald.Wales"
     },
     {
-      "id": "7556ed2c3e49b6bd6ac3d9d4",
-      "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
-      "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJoTjVSYy00dldEVTlhQU1QUnk0RE1yUW1BNEVpZFZ4NFNTeTNKZXFTNDd3MWd4cHIxenBRbVpYd05vZEhHRTlEakM4QmJ3NkhaMW1YaS1hNUZ0LWZmUHRyX1FyNWVMd3pOT1lSOEcxVTdJdFpINmotTEFrSExnTkZWWXVHVmlvQzZoM3RoSDdESGJTU0s2MlR3QlhYZw?oc=5",
-      "published": "2026-11-12T20:19:48+00:00",
-      "urgent": false,
-      "title_hu": "Uniós szabályozási változások: mire kell felkészülniük az ír fuvarozóknak 2027-ben – HGV Ireland"
-    },
-    {
       "id": "791b179928e7732f263b3e45",
       "title": "🚨A road closure is currently in place this evening - Facebook",
       "summary": "🚨A road closure is currently in place this evening Facebook",
@@ -1267,6 +1255,18 @@
       "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
     },
     {
+      "id": "7556ed2c3e49b6bd6ac3d9d4",
+      "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
+      "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJoTjVSYy00dldEVTlhQU1QUnk0RE1yUW1BNEVpZFZ4NFNTeTNKZXFTNDd3MWd4cHIxenBRbVpYd05vZEhHRTlEakM4QmJ3NkhaMW1YaS1hNUZ0LWZmUHRyX1FyNWVMd3pOT1lSOEcxVTdJdFpINmotTEFrSExnTkZWWXVHVmlvQzZoM3RoSDdESGJTU0s2MlR3QlhYZw?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Uniós szabályozási változások: mire kell felkészülniük az ír fuvarozóknak 2027-ben – HGV Ireland"
+    },
+    {
       "id": "92a9576d5bb16b608d2807c8",
       "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
       "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
@@ -1383,9 +1383,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Belgium",
+      "country": "Litvánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1552,6 +1552,19 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
+      "id": "e9c8b7710edc0e5126d0dd45",
+      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
+      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
+      "country": "Bulgária",
+      "category": "Útdíj",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
+      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
+    },
+    {
       "id": "b55b311358842ca2e8107488",
       "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
       "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
@@ -1598,19 +1611,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
-      "id": "e9c8b7710edc0e5126d0dd45",
-      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
-      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
-      "country": "Bulgária",
-      "category": "Útdíj",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
-      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
     },
     {
       "id": "0b69567872ae3bbda6721fe7",
@@ -1771,7 +1771,7 @@
       "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
       "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
@@ -2378,7 +2378,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T08:22:55.767810+00:00",
+  "updated_at": "2026-11-21T10:06:50.921135+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
