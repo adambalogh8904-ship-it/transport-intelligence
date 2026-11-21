@@ -799,7 +799,7 @@
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
       "published": "2026-11-15T06:47:00+00:00",
       "urgent": false,
@@ -982,19 +982,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "a9d0e42ce7d23602620f837c",
-      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
-      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
-      "country": "Egyesült Királyság",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
-      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
-    },
-    {
       "id": "d5ac6724eaa2ffef430a04b7",
       "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
       "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
@@ -1006,6 +993,19 @@
       "urgent": false,
       "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
       "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
+    },
+    {
+      "id": "a9d0e42ce7d23602620f837c",
+      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
+      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
+      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -1490,6 +1490,19 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
+      "id": "e9c8b7710edc0e5126d0dd45",
+      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
+      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
+      "country": "Bulgária",
+      "category": "Útdíj",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
+      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
+    },
+    {
       "id": "b55b311358842ca2e8107488",
       "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
       "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
@@ -1536,19 +1549,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
-      "id": "e9c8b7710edc0e5126d0dd45",
-      "title": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending - The Sofia Globe",
-      "summary": "Death toll in 86-vehicle chain crashes on Bulgaria’s Trakia Motorway is 12, with final figure pending The Sofia Globe",
-      "country": "Bulgária",
-      "category": "Útdíj",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm9pNWlJSGNPMjdvYUktb3N4bXNoLTd3ODdoYlVwSEVid3hmTjVhVUJITnBZX2locTBJTzBqMjFQQ2NTc2pURkdQY0lIZFVkdkU4Z3dIRmdDRmhKaTRrSWw3UC05U0ZLU3lwbEVsN2twTVlJdVFrLTJReUZhektYLWN6S2xycEZBNDJJT0ZYYnNaekd1b3pFMUhIVjJFeHU5dWtiaGRaY0ttRG1wSmQ1N25EZmtoMW5GQ25wUTVB?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges szám még nem ismert – The Sofia Globe",
-      "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
     },
     {
       "id": "0b69567872ae3bbda6721fe7",
@@ -1779,6 +1779,18 @@
       "urgent": false,
       "title_hu": "Egyesült Királyság–EU élelmiszer-határforgalmi megállapodás: A FleetInspect szerint a fuvarozóknak továbbra is a szállítási előírások betartására kell összpontosítaniuk – HGV Ireland",
       "summary_hu": "Egyesült Királyság–EU élelmiszer-határforgalmi megállapodás: A FleetInspect szerint a fuvarozóknak továbbra is az előírásoknak megfelelő szállításra kell összpontosítaniuk HGV Ireland"
+    },
+    {
+      "id": "578c29ae15e22659b5b8fce9",
+      "title": "Death toll in Jamalpur road crash rises to four - Banglanews24",
+      "summary": "Death toll in Jamalpur road crash rises to four Banglanews24",
+      "country": "Szlovénia",
+      "category": "Útdíj",
+      "source": "Google News RSS – Szlovénia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndXluX1Nrb1B2WW1YdTRTRlk1NGlHX0pGRHBTZDdQM2xBZ01JOTNFczFwTm5KaFlTZjJaaXNFaFZ4VzdGc01QNHhtTDl5U1k0cW4tSnZNeUtuNVRKRDRiWnExeS16ZmtidjFB?oc=5",
+      "published": "2026-11-07T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Négyre emelkedett a halálos áldozatok száma a jamalpuri közúti balesetben – Banglanews24"
     },
     {
       "id": "abb61b96a124e54e0c6578a0",
@@ -2304,12 +2316,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T01:36:39.367851+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-21T03:06:05.717504+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Hollandia fuvarozás",
-    "Google News RSS – Málta fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
