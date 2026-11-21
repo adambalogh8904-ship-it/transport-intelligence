@@ -1235,7 +1235,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -1456,9 +1456,9 @@
       "id": "f5136b1c38abb71e6c5f93a8",
       "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
       "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
+      "country": "Egyesült Királyság",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
@@ -1589,6 +1589,18 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
+      "id": "b55b311358842ca2e8107488",
+      "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
+      "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
+      "country": "Görögország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUWNFLUo3U2dIQjktYkJZSXdKdUhhdFFXM0p4VEpCQ3dxMlBkUTdrYW1GM1k5U19kNk5uWmt3S2tnY1BPcUhSZnBWdzRxVXEzcWd3YkJGNkw1MjJhQ1cxd3JOVVhRZXpqX2RBVlRGZW5pOVdYTFNYV01B?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
+    },
+    {
       "id": "5e38d9dbb8fd4b3966731ec6",
       "title": "Call for Govt to scrap toll, public transport fare hikes - RTE.ie",
       "summary": "Call for Govt to scrap toll, public transport fare hikes RTE.ie",
@@ -1623,18 +1635,6 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
-    },
-    {
-      "id": "b55b311358842ca2e8107488",
-      "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
-      "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
-      "country": "Görögország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUWNFLUo3U2dIQjktYkJZSXdKdUhhdFFXM0p4VEpCQ3dxMlBkUTdrYW1GM1k5U19kNk5uWmt3S2tnY1BPcUhSZnBWdzRxVXEzcWd3YkJGNkw1MjJhQ1cxd3JOVVhRZXpqX2RBVlRGZW5pOVdYTFNYV01B?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
       "id": "1ecea9846704600807b05960",
@@ -1719,7 +1719,7 @@
       "summary": "Bulgaria: truck bans on 17 and 19 July 2026 – affected sections and detours trafficban.com",
       "country": "Bulgária",
       "category": "Egyéb",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SMzRqRGF0TVR0cDRvMFlVQ3V4R0otUEJ3ZVByQjloUUJtcUk2cVFjNHlQbnRUVzNwM2JrUEtIUVRBM1M2NEpxaDV3MDB4U1Rsbnc?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "urgent": false,
@@ -1821,7 +1821,7 @@
       "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
       "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
@@ -2428,13 +2428,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T19:11:29.849695+00:00",
-  "sources_ok": 31,
+  "updated_at": "2026-11-21T20:00:36.165711+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Finnország fuvarozás",
-    "Google News RSS – Görögország fuvarozás",
-    "Google News RSS – Magyarország fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
