@@ -168,7 +168,7 @@
       "summary": "France: Road transport prices fell despite soaring diesel prices Upply",
       "country": "Franciaország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDY4RmZOcnQwMkhoUXJTbjg0WTREQ3hCdHBTbFVQdW5RbzVUQm1jTmFiWVdCV3YwTm5Xd09lX1lXeGlQM3NTcVQ0cU1VcDJhV2dDcG1xbWswLWllbTdWckZFZ3M0TXp6b3VEZ0xZTzdIaEZLYkpKLVg5YWZtWGd5eXBPWmVCZW56ZzhybDBSTG9uSW00R0kzTF91WFVBSXJra3fSAbIBQVVfeXFMTWZVcTBzZUk2akFWMTFoRFpkcHAwaDY0WGcyWENNdUh0WFVnaDh4ZVVOaXRGZEVFRU9sUVpfb0h6VlJvZ0ltMHBZbjY5OE55aDNWOWdsZlA4YjloU0JhTUNnUnZfTVZVaFVyRmlqck1LeXZ1WUZnQnQzVzRhNGtBbUhnX3RCOEtDRnB6S0NKclBnd2RPX3NSYTJjc0V3ajhuZEROaXRnRmpIMV9xR0dkYUtVdw?oc=5",
       "published": "2026-11-19T16:22:59+00:00",
       "urgent": false,
@@ -408,6 +408,19 @@
       "title_hu": "A fuvarozók még mindig nem tudják, mikor kapják meg a szeptemberi és októberi üzemanyag-támogatási kifizetéseket – HGV Ireland"
     },
     {
+      "id": "d5ac6724eaa2ffef430a04b7",
+      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
+      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
+      "published": "2026-11-18T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
+      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
+    },
+    {
       "id": "11ea1c00d12a45046acc26e4",
       "title": "A road border crossing point between Ukraine and Moldova is to be established in the Bolhrad district - logos-pres.md",
       "summary": "A road border crossing point between Ukraine and Moldova is to be established in the Bolhrad district logos-pres.md",
@@ -519,6 +532,18 @@
       "urgent": false,
       "title_hu": "A digitális szolgáltatásoknak a közúti közlekedés minden területére ki kell terjedniük – RTSH – Radio Televizioni Shqiptar",
       "summary_hu": "A digitális szolgáltatásoknak a közúti közlekedés minden területére ki kell terjedniük RTSH – Radio Televizioni Shqiptar"
+    },
+    {
+      "id": "4ba31b503a4b48afa09cdec5",
+      "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
+      "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
+      "country": "Olaszország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jYnVHbW9WTTlXMVVEX3ZkR3ludU1yOXFSVlJGcVU4NFBRZWx4MFJLV0p2Ui1DeS02ZE9NcTNONHVaUnFSM0s5OVBQN2Npdw?oc=5",
+      "published": "2026-11-17T11:53:59+00:00",
+      "urgent": false,
+      "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
     },
     {
       "id": "973ba4d4dbd79acc81dbc94c",
@@ -1020,19 +1045,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "d5ac6724eaa2ffef430a04b7",
-      "title": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany - Daimler Truck",
-      "summary": "Amazon to receive more than 50 Mercedes-Benz eActros 600 electric trucks in Germany Daimler Truck",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNYSWdNZklrb1h1Qm9MRXRIamFfRVZsLXB5bmpSODVPX2plcUtTZXVaTW1jeEJqNzVDblRkSzNCNEJremNXbEdsV2NZZ0huS0tPWVNVWkVZME9SU1cyMGxyQkhqd1NYc1FBQWdlYnVUTjlObU9tYTZlOVd1S3B5NFVMWWZocmhES2FramM3VFJSNlFKUXNpSXZibU9WRUdhbjk0eFNhdlB1bTB4ejZRcTBKVmlmR2l4empCd0twWVFXVzZOMl9pR0NnWFNnNXhBbEhHdXdHOTdMclJNRFhj?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban – Daimler Truck",
-      "summary_hu": "Az Amazon több mint 50 Mercedes-Benz eActros 600 elektromos teherautót kap Németországban Daimler Truck"
-    },
-    {
       "id": "a9d0e42ce7d23602620f837c",
       "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
       "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
@@ -1056,6 +1068,18 @@
       "published": "2026-11-13T06:21:55+00:00",
       "urgent": false,
       "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
+    },
+    {
+      "id": "9d10cd93c5833ead1a6998cf",
+      "title": "EU cabotage 2025: where foreign hauliers dominate domestic markets - Trans.INFO",
+      "summary": "EU cabotage 2025: where foreign hauliers dominate domestic markets Trans.INFO",
+      "country": "Luxemburg",
+      "category": "Egyéb",
+      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGJSdVFSNHFkQ29zZ0d4LVR6ZmpIN1FicGdFZU9zTlRlT0ZqNk15UzI5LWpSRVNNMk5CRGdoaDcwNlYzczRFQ2c3SDBqRU9fTjRhZm9mTzNDYUdTemNVemExRkRLYWpPWU42dDMzY1hqc2x1QnI4NTZibE1FYVgtcWpLSDJGanc?oc=5",
+      "published": "2026-11-13T04:51:40+00:00",
+      "urgent": false,
+      "title_hu": "Kabotázs az EU-ban 2025-ben: a külföldi fuvarozók uralják a belföldi piacokat – Trans.INFO"
     },
     {
       "id": "7a7034ecb573341335054def",
@@ -1085,9 +1109,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Németország",
+      "country": "Litvánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -1153,18 +1177,6 @@
       "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEQxTVF2eUVfN2NTR3ZES3gyMnNWNXBOeW5iZXVjd1RUeFBYcERBdG1pdGp4czRQbEEwV2NtU3pyQk5ZZjBhWnZtdGsyX1hleDg3dmpJNTZES0tFdWFVTC1QdTk0WFMtaHB4UjF3b3Bsb1Y1dlo4bkhkRFNjcEl6dmdacFdPUXJnNGJLY1kxYWl3dmM1R3BGTnJpX1RpUdIBngFBVV95cUxQbEQxTVF2eUVfN2NTR3ZES3gyMnNWNXBOeW5iZXVjd1RUeFBYcERBdG1pdGp4czRQbEEwV2NtU3pyQk5ZZjBhWnZtdGsyX1hleDg3dmpJNTZES0tFdWFVTC1QdTk0WFMtaHB4UjF3b3Bsb1Y1dlo4bkhkRFNjcEl6dmdacFdPUXJnNGJLY1kxYWl3dmM1R3BGTnJpX1RpUQ?oc=5",
       "published": "2026-11-12T16:26:23+00:00",
-      "urgent": false,
-      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
-    },
-    {
-      "id": "92a9576d5bb16b608d2807c8",
-      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
-      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
-      "country": "Spanyolország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
-      "published": "2026-11-12T16:17:15+00:00",
       "urgent": false,
       "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
     },
@@ -1253,6 +1265,18 @@
       "urgent": false,
       "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
       "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
+    },
+    {
+      "id": "92a9576d5bb16b608d2807c8",
+      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
+      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
     },
     {
       "id": "c2b48c81268e5e7d6fe597a0",
@@ -1653,18 +1677,6 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
-      "id": "f8fba468106f4a8b1b28a208",
-      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
-      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
-    },
-    {
       "id": "e71685212d3d3978df4514c6",
       "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
       "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
@@ -1676,6 +1688,18 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
+    },
+    {
+      "id": "f8fba468106f4a8b1b28a208",
+      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
+      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
     },
     {
       "id": "62bc2ee768a908fda8d7c6b6",
@@ -1742,6 +1766,19 @@
       "summary_hu": "Az EU követelményének megfelelően Ukrajna 2027 végéig elfogadja az útdíjas utak bevezetéséről szóló törvényt – Közlekedési Minisztérium Ukrajnai Hírügynökség"
     },
     {
+      "id": "3322c620b4c190755ef386fa",
+      "title": "Electric trucks could save hauliers up to €53,000 a year in European road tolls - HGV Ireland",
+      "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
+      "published": "2026-11-08T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az elektromos teherautók akár évi 53 000 eurót is megtakaríthatnak a fuvarozóknak az európai útdíjakból – HGV Ireland",
+      "summary_hu": "Az elektromos teherautók akár évi 53 000 eurót is megtakaríthatnak a fuvarozóknak az európai útdíjakból HGV Ireland"
+    },
+    {
       "id": "c811354dc2a4bcfb83f63640",
       "title": "January toll increases could cost Irish haulage fleets thousands of euro in 2027 - HGV Ireland",
       "summary": "January toll increases could cost Irish haulage fleets thousands of euro in 2027 HGV Ireland",
@@ -1749,23 +1786,10 @@
       "category": "Útdíj",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1ZLbmYzaWR0WGRTcFRIUjZyVHcyREx6QkRQRm56U0d5MFVfTjhvaVJHbkdudUlsT01BeE5pZkZlRzdUUTBwRENPaDRqQkhZSDd6cjZmeE1BSHpvMGFxYUxkcWJ2WC1QVi1TcXM1a09CbkVibjhuRWVzclI3WGVqUmk4OVhyZXlBUDJWOXlTTzBBMFBrV2NBMkpoVmY4RDZQV19GYi1nVmRsRnEy?oc=5",
-      "published": "2026-11-08T09:34:55+00:00",
+      "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az útdíjak januári emelése 2027-ben több ezer euróba kerülhet az ír fuvarozói flottáknak – HGV Ireland",
       "summary_hu": "Az útdíjak januári emelése több ezer euróba kerülhet az ír fuvarozói flottáknak 2027-ben HGV Ireland"
-    },
-    {
-      "id": "3322c620b4c190755ef386fa",
-      "title": "Electric trucks could save hauliers up to €53,000 a year in European road tolls - HGV Ireland",
-      "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
-      "published": "2026-11-08T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az elektromos teherautók akár évi 53 000 eurót is megtakaríthatnak a fuvarozóknak az európai útdíjakból – HGV Ireland",
-      "summary_hu": "Az elektromos teherautók akár évi 53 000 eurót is megtakaríthatnak a fuvarozóknak az európai útdíjakból HGV Ireland"
     },
     {
       "id": "139fd0aef0dd65ae2fc5d700",
@@ -2354,7 +2378,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T06:18:14.592244+00:00",
+  "updated_at": "2026-11-21T08:22:55.767810+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
