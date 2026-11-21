@@ -920,19 +920,6 @@
       "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
     {
-      "id": "ec612d4c3ef358c641f4a53d",
-      "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Svédország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T21:23:17+00:00",
-      "urgent": false,
-      "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
       "id": "a7b293955f60235ecc5be88b",
       "title": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research - The Des Moines Register",
       "summary": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research The Des Moines Register",
@@ -1043,6 +1030,19 @@
       "published": "2026-11-13T08:08:28+00:00",
       "urgent": false,
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
+    },
+    {
+      "id": "ec612d4c3ef358c641f4a53d",
+      "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
+      "country": "Svédország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
       "id": "a9d0e42ce7d23602620f837c",
@@ -1383,9 +1383,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Litvánia",
+      "country": "Belgium",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1441,6 +1441,18 @@
       "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
     },
     {
+      "id": "bbf6d173ba81cc9d0fb68ff7",
+      "title": "Transport minister defends toll price hikes - Irish Examiner",
+      "summary": "Transport minister defends toll price hikes Irish Examiner",
+      "country": "Írország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUjhfLWFocXYtNDdPOHRMWkhOOUZOVWdkcDFxcXRjT1NlZnhNQWowN0xxdWp1SXRndXlHaFQzM1l0Q1YxWUJWMXM4a0g5SDFzT0JOdkExRllWWXZFTmpFU2IweDBBcGFEeWVCVXpnWQ?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A közlekedési miniszter megvédi az útdíjak emelését – Irish Examiner"
+    },
+    {
       "id": "d52ea408608535cf16f7103e",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -1475,18 +1487,6 @@
       "published": "2026-11-11T06:27:05+00:00",
       "urgent": false,
       "title_hu": "Közeleg az üzemanyag-támogatás határideje, mivel a dízelre nehezedő nyomás várhatóan 2027-ig folytatódik – HGV Ireland"
-    },
-    {
-      "id": "bbf6d173ba81cc9d0fb68ff7",
-      "title": "Transport minister defends toll price hikes - Irish Examiner",
-      "summary": "Transport minister defends toll price hikes Irish Examiner",
-      "country": "Írország",
-      "category": "Útdíj",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aUjhfLWFocXYtNDdPOHRMWkhOOUZOVWdkcDFxcXRjT1NlZnhNQWowN0xxdWp1SXRndXlHaFQzM1l0Q1YxWUJWMXM4a0g5SDFzT0JOdkExRllWWXZFTmpFU2IweDBBcGFEeWVCVXpnWQ?oc=5",
-      "published": "2026-11-11T06:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A közlekedési miniszter megvédi az útdíjak emelését – Irish Examiner"
     },
     {
       "id": "533c0167761a580500b8fd4e",
@@ -1565,18 +1565,6 @@
       "summary_hu": "A bulgáriai Trákia-autópályán történt, 86 járművet érintő tömegkarambol halálos áldozatainak száma 12, a végleges számra még várni kell – The Sofia Globe"
     },
     {
-      "id": "b55b311358842ca2e8107488",
-      "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
-      "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
-      "country": "Görögország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUWNFLUo3U2dIQjktYkJZSXdKdUhhdFFXM0p4VEpCQ3dxMlBkUTdrYW1GM1k5U19kNk5uWmt3S2tnY1BPcUhSZnBWdzRxVXEzcWd3YkJGNkw1MjJhQ1cxd3JOVVhRZXpqX2RBVlRGZW5pOVdYTFNYV01B?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
-    },
-    {
       "id": "5e38d9dbb8fd4b3966731ec6",
       "title": "Call for Govt to scrap toll, public transport fare hikes - RTE.ie",
       "summary": "Call for Govt to scrap toll, public transport fare hikes RTE.ie",
@@ -1611,6 +1599,18 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
+      "id": "b55b311358842ca2e8107488",
+      "title": "Automechanika Dubai 2026 - IRU | World Road Transport Organisation",
+      "summary": "Automechanika Dubai 2026 IRU | World Road Transport Organisation",
+      "country": "Görögország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUWNFLUo3U2dIQjktYkJZSXdKdUhhdFFXM0p4VEpCQ3dxMlBkUTdrYW1GM1k5U19kNk5uWmt3S2tnY1BPcUhSZnBWdzRxVXEzcWd3YkJGNkw1MjJhQ1cxd3JOVVhRZXpqX2RBVlRGZW5pOVdYTFNYV01B?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Automechanika Dubai 2026 – IRU | Nemzetközi Közúti Szállítmányozási Szervezet"
     },
     {
       "id": "0b69567872ae3bbda6721fe7",
@@ -1669,7 +1669,7 @@
       "summary": "Bulgaria: truck bans on 17 and 19 July 2026 – affected sections and detours trafficban.com",
       "country": "Bulgária",
       "category": "Egyéb",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SMzRqRGF0TVR0cDRvMFlVQ3V4R0otUEJ3ZVByQjloUUJtcUk2cVFjNHlQbnRUVzNwM2JrUEtIUVRBM1M2NEpxaDV3MDB4U1Rsbnc?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "urgent": false,
@@ -2378,9 +2378,11 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-21T10:06:50.921135+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-21T11:06:07.608533+00:00",
+  "sources_ok": 33,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Görögország fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
