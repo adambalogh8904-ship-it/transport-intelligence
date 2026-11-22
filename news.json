@@ -20,7 +20,7 @@
       "category": "Útlezárás",
       "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQy1XT1p4YTBfZTNaU29vb096azlCU1YtZjNpWjdtZF9zVHM5RDdrX1Y5RlVaMXVjOG9sX3BNRUc5Y1ZtUFJ2M3lWS1F1dTM4V0JrQWtad0tYNWdobDVMOXhzYkQ1emIzanJQSWRVY2N5MVBhTDEta1EyZUl0TktDeEZXbzVoQVpoTjgyUXlYUVcyQk5QM2JDbXU4RFN0RHE1UTlndmdoTEdfMFo1ZzJWR1ZfaHpXbnM?oc=5",
-      "published": "2026-11-21T03:25:48+00:00",
+      "published": "2026-11-21T03:29:55+00:00",
       "urgent": false,
       "title_hu": "Újra megnyílik az IP3-as út egy újabb 12 napos portugáliai útzár előtt – The Portugal News"
     },
@@ -241,7 +241,7 @@
       "summary": "Electric Truck Completes 2,800-Kilometer Spain-to-Sweden Run Wisevoter",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpoRXVRajc4V3dnY1l3U05CV3h5ME9VR05aUlcyV0FjZGNsSTVtUW1uZ3E0N2g2bmkyODdCMTJxellGZzJzWkdRM2hlOWhxMXNQcUNjVnM0ZzNFczVjM1VJUzg5ZktqdWhiMDJCaGZZM0lRVTdmTWEwY1VTYUQybFRhQ1NBZnhETks3bzJoUQ?oc=5",
       "published": "2026-11-19T13:58:19+00:00",
       "urgent": false,
@@ -1432,9 +1432,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Spanyolország",
+      "country": "Olaszország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1503,18 +1503,6 @@
       "summary_hu": "Németországban jelenleg naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó közúton, amely Lidl-élelmiszereket szállít, és egy emberi munkahely továbbra is elkíséri egy külön járműben ECOticias.com – El Periódico Verde"
     },
     {
-      "id": "f5136b1c38abb71e6c5f93a8",
-      "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
-      "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
-      "country": "Franciaország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
-    },
-    {
       "id": "d52ea408608535cf16f7103e",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -1525,6 +1513,18 @@
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+    },
+    {
+      "id": "f5136b1c38abb71e6c5f93a8",
+      "title": "Europe paying €200 million a day diesel premium, report shows - Transport & Environment",
+      "summary": "Europe paying €200 million a day diesel premium, report shows Transport & Environment",
+      "country": "Franciaország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGFmSGJDNUJfcGFZS1FjcG02Sy0wMGN0N19LWk53T1RrZ1N3dUQzSTRISlV0M0RmMU4wdnhJV2pLSGRrOEU4RTJrdndZUldzZmYwX3ZLNkMzYU9rRWZUaEZRSlcwUmNCYWFsTXpBSXU1cjJwUmRyRTJ6NkFPT0s3OWVMRjhSZEVVYTc0MVhwUUl4T1R3WWJMWGxRbTNua1MyR0NEaWtRVy15YnB3?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Egy jelentés szerint Európa naponta 200 millió eurót fizet dízelprémiumként – Transport & Environment"
     },
     {
       "id": "9c2453ae0cf5a9f18ab8fb60",
@@ -1752,6 +1752,18 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
+      "id": "f8fba468106f4a8b1b28a208",
+      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
+      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
+    },
+    {
       "id": "e71685212d3d3978df4514c6",
       "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
       "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
@@ -1763,18 +1775,6 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
-    },
-    {
-      "id": "f8fba468106f4a8b1b28a208",
-      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
-      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
     },
     {
       "id": "0a16635de4ac3fc2d61a3ed9",
@@ -1846,7 +1846,7 @@
       "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
       "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
@@ -2453,7 +2453,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-22T01:32:05.948726+00:00",
+  "updated_at": "2026-11-22T03:08:41.901773+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
