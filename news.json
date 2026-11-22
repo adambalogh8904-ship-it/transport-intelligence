@@ -1094,19 +1094,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "a9d0e42ce7d23602620f837c",
-      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
-      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
-      "country": "Egyesült Királyság",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
-      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
-    },
-    {
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1118,6 +1105,19 @@
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "a9d0e42ce7d23602620f837c",
+      "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
+      "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnE2SnZzYzF6TlpHZS1rYTVyR0xDZVczNWdJQ1FUZlY2Z2FRZjBub2tyMXZXSVdZLUJnZVowakx0WGp5YTd4YTZ0U2pUNGlEaExlZGY0OWdxQ2dHV1lnVXd3RjhJNnZWNk1Zel9JUUFqajFqb2dONFhtelZMTTAzamlKQlBmMW50YlRDMHhMSXJ0Wm03aDdJVk5MbnBpUjlHTENNMFJlTTQxNnZLX2E1bUxpQW5leHJYdUs4enoxaVBGVzFvR19IQ2dsejU2LWktaVFDN2NCbnktVWl6N0pEdTF3MjhRT1FjcWlYMTd3cWZHcUxlY3c?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
+      "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
       "id": "c1144e788dd27bca57df891a",
@@ -1135,9 +1135,9 @@
       "id": "9d10cd93c5833ead1a6998cf",
       "title": "EU cabotage 2025: where foreign hauliers dominate domestic markets - Trans.INFO",
       "summary": "EU cabotage 2025: where foreign hauliers dominate domestic markets Trans.INFO",
-      "country": "Litvánia",
+      "country": "Luxemburg",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Luxemburg fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGJSdVFSNHFkQ29zZ0d4LVR6ZmpIN1FicGdFZU9zTlRlT0ZqNk15UzI5LWpSRVNNMk5CRGdoaDcwNlYzczRFQ2c3SDBqRU9fTjRhZm9mTzNDYUdTemNVemExRkRLYWpPWU42dDMzY1hqc2x1QnI4NTZibE1FYVgtcWpLSDJGanc?oc=5",
       "published": "2026-11-13T04:51:40+00:00",
       "urgent": false,
@@ -1171,9 +1171,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Litvánia",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -1566,9 +1566,9 @@
       "id": "6667d1c0b150d075529687c9",
       "title": "Road freight carriers face rising costs and compliance pressures ahead of peak season - Metro Global",
       "summary": "Road freight carriers face rising costs and compliance pressures ahead of peak season Metro Global",
-      "country": "Hollandia",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemxxejZaeGpPeDhWV2p0WTRwQXBuZGI1RTRBU0h1NWtuZXo1N041cVlFZ0t2YUx5QWpVc05UMjV0a1VDYlpOUXMtRWxCV1FGeHc5SklWMHJTUVBLZ3BPNEc4UjhTWHlROG9qYVZZV1JNV1NMamlmMndQOVZwa2lRRi02TEEwZlpDTXhKQlU0VnA2TU16OG0xTWFzTW02aFpWUEZYaVJGRjFTdW1FVC05MXZOUUNma1NaWlhkSF8zZw?oc=5",
       "published": "2026-11-10T17:38:52+00:00",
       "urgent": false,
@@ -1701,18 +1701,6 @@
       "summary_hu": "Az EU szigorúbb közúti kibocsátás-ellenőrzéseket tervez – mi változhat az ír teherautók esetében? HGV Ireland"
     },
     {
-      "id": "728566a57895ad9cbcfd4970",
-      "title": "Germany to close A4 for three weeks to install truck detection barriers - trafficban.com",
-      "summary": "Germany to close A4 for three weeks to install truck detection barriers trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVGY3NjNMQzdxY1JUT0FRVWVNLVlTUjBKdXV6azM5WHZ6bDItdTgyMXVLMWF6SUNoMzJzSnVaNHQ0ZnJ3aFBGT0dCT2hfQQ?oc=5",
-      "published": "2026-11-09T17:07:46+00:00",
-      "urgent": false,
-      "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
-    },
-    {
       "id": "61a5250fbf48eea29401677c",
       "title": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions - trafficban.com",
       "summary": "End of avoiding toll routes in Austria. Burgenland to introduce new truck restrictions trafficban.com",
@@ -1762,6 +1750,18 @@
       "published": "2026-11-09T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
+    },
+    {
+      "id": "728566a57895ad9cbcfd4970",
+      "title": "Germany to close A4 for three weeks to install truck detection barriers - trafficban.com",
+      "summary": "Germany to close A4 for three weeks to install truck detection barriers trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVGY3NjNMQzdxY1JUT0FRVWVNLVlTUjBKdXV6azM5WHZ6bDItdTgyMXVLMWF6SUNoMzJzSnVaNHQ0ZnJ3aFBGT0dCT2hfQQ?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
     },
     {
       "id": "e71685212d3d3978df4514c6",
@@ -1846,7 +1846,7 @@
       "summary": "Electric trucks could save hauliers up to €53,000 a year in European road tolls HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOE9leTZVaWxraU9CZ0lBbjRpckI5V2ZGamNybjItVHRaekF0WDhqZXBsWFJrYWtya3lGTzlIaXBqeFR5cFVtalVMZXc3VS1zODBaTlVObEM3YlB3MlhLRGZBd3ZuZ0RHX2V5Z1pkRnpVQndlY2FoWkJUSDBSVDdUYUlwNTY2ZVQxaTk2NE12RXc4VExtaUl3V21zRXhMX3pKLWx4Rk9Ebml3dw?oc=5",
       "published": "2026-11-08T08:00:00+00:00",
       "urgent": false,
@@ -2453,7 +2453,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-22T05:20:40.709004+00:00",
+  "updated_at": "2026-11-22T07:34:08.470419+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
