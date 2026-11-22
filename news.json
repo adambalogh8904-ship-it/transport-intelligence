@@ -401,9 +401,9 @@
       "id": "fbf8781c08a53cb6400576fc",
       "title": "One person dies in Mapleton Township crash involving transport truck - CTV News",
       "summary": "One person dies in Mapleton Township crash involving transport truck CTV News",
-      "country": "Írország",
+      "country": "Dánia",
       "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Dánia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFJiNWFRaWZZcmFtYzZwSS1WMEtKcnRLZkxwYllZRHVuZ2RuMWxhNi15ZE5rcVFqLVd2SUl4eC02NjIyY28xc1ROUmpVWDFrb0VmOVdXVXJuTlh1ZkRtNVozZHEwSUZpNmhURjRyM1VuVDRrQTRNdEFxUWhrdDNtZU9FZzFMZUY2dFRNV3pVRElxLWl2dURwWVJGYjBkRnhTUmFTckFsdS1zenBXVVFJ?oc=5",
       "published": "2026-11-18T19:30:58+00:00",
       "urgent": false,
@@ -955,6 +955,18 @@
       "urgent": false,
       "title_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
       "summary_hu": "Nagy tehergépjármű-forgalom a Kapitan Andreevo határátkelőhelyen ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
+    },
+    {
+      "id": "92e23c1bc6f9beba9306bb0b",
+      "title": "Truck crashes account for one in seven road deaths across Europe - HGV Ireland",
+      "summary": "Truck crashes account for one in seven road deaths across Europe HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDlBWHZZbmNUUFpmZjE5VUVZMWNkRnBkTFRrbjhycnlHaHAyeUxtQnpXdlFreTFWUEJucWdKQXVXWmdZZEFwTUwwSjQtX1NoUkhVMm15aHB4WFFnbkVMQmNFSXBmbFVybkZpdHdScDFHVnN5NWpmaGdJdnVNRE1BV01IZGhJVnJKSDdadnBFQ0tmZ2EtdzVB?oc=5",
+      "published": "2026-11-15T06:44:19+00:00",
+      "urgent": false,
+      "title_hu": "Európában minden hetedik közúti halálesetet teherautós baleset okozza – HGV Ireland"
     },
     {
       "id": "b042d45f15160b910ff0f70a",
@@ -1685,6 +1697,18 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
+      "id": "95c797840955487e52e25de0",
+      "title": "Irish hauliers reminded of European truck check week - HGV Ireland",
+      "summary": "Irish hauliers reminded of European truck check week HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbE15VDJOekJaQk00Tk1XMGMwSWdSUFlxQ1c1a1kyT0FncHppb2R0MWhlTlJhRS1EdGxZR2hPV1pxY1Y5SzJ6OWtRMmpiVGN1ZmlpdkhCX1pxZGdnV281R2JZaHVZdjByRERvd1ZhandkUWJIeTFxOEhuczZNZEQ4TXhyMGliNVU?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az ír fuvarozókat emlékeztették az európai tehergépjármű-ellenőrzési hétre – HGV Ireland"
     },
     {
       "id": "1ecea9846704600807b05960",
@@ -2478,7 +2502,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-22T11:58:51.942306+00:00",
+  "updated_at": "2026-11-22T13:19:49.949810+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
