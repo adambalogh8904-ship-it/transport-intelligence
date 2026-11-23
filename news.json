@@ -199,19 +199,6 @@
       "summary_hu": "A Zenobē kiterjeszti az elektromos közlekedés szolgáltatásként (Electric Transport-as-a-Service) kínálatát Németországra, az elektromos buszok és teherautók flottáit célozva meg Sustainable Bus"
     },
     {
-      "id": "93832be850cc4aa97d8abea9",
-      "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
-      "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
-      "country": "EU",
-      "category": "Határ",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
-      "published": "2026-11-20T15:31:38+00:00",
-      "urgent": false,
-      "title_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal – Moldpres",
-      "summary_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal Moldpres"
-    },
-    {
       "id": "27ce05564178a521213ed548",
       "title": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound - CTV News",
       "summary": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound CTV News",
@@ -305,7 +292,7 @@
       "category": "Egyéb",
       "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakgxQzFOWkU2dURUeWZPRjZKdmJIRnFQV3c5UjdtS0xEWTlVM2RJdlF4Yk9lRmRVRWNDWEZLMDBIcVQwZzI2RGVuYlVtTjdSUFB2OXV5dVBuUF9pdld2cXdoNk9IdGhrRDB2M3BQX2ZIQ3NsTWJhMG9fOHlrMF8tUlJuakRWTXE0bXZJcWFnck93d3MxZVV5SFFnRWJYQlN2S0VzWHFPNjVjRnpGTl9ObE56bkVVREFrbkxNbERFbFZBcDYtSjlxQ3dyR1JrbHFEN2FGajEzVFJ0NTlyMkE?oc=5",
-      "published": "2026-11-19T16:52:30+00:00",
+      "published": "2026-11-19T17:03:01+00:00",
       "urgent": false,
       "title_hu": "Első alkalommal szállít egy teljesen elektromos teherautó gyümölcsöt és zöldséget Spanyolországból Svédországba – FreshPlaza",
       "summary_hu": "Első alkalommal szállít teljesen elektromos teherautó gyümölcsöt és zöldséget Spanyolországból Svédországba FreshPlaza"
@@ -340,7 +327,7 @@
       "summary": "Electric Truck Completes 2,800-Kilometer Spain-to-Sweden Run Wisevoter",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpoRXVRajc4V3dnY1l3U05CV3h5ME9VR05aUlcyV0FjZGNsSTVtUW1uZ3E0N2g2bmkyODdCMTJxellGZzJzWkdRM2hlOWhxMXNQcUNjVnM0ZzNFczVjM1VJUzg5ZktqdWhiMDJCaGZZM0lRVTdmTWEwY1VTYUQybFRhQ1NBZnhETks3bzJoUQ?oc=5",
       "published": "2026-11-19T13:58:19+00:00",
       "urgent": false,
@@ -630,6 +617,19 @@
       "published": "2026-11-18T05:31:10+00:00",
       "urgent": false,
       "title_hu": "Ausztrália első elektromos rönkszállító teherautója addig áll, amíg a dízel ára el nem éri a 4 dollárt – Wood Central"
+    },
+    {
+      "id": "93832be850cc4aa97d8abea9",
+      "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
+      "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
+      "country": "EU",
+      "category": "Határ",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
+      "published": "2026-11-18T01:33:00+00:00",
+      "urgent": false,
+      "title_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal – Moldpres",
+      "summary_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal Moldpres"
     },
     {
       "id": "473ead1b2dad9573716bde24",
@@ -1021,7 +1021,7 @@
       "summary": "Heavy truck traffic at Kapitan Andreevo border crossing ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1NSQWNMd2pNYnk1ZnFXaFVZRTVDUnp0azZPY1J4SVA3UDQzRjZVNmpqVVdvYmtrX3U5RTEwRldYN09xN2FhbktNNU04ME03cDJGWC03eG9lSV9pRXEtVUJYSzFZZ3czUWR1azlQUjZnZjdPaGFnQlpmM05UX1RBdnBMakh1ZFFPS19xcm9sdHBDQjJGZkpV?oc=5",
       "published": "2026-11-15T06:47:00+00:00",
       "urgent": false,
@@ -1578,9 +1578,9 @@
       "id": "9ef5d0673833263b68eeee6d",
       "title": "Road freight rates Q3 2026: record highs as volumes fall - Trans.INFO",
       "summary": "Road freight rates Q3 2026: record highs as volumes fall Trans.INFO",
-      "country": "Spanyolország",
+      "country": "Olaszország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wRlhFQWxRaG5CdmVWRnJDUTdxME0zb1NmRmo1bU82M2VyOFdCWml5WUZJX2RyV2lwNVhCMlYzdWk0aC10Z2FwMkhlX3ZaYXNJWmI0dFdBRWtXYTZuUlhRck4wNldVSDU2TVZ5N3lsVQ?oc=5",
       "published": "2026-11-11T08:27:48+00:00",
       "urgent": false,
@@ -1724,9 +1724,9 @@
       "id": "6667d1c0b150d075529687c9",
       "title": "Road freight carriers face rising costs and compliance pressures ahead of peak season - Metro Global",
       "summary": "Road freight carriers face rising costs and compliance pressures ahead of peak season Metro Global",
-      "country": "Németország",
+      "country": "Hollandia",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemxxejZaeGpPeDhWV2p0WTRwQXBuZGI1RTRBU0h1NWtuZXo1N041cVlFZ0t2YUx5QWpVc05UMjV0a1VDYlpOUXMtRWxCV1FGeHc5SklWMHJTUVBLZ3BPNEc4UjhTWHlROG9qYVZZV1JNV1NMamlmMndQOVZwa2lRRi02TEEwZlpDTXhKQlU0VnA2TU16OG0xTWFzTW02aFpWUEZYaVJGRjFTdW1FVC05MXZOUUNma1NaWlhkSF8zZw?oc=5",
       "published": "2026-11-10T17:38:52+00:00",
       "urgent": false,
@@ -1910,6 +1910,19 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
+      "id": "e71685212d3d3978df4514c6",
+      "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
+      "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
+      "country": "Albánia",
+      "category": "Útdíj",
+      "source": "Google News RSS – Albánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXVMWkx0dG40WU82Z0ZnXzUxb0Z6dzNIR1oxR1c1RVR1NTFpcHpGU0tvUEJUa01zQm9SMzVWMXlaTEJOZGJMU3dacWxFTFpXMDMydzFjSUh3NTFNbWx4VWxBSWdKWUV0X0NtZTJveXByTDZJdzRnY3o3OFB5bFVHd0Z4OGxSMzRFWE5EM1YwaHByZ01TbXRlSWFsa184TFZWSVIzdFVNMjBKd0dRM0NvSkpR?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
+      "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
+    },
+    {
       "id": "f8fba468106f4a8b1b28a208",
       "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
       "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
@@ -1932,19 +1945,6 @@
       "published": "2026-11-09T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Németország három hétre lezárja az A4-es autópályát, hogy teherautó-érzékelő korlátokat telepítsen – trafficban.com"
-    },
-    {
-      "id": "e71685212d3d3978df4514c6",
-      "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
-      "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
-      "country": "Albánia",
-      "category": "Útdíj",
-      "source": "Google News RSS – Albánia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXVMWkx0dG40WU82Z0ZnXzUxb0Z6dzNIR1oxR1c1RVR1NTFpcHpGU0tvUEJUa01zQm9SMzVWMXlaTEJOZGJMU3dacWxFTFpXMDMydzFjSUh3NTFNbWx4VWxBSWdKWUV0X0NtZTJveXByTDZJdzRnY3o3OFB5bFVHd0Z4OGxSMzRFWE5EM1YwaHByZ01TbXRlSWFsa184TFZWSVIzdFVNMjBKd0dRM0NvSkpR?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
-      "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
     },
     {
       "id": "0a16635de4ac3fc2d61a3ed9",
@@ -2623,7 +2623,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-23T03:17:57.586340+00:00",
+  "updated_at": "2026-11-23T05:37:03.638046+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
