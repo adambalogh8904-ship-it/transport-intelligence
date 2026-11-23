@@ -62,6 +62,18 @@
       "title_hu": "Belgium 2027 májusától új útdíjmatricát vezet be minden gépjárművezető számára – TravelMole"
     },
     {
+      "id": "054103db406f90ca30e943e4",
+      "title": "IP3 reopens ahead of another 12-day road closure in Portugal - The Portugal News",
+      "summary": "IP3 reopens ahead of another 12-day road closure in Portugal The Portugal News",
+      "country": "Portugália",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWJfNVlhbHZGX2paRzZ4c1ZDM1NXTVJReVJZR0k3a1pMMDN3S0RKWlkzYUdtd21qNENzcHJyV1JKazEzN3dDMVJlQ29jNFh0VkFaeTQ3M2gtakRmMkpnQlZYRU9kNVBjaDhMU1N3WURTcmRZTG1nVHp0VGQxenFIVDl3eDQtVHNDbEptTDBoVS1yYnQyMGFDbHU4NGljUW9YNWNzejE5V2lDWVFRcTdYWHFSV3RlRmc?oc=5",
+      "published": "2026-11-22T00:53:04+00:00",
+      "urgent": false,
+      "title_hu": "Újra megnyílik az IP3-as út egy újabb 12 napos portugáliai útzár előtt – The Portugal News"
+    },
+    {
       "id": "f5cfcda5eaa303aa09151dbd",
       "title": "Karachi Accident | Hassan Square | Truck Hits Multiple Vehicles - Aaj News - Aaj English TV",
       "summary": "Karachi Accident | Hassan Square | Truck Hits Multiple Vehicles - Aaj News Aaj English TV",
@@ -1885,6 +1897,18 @@
       "summary_hu": "Bulgária: tehergépkocsikra vonatkozó tilalmak 2026. július 17-én és 19-én – érintett útszakaszok és kerülőutak trafficban.com"
     },
     {
+      "id": "f8fba468106f4a8b1b28a208",
+      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
+      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
+    },
+    {
       "id": "e71685212d3d3978df4514c6",
       "title": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees - Albanian Daily News",
       "summary": "Albania Proposes New Road Vignette System, Foreign Plated Vehicles to Pay Fees Albanian Daily News",
@@ -1896,18 +1920,6 @@
       "urgent": false,
       "title_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük – Albanian Daily News",
       "summary_hu": "Albánia új útdíjmatricás rendszert javasol, a külföldi rendszámú járműveknek díjat kell fizetniük Albanian Daily News"
-    },
-    {
-      "id": "f8fba468106f4a8b1b28a208",
-      "title": "Truck driving ban in Germany: three states extend exemptions, two end them - trafficban.com",
-      "summary": "Truck driving ban in Germany: three states extend exemptions, two end them trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoZU9uTVB4QWZOZW1DWEZkTHl5VzUyS3FzcVVWVU1aMXBGTGpta0JHOGRERWNpQzJsM2dIczVwMDgyNEJQVFV5ekZ2LVpLOUdIckE?oc=5",
-      "published": "2026-11-09T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Teherautó-forgalmi korlátozás Németországban: három tartomány meghosszabbítja a mentességeket, kettő pedig megszünteti őket – trafficban.com"
     },
     {
       "id": "728566a57895ad9cbcfd4970",
@@ -2598,7 +2610,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-22T23:58:24.450640+00:00",
+  "updated_at": "2026-11-23T01:39:32.550308+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
