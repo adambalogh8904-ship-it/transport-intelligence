@@ -303,7 +303,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-20T15:31:38+00:00",
       "urgent": false,
@@ -501,9 +501,9 @@
       "id": "a40c768d8b66b85110c1b73d",
       "title": "Sixteen foreign citizens, hidden in a truck with food storage containers - World Border Security Congress",
       "summary": "Sixteen foreign citizens, hidden in a truck with food storage containers World Border Security Congress",
-      "country": "Románia",
+      "country": "Lengyelország",
       "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTY4R0VzcUlMRkxfaUZYUVp2M1htbmpPYTAzUHp1Q2xfXzc5NGZOb1M2aWlzalZKQlJqQ2JndWJ0eXU2VkJaLWktNTB4Vk1ZeXNDUmRHRVlGdTlMY0RtTFpUalFfeFVaSG15cjdLWndiYlNfd0M0UEs4LWxtX3lhQ1lGUjRLdm05emFjZVU5NTFNWHRGWktzN2VuLU42SEtRZjlRLWE3ODZkZw?oc=5",
       "published": "2026-11-19T09:52:18+00:00",
       "urgent": false,
@@ -1364,6 +1364,17 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
+      "id": "87a2b3a6e5727623f8f977d7",
+      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
+      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
+      "country": "Lengyelország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false
+    },
+    {
       "id": "6a581eb604924e9822c86c50",
       "title": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen - RTL Today",
       "summary": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen RTL Today",
@@ -1466,9 +1477,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Litvánia",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -1555,7 +1566,7 @@
       "summary": "Spain general strike: blocked roads and ports hit freight transport Trans.INFO",
       "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzhVOGZYano3RGwyeGVKUmNRT0diZWptTFQzS2RmS2lLRUFPNUN4Zk0xS2k5ZDVHX1h5NWRINzlnVnh0bnItbDFDcGMyV2dkM0dOU1ZGYTFGaEdGbzhtSkdaVWQ4OTJ5ZEV5MnBlMGRYVE1lTjYwSUtqaDd5T3ptcFY5ZnJtNkx6VVE?oc=5",
       "published": "2026-11-12T10:48:38+00:00",
       "urgent": false,
@@ -1798,18 +1809,6 @@
       "summary_hu": "Németországban jelenleg naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó közúton, amely Lidl-élelmiszereket szállít, és egy emberi munkahely továbbra is elkíséri egy külön járműben ECOticias.com – El Periódico Verde"
     },
     {
-      "id": "bee6a484fbf9f426f1c9c229",
-      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Yahoo Finance",
-      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Yahoo Finance",
-      "country": "Oroszország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3V1ZXB5cGE5bzAyYVJKMHlXbnZ4NDgzS3Q4cnNCaHZBbjdlTE1qdjBXeDlCNEI0NXpfdXJlLU54azdYM0RkQ3hQQllVcC1rRXVlMFJfZVdZaXVnVEpoMGY5QmdPb1NjMVFQaVAyTXNRa3I1MFJDX2NfdkNGZVZEWGRfTDBISXlFUFdwT2xlUEIzZGJYUU5N?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Yahoo Finance"
-    },
-    {
       "id": "d52ea408608535cf16f7103e",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
@@ -1820,6 +1819,18 @@
       "published": "2026-11-11T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+    },
+    {
+      "id": "bee6a484fbf9f426f1c9c229",
+      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Yahoo Finance",
+      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Yahoo Finance",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3V1ZXB5cGE5bzAyYVJKMHlXbnZ4NDgzS3Q4cnNCaHZBbjdlTE1qdjBXeDlCNEI0NXpfdXJlLU54azdYM0RkQ3hQQllVcC1rRXVlMFJfZVdZaXVnVEpoMGY5QmdPb1NjMVFQaVAyTXNRa3I1MFJDX2NfdkNGZVZEWGRfTDBISXlFUFdwT2xlUEIzZGJYUU5N?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Yahoo Finance"
     },
     {
       "id": "f5136b1c38abb71e6c5f93a8",
@@ -1908,25 +1919,12 @@
       "summary_hu": "Az európai közúti fuvarozási díjak továbbra is rekordmagasságban vannak IRU | Nemzetközi Közúti Szállítmányozási Egyesület"
     },
     {
-      "id": "1ecea9846704600807b05960",
-      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
-      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
-      "country": "Bulgária",
-      "category": "Egyéb",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
-      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
-    },
-    {
       "id": "6667d1c0b150d075529687c9",
       "title": "Road freight carriers face rising costs and compliance pressures ahead of peak season - Metro Global",
       "summary": "Road freight carriers face rising costs and compliance pressures ahead of peak season Metro Global",
-      "country": "Hollandia",
+      "country": "Franciaország",
       "category": "Egyéb",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemxxejZaeGpPeDhWV2p0WTRwQXBuZGI1RTRBU0h1NWtuZXo1N041cVlFZ0t2YUx5QWpVc05UMjV0a1VDYlpOUXMtRWxCV1FGeHc5SklWMHJTUVBLZ3BPNEc4UjhTWHlROG9qYVZZV1JNV1NMamlmMndQOVZwa2lRRi02TEEwZlpDTXhKQlU0VnA2TU16OG0xTWFzTW02aFpWUEZYaVJGRjFTdW1FVC05MXZOUUNma1NaWlhkSF8zZw?oc=5",
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
@@ -1968,6 +1966,19 @@
       "published": "2026-11-10T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az RSA 66 intelligens tachográffal kapcsolatos szabálysértést rögzített a közúti ellenőrzések során – HGV Ireland"
+    },
+    {
+      "id": "1ecea9846704600807b05960",
+      "title": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria - Fakti.bg",
+      "summary": "Rusinova: A stopped truck may have caused the crash on the Trakia Motorway ᐉ News from Fakti.bg - Bulgaria Fakti.bg",
+      "country": "Bulgária",
+      "category": "Egyéb",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE0tU1NiQkdISTRlZnV2djBSQUZ4Znk1RWZfTVVfNlAyclhpM21fVHFNVzJuemZkc0FQNnVMd2pON014R1Y2ME9XR3hDemJRRE5FQ19pODBmeGxJX25QRmw5bGRfV2o3NFZyYm5aa2NtNURJZU1mOXVYOHlJM3RGbUVjNXdQTVpSSHBmWDJKdFZZY0g0bnQ1RlVxT3NQaDFJeGpaZ3EzTTZiTE5yX21B?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trakia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária – Fakti.bg",
+      "summary_hu": "Ruszinova: Egy megállt teherautó okozhatta a balesetet a Trákia autópályán ᐉ Hírek a Fakti.bg-ről – Bulgária Fakti.bg"
     },
     {
       "id": "b55b311358842ca2e8107488",
@@ -2772,7 +2783,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-24T03:12:30.998062+00:00",
+  "updated_at": "2026-11-24T04:23:07.982502+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
