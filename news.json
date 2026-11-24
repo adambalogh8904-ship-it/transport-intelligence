@@ -391,7 +391,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-20T15:31:38+00:00",
       "urgent": false,
@@ -1134,7 +1134,7 @@
       "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
       "country": "EU",
       "category": "Útlezárás",
-      "source": "Google News RSS – Lettország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
       "published": "2026-11-16T08:00:00+00:00",
       "urgent": false,
@@ -1478,19 +1478,6 @@
       "summary_hu": "Autó és teherautó ütközött: Három sérült, és az út lezárása miatt nem lehetett közlekedni Godbrange és Heffingen között RTL Today"
     },
     {
-      "id": "ec612d4c3ef358c641f4a53d",
-      "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Svédország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
-      "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
       "id": "a9d0e42ce7d23602620f837c",
       "title": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks - Daimler Truck",
       "summary": "Daimler Truck Survey: Many Fleet Decision-Makers Consider E-Trucks More Economical than Diesel Trucks Daimler Truck",
@@ -1502,6 +1489,19 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "ec612d4c3ef358c641f4a53d",
+      "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
+      "country": "Svédország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
     },
     {
       "id": "87a2b3a6e5727623f8f977d7",
@@ -1700,6 +1700,18 @@
       "summary_hu": "Jobb összekapcsoltság, kevesebb várakozás, kevesebb kibocsátás: az IRU a COP31-en | IRU | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége"
     },
     {
+      "id": "92a9576d5bb16b608d2807c8",
+      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
+      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
+    },
+    {
       "id": "7556ed2c3e49b6bd6ac3d9d4",
       "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
       "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
@@ -1723,18 +1735,6 @@
       "urgent": false,
       "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
       "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
-    },
-    {
-      "id": "92a9576d5bb16b608d2807c8",
-      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
-      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
-      "country": "Spanyolország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
     },
     {
       "id": "501af7cc3f5704c8472eb253",
@@ -1911,6 +1911,18 @@
       "summary_hu": "Németországban jelenleg naponta akár háromszor is közlekedik egy vezetőfülke nélküli teherautó közúton, amely Lidl-élelmiszereket szállít, és egy emberi munkahely továbbra is elkíséri egy külön járműben ECOticias.com – El Periódico Verde"
     },
     {
+      "id": "d52ea408608535cf16f7103e",
+      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
+      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
+      "country": "Oroszország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
+    },
+    {
       "id": "bee6a484fbf9f426f1c9c229",
       "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Yahoo Finance",
       "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Yahoo Finance",
@@ -1934,18 +1946,6 @@
       "urgent": false,
       "title_hu": "Román kamionsofőrt vettek őrizetbe, miközben a bolgár hatóságok vizsgálják a Trakia autópályán történt halálos tömegbalesetet – Novinite.com",
       "summary_hu": "A bolgár hatóságok őrizetbe vettek egy román kamionsofőrt a Trakia-autópályán történt halálos tömegbaleset kivizsgálása során – Novinite.com"
-    },
-    {
-      "id": "d52ea408608535cf16f7103e",
-      "title": "Freight transport costs in Russia soar by 30% due to fuel crisis - Українська правда",
-      "summary": "Freight transport costs in Russia soar by 30% due to fuel crisis Українська правда",
-      "country": "Oroszország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ec1Y4a1owcU5UTUtXeUZrWjJHQUN6VE1xZFo0Wk1nQ0ZkdFphYkw0X0V6NG55ZmtKMTM5eEJDdFdhQ2g4cXVTeWNMUER3YWc3VVlVMWd5WnFQU0tHSGlpZUdLaUbSAXBBVV95cUxPUE5KdHAtWnBEajlTUUEwNXctMklNTk1FRGdyR3M2djdFOGFreGc3amdEc1J5VTdQR2UyX2tTTUZ1WVJrODJ1Y0c3ZG91YUJNZDBtc2VoSmE0T1dkLVNsTlpCWjNZZk1SSndFTnNGam1H?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az üzemanyagválság miatt 30%-kal emelkednek az árufuvarozási költségek Oroszországban – Українська правда"
     },
     {
       "id": "9c2453ae0cf5a9f18ab8fb60",
@@ -2924,7 +2924,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-24T16:30:39.874974+00:00",
+  "updated_at": "2026-11-24T18:08:32.902237+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
