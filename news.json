@@ -20,7 +20,7 @@
       "category": "Útdíj",
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0lZVzVwNGRDNEFrM2N6eVRndXUzYTN6Z3dMZ1pPalMwUkdfbG13bXVVekJTbkF2MGtzYTZ0YUhMeXpRa1BYQXRoZGlyTE1jV2Z2SVg3U3hMc0ZUdG9EVnFyZ1RWMnJabE5RMUxxX01pcEdKbmJkT1ViTDdvZnNlOTFQaGhaUHBqd2ZQYzAxUURUSjFONFUxc1VDQ1lQMlFXR3BCNTlJeDNqNEZzdkowcWdrTEhmdmlCTF9nejFDOGlxeUJub3J4LXYtTF8tREF4eVByTFpwa0NMVUky?oc=5",
-      "published": "2026-11-25T09:00:39+00:00",
+      "published": "2026-11-25T09:01:42+00:00",
       "urgent": false,
       "title_hu": "Nairobi–Mombasa gyorsforgalmi út: Mennyit fizethetnek az autósok az út teljes hosszának használatáért az új útdíjszabályok szerint – People Daily",
       "summary_hu": "Nairobi–Mombasa autópálya: Mennyit fizethetnek az autósok az út teljes hosszának használatáért az új útdíjszabályok szerint? People Daily"
@@ -64,8 +64,8 @@
     },
     {
       "id": "7f2d9694592500f9037071a0",
-      "title": "Ras Al Khaimah crash: Indians among 13 dead as bus hits truck - NRI Affairs",
-      "summary": "Ras Al Khaimah crash: Indians among 13 dead as bus hits truck NRI Affairs",
+      "title": "Indians among 13 killed as bus hits stationary truck in Ras Al Khaimah - NRI Affairs",
+      "summary": "Indians among 13 killed as bus hits stationary truck in Ras Al Khaimah NRI Affairs",
       "country": "Egyesült Királyság",
       "category": "Egyéb",
       "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
@@ -314,9 +314,9 @@
       "id": "6a3187ef82286fcf2d76b1aa",
       "title": "114.6 kg kokainë të fshehura në kamion, arrestohet në Francë shoferi shqiptar - Reporteri.net",
       "summary": "114.6 kg kokainë të fshehura në kamion, arrestohet në Francë shoferi shqiptar Reporteri.net",
-      "country": "Franciaország",
+      "country": "Szerbia",
       "category": "Egyéb",
-      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGR6RWp6QzVmVXJ0aS1QMkZmLTNZaUMyQkstN3VFd2xJYm1mTjVub1lvVnl6Tm1kelpJY2hYdTBMd3B6ZExRSElFSnBXbmRzajBlcm1oWjY2R0x1dFN0Rkd2aThuY0htbTlZekR5WUhvOEV2TTBNOWRuZ1c5azRJYVh3QlktZmJTZXI0d25iZ3lJZm43UmxOWFprdmRSRGxaZEx0U1pUemg0Xzg?oc=5",
       "published": "2026-11-22T09:34:13+00:00",
       "urgent": false,
@@ -521,19 +521,6 @@
       "summary_hu": "A Zenobē kiterjeszti az elektromos közlekedés szolgáltatásként (Electric Transport-as-a-Service) kínálatát Németországra, az elektromos buszok és teherautók flottáit célozva meg Sustainable Bus"
     },
     {
-      "id": "93832be850cc4aa97d8abea9",
-      "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
-      "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
-      "country": "EU",
-      "category": "Határ",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
-      "published": "2026-11-20T15:31:38+00:00",
-      "urgent": false,
-      "title_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal – Moldpres",
-      "summary_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal Moldpres"
-    },
-    {
       "id": "27ce05564178a521213ed548",
       "title": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound - CTV News",
       "summary": "Transport fuel truck crashes near Trenton, fire closes Highway 401 eastbound CTV News",
@@ -687,7 +674,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0YxZnZaM1A1QzhkVFNvNVlUS0ZrTTVRWVJ6VkZJOTFYZHVudi1QOEFpbTRhdF9UZF9KQVJQVlpTTkFnS1h6a3p3VlJtZnhGN1J3MzliWUhHVV9ZZlZnUUR4OU9UZlBDbnhBRXVkVE5uY3YxU3hnSThJQW0xdGM2aG5iTmJTa2ZPSEpzVGlxMFl5bmdMTEJDd1czTnAxczNUSjNkcndDZWFWLUozOHZvdVotQnpDOHEzYlU2NTg5OEZvSWFXR2RHaFVlTWhCQ2RFenNLVg?oc=5",
       "published": "2026-11-19T12:46:36+00:00",
       "urgent": false,
@@ -979,18 +966,6 @@
       "title_hu": "Garfield Road East – Piccadilly Street – Windsor Road – Transport for NSW"
     },
     {
-      "id": "e007152d7ae4f020c0bad6ae",
-      "title": "IRHA issues winter driving advice to haulage operators - HGV Ireland",
-      "summary": "IRHA issues winter driving advice to haulage operators HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHRrWFdnb2ZqUmhBSG41TnRVSTdyRkhhVF9UbUxZdHhQQVlUUFZLaDhoTUV4cUVTN21EVHlRSjR1bVZjR3JaV2ZWU29GN2FLVVJiQ3hoRnl6ZjdMMVluZXE0dUYyWm5GNkdjeEJyOFZqZXhzSGFkRTFTSENrUm54c0p2Nl9BX1VqX1E?oc=5",
-      "published": "2026-11-17T20:44:41+00:00",
-      "urgent": false,
-      "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
-    },
-    {
       "id": "b792105c37ab62ee6601605f",
       "title": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing - CTV News",
       "summary": "Border guards seize 81 kg of cocaine from truck carrying romaine lettuce at B.C. crossing CTV News",
@@ -1002,6 +977,19 @@
       "urgent": false,
       "title_hu": "A határőrök 81 kg kokaint foglaltak le egy római salátát szállító teherautóból a Brit-Kolumbia határán – CTV News",
       "summary_hu": "A határőrök 81 kg kokaint foglaltak le egy római salátát szállító teherautóból a Brit-Kolumbia határán – CTV News"
+    },
+    {
+      "id": "93832be850cc4aa97d8abea9",
+      "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
+      "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
+      "country": "EU",
+      "category": "Határ",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
+      "published": "2026-11-17T14:29:10+00:00",
+      "urgent": false,
+      "title_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal – Moldpres",
+      "summary_hu": "Moldova Nemzeti Közúti Közlekedési Ügynöksége figyelmezteti a fuvarozókat Észtország december 1-jétől bezár három határátkelőhelyet Oroszországgal Moldpres"
     },
     {
       "id": "650fd7b94bd5cfdaf0e72c06",
@@ -1090,6 +1078,18 @@
       "urgent": false,
       "title_hu": "Az éjszakai teherautó-forgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban vannak érvényben, és eltérő kivételek vonatkoznak rájuk – trafficban.com",
       "summary_hu": "Az éjszakai tehergépkocsi-forgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban érvényesek, és eltérő kivételek vonatkoznak rájuk trafficban.com"
+    },
+    {
+      "id": "e007152d7ae4f020c0bad6ae",
+      "title": "IRHA issues winter driving advice to haulage operators - HGV Ireland",
+      "summary": "IRHA issues winter driving advice to haulage operators HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHRrWFdnb2ZqUmhBSG41TnRVSTdyRkhhVF9UbUxZdHhQQVlUUFZLaDhoTUV4cUVTN21EVHlRSjR1bVZjR3JaV2ZWU29GN2FLVVJiQ3hoRnl6ZjdMMVluZXE0dUYyWm5GNkdjeEJyOFZqZXhzSGFkRTFTSENrUm54c0p2Nl9BX1VqX1E?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
       "id": "b4a8aa70598dd994216068ae",
@@ -3096,7 +3096,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-25T11:18:19.938169+00:00",
+  "updated_at": "2026-11-25T13:44:39.588309+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
