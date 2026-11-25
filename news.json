@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "078332e680141c323ee220e6",
+      "title": "Volvo Trucks receives record order in the UK - HGV Ireland",
+      "summary": "Volvo Trucks receives record order in the UK HGV Ireland",
+      "country": "EU",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kc3BaSXFIbVJ4MGluRTBJSUE4cjVxT2JpSW9OVGx0NjBhd1JnNTFRdk9FS3pGY2VDa0J2dy0wbE1PMGZWdnJFVjB0ZnVSMjNpZUREY29rV3ZxMkpVMExORXVRRHEzMXdhcVlJclV2TUdMUFZqaWxTUFJDcWY?oc=5",
+      "published": "2026-11-25T09:38:23+00:00",
+      "urgent": false,
+      "title_hu": "A Volvo Trucks rekordnagyságú megrendelést kapott az Egyesült Királyságban – HGV Ireland"
+    },
+    {
+      "id": "d0c76d27f9d2279293b32ad9",
+      "title": "Nairobi-Mombasa Expressway: How much motorists could pay to use full length of the road under new toll rates - People Daily",
+      "summary": "Nairobi-Mombasa Expressway: How much motorists could pay to use full length of the road under new toll rates People Daily",
+      "country": "Németország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0lZVzVwNGRDNEFrM2N6eVRndXUzYTN6Z3dMZ1pPalMwUkdfbG13bXVVekJTbkF2MGtzYTZ0YUhMeXpRa1BYQXRoZGlyTE1jV2Z2SVg3U3hMc0ZUdG9EVnFyZ1RWMnJabE5RMUxxX01pcEdKbmJkT1ViTDdvZnNlOTFQaGhaUHBqd2ZQYzAxUURUSjFONFUxc1VDQ1lQMlFXR3BCNTlJeDNqNEZzdkowcWdrTEhmdmlCTF9nejFDOGlxeUJub3J4LXYtTF8tREF4eVByTFpwa0NMVUky?oc=5",
+      "published": "2026-11-25T09:00:39+00:00",
+      "urgent": false,
+      "title_hu": "Nairobi–Mombasa gyorsforgalmi út: Mennyit fizethetnek az autósok az út teljes hosszának használatáért az új útdíjszabályok szerint – People Daily",
+      "summary_hu": "Nairobi–Mombasa autópálya: Mennyit fizethetnek az autósok az út teljes hosszának használatáért az új útdíjszabályok szerint? People Daily"
+    },
+    {
       "id": "8666db3bf6cb2f249a5ecad0",
       "title": "Atlas Arteria (ASX:ALX): French Tax Proposals and Toll Road Traffic Take Centre Stage - Kalkine",
       "summary": "Atlas Arteria (ASX:ALX): French Tax Proposals and Toll Road Traffic Take Centre Stage Kalkine",
@@ -289,9 +314,9 @@
       "id": "6a3187ef82286fcf2d76b1aa",
       "title": "114.6 kg kokainë të fshehura në kamion, arrestohet në Francë shoferi shqiptar - Reporteri.net",
       "summary": "114.6 kg kokainë të fshehura në kamion, arrestohet në Francë shoferi shqiptar Reporteri.net",
-      "country": "Szerbia",
+      "country": "Franciaország",
       "category": "Egyéb",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVGR6RWp6QzVmVXJ0aS1QMkZmLTNZaUMyQkstN3VFd2xJYm1mTjVub1lvVnl6Tm1kelpJY2hYdTBMd3B6ZExRSElFSnBXbmRzajBlcm1oWjY2R0x1dFN0Rkd2aThuY0htbTlZekR5WUhvOEV2TTBNOWRuZ1c5azRJYVh3QlktZmJTZXI0d25iZ3lJZm43UmxOWFprdmRSRGxaZEx0U1pUemg0Xzg?oc=5",
       "published": "2026-11-22T09:34:13+00:00",
       "urgent": false,
@@ -439,7 +464,7 @@
       "summary": "The suspension of border crossings at the Estonian-Russian road border crossing points Kriis.ee",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjVja1BVZDZqeF9sQjFBUFlCVnpnTmpBa01iMFBOcVFPaTVjOGloektKd0plQlFoSkRyNk5iUU01MURtWXItajFadDVuWHpqa3BMamwzYkZFM2NuaWtDQ0l6LWk0ejJKazU1dDhoV3hXZWV0ZHZnSGZzTXNtTzNwbW0xQW5qTGV5Rk96VVdaaHZsZWJLUHNV?oc=5",
       "published": "2026-11-20T18:59:02+00:00",
       "urgent": false,
@@ -662,7 +687,7 @@
       "summary": "For the first time, a fully electric truck transports fruit and vegetables from Spain to Sweden Hortidaily",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR0YxZnZaM1A1QzhkVFNvNVlUS0ZrTTVRWVJ6VkZJOTFYZHVudi1QOEFpbTRhdF9UZF9KQVJQVlpTTkFnS1h6a3p3VlJtZnhGN1J3MzliWUhHVV9ZZlZnUUR4OU9UZlBDbnhBRXVkVE5uY3YxU3hnSThJQW0xdGM2aG5iTmJTa2ZPSEpzVGlxMFl5bmdMTEJDd1czTnAxczNUSjNkcndDZWFWLUozOHZvdVotQnpDOHEzYlU2NTg5OEZvSWFXR2RHaFVlTWhCQ2RFenNLVg?oc=5",
       "published": "2026-11-19T12:46:36+00:00",
       "urgent": false,
@@ -979,6 +1004,18 @@
       "summary_hu": "A határőrök 81 kg kokaint foglaltak le egy római salátát szállító teherautóból a Brit-Kolumbia határán – CTV News"
     },
     {
+      "id": "650fd7b94bd5cfdaf0e72c06",
+      "title": "Sasol expands 10ppm diesel availability in Western Cape - Freight News",
+      "summary": "Sasol expands 10ppm diesel availability in Western Cape Freight News",
+      "country": "Lengyelország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGl4NXd5WHJrR1VGb2RyWDh4WUxlbFdRd1MzbHNRcmx2RXZkRkVVQWRfQkt4YjB3Ylo1MmVXMXBlVFg3THllV3FfbkYxVENsaGIyMkRaeUwxaVZwTHZ4WllnT09xWkJDM0FVRERXZG91d21IWEktTGd3V2xNdEV5c3Z2ZzA4T1llRWlraUUwQlFMOVk?oc=5",
+      "published": "2026-11-17T12:58:00+00:00",
+      "urgent": false,
+      "title_hu": "A Sasol bővíti a 10 ppm-es dízel elérhetőségét a Nyugat-Fokföldön – Szállítási hírek"
+    },
+    {
       "id": "024904446a505037c4e4dd9f",
       "title": "Digital services should cover all areas of road transport - RTSH - Radio Televizioni Shqiptar",
       "summary": "Digital services should cover all areas of road transport RTSH - Radio Televizioni Shqiptar",
@@ -1240,18 +1277,6 @@
       "summary_hu": "Útburkolati munkálatok által érintett útvonalak öt országban – fontos információk a nehéz tehergépjárművek vezetői számára trafficban.com"
     },
     {
-      "id": "fb16b01cc530ccb65f08172c",
-      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
-      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
-      "published": "2026-11-16T09:15:01+00:00",
-      "urgent": false,
-      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
-    },
-    {
       "id": "52fc83659b26b82103694bb8",
       "title": "Estonia's eastern border closure will stop bus and truck traffic to Russia - ERR",
       "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
@@ -1262,6 +1287,30 @@
       "published": "2026-11-16T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
+    },
+    {
+      "id": "fb16b01cc530ccb65f08172c",
+      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
+      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
+    },
+    {
+      "id": "8da8c093d2fed5540bbe9186",
+      "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
+      "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LanNSQUx4VXVnMVNKSHExY1J4cWFCZVQ4YWdCRno1SE1fUmJwWW1IZ1BnYTZObTNoTDdoWGJ2YjlHSFk3MmVhQk5Na2xPQQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
       "id": "85f12bc412b3fc3f85e3a0c1",
@@ -1275,18 +1324,6 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
-    },
-    {
-      "id": "8da8c093d2fed5540bbe9186",
-      "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
-      "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LanNSQUx4VXVnMVNKSHExY1J4cWFCZVQ4YWdCRno1SE1fUmJwWW1IZ1BnYTZObTNoTDdoWGJ2YjlHSFk3MmVhQk5Na2xPQQ?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
       "id": "d1e0e083393273a9fed72a5e",
@@ -1479,9 +1516,9 @@
       "id": "c40ad37872199bfbdfcad55e",
       "title": "Border police confiscated 17,274 counterfeit perfumes from a truck stopped in Calafat - Informat.ro",
       "summary": "Border police confiscated 17,274 counterfeit perfumes from a truck stopped in Calafat Informat.ro",
-      "country": "Bulgária",
+      "country": "Románia",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTEybXMzX18xT2xDc0w2c0xOMHNON2p0MHYtZEMxWmtGeXJIckM1cVkwRGZhcl93M1RhQWlWUW80TmxJeGxUblprbTZoQVZvS2NSbFBkUU9wTkF5OXRpVUdmLVFld0phWGd3dHJFOHBNejFRdEVrWFZWamFSeWxzUDQzMFVHV1Q1MlVZS3hLNEtfdGtvTHp1eS1INmEtYWNFc0E?oc=5",
       "published": "2026-11-14T08:00:00+00:00",
       "urgent": false,
@@ -1576,16 +1613,16 @@
       "title_hu": "Kirgizisztán megtisztítja a főbb autópályákat a hótól, és feloldja a tehergépjárművekre vonatkozó korlátozásokat – Trend hírügynökség"
     },
     {
-      "id": "c1144e788dd27bca57df891a",
-      "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
-      "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
+      "id": "74471f154b45792957faa2e4",
+      "title": "IRHA backs IRU calls for tougher EU rules on late payments - HGV Ireland",
+      "summary": "IRHA backs IRU calls for tougher EU rules on late payments HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTdwaElTWjhJdEQya1ZudFlzcGVvcURNTV9lZUQzc2xNdXVkSS1wWEFXa2VmVFhFdTFyQkk0VHZuWDVtYjdQYk1WREQwazA4eHcwZ3Iyc3dDUkdaX2xhVEFrYUNaaTYzN1BvN0lzeWV1ZkNoYVBlYTJjdExDRVNGNlpoRlVDeWN0aFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdERxX1MzcXVHOUdYa29CcmVsRWcwNm5VdGNmZGtfMVIwWEttNFM3TjdZME5wVHpGOUx5MkVOYkVtMW44aFVKQUhRaE9ZVGx1VmdYUS1RRmdySjgzQlFfU3ZPR1hwcURkcW1XaDduWTJjeHQ1LS1LUk9mRjUzZjZLc0JyRk5YaXVPZ2MzZzB2NA?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "urgent": false,
-      "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
+      "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
       "id": "87a2b3a6e5727623f8f977d7",
@@ -1616,9 +1653,9 @@
       "id": "ec612d4c3ef358c641f4a53d",
       "title": "Battery-powered trailers could slash diesel costs for truck operators - ABC News & Headlines – Australian Broadcasting Corporation",
       "summary": "Battery-powered trailers could slash diesel costs for truck operators ABC News & Headlines – Australian Broadcasting Corporation",
-      "country": "Németország",
+      "country": "Svédország",
       "category": "Üzemanyag",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXE2NU1lcWpPY0RvUS1laWROTlRKRTg1UmxnZDUtTVBZRG9aeXdvajYyMGNtSUJWbnhHWl9nRk9ZZVFLTVZhRU5reVE3aEwzX2ZDdklleDNYVzEtNHhBbzF2djcxdkFMZGdtMWV0M21laEVSWjJUUXhBS2kyUDFzMUpDUGpWb19pNG9J?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "urgent": false,
@@ -1639,16 +1676,16 @@
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
     },
     {
-      "id": "74471f154b45792957faa2e4",
-      "title": "IRHA backs IRU calls for tougher EU rules on late payments - HGV Ireland",
-      "summary": "IRHA backs IRU calls for tougher EU rules on late payments HGV Ireland",
+      "id": "c1144e788dd27bca57df891a",
+      "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
+      "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdERxX1MzcXVHOUdYa29CcmVsRWcwNm5VdGNmZGtfMVIwWEttNFM3TjdZME5wVHpGOUx5MkVOYkVtMW44aFVKQUhRaE9ZVGx1VmdYUS1RRmdySjgzQlFfU3ZPR1hwcURkcW1XaDduWTJjeHQ1LS1LUk9mRjUzZjZLc0JyRk5YaXVPZ2MzZzB2NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTdwaElTWjhJdEQya1ZudFlzcGVvcURNTV9lZUQzc2xNdXVkSS1wWEFXa2VmVFhFdTFyQkk0VHZuWDVtYjdQYk1WREQwazA4eHcwZ3Iyc3dDUkdaX2xhVEFrYUNaaTYzN1BvN0lzeWV1ZkNoYVBlYTJjdExDRVNGNlpoRlVDeWN0aFE?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "urgent": false,
-      "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
+      "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
     },
     {
       "id": "54414ca28081d1ce229da64c",
@@ -1702,9 +1739,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Litvánia",
+      "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -1823,6 +1860,18 @@
       "summary_hu": "Jobb összekapcsoltság, kevesebb várakozás, kevesebb kibocsátás: az IRU a COP31-en | IRU | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége | IRU, a Közúti Szállítmányozók Nemzetközi Szövetsége"
     },
     {
+      "id": "92a9576d5bb16b608d2807c8",
+      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
+      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
+      "country": "Spanyolország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
+    },
+    {
       "id": "7556ed2c3e49b6bd6ac3d9d4",
       "title": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 - HGV Ireland",
       "summary": "EU regulatory changes: what Irish hauliers need to prepare for in 2027 HGV Ireland",
@@ -1847,6 +1896,19 @@
       "title_hu": "Felkészült a teherautója a télre? – HGV Ireland"
     },
     {
+      "id": "827160a2c127b8b76230877f",
+      "title": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice - Lovin Malta",
+      "summary": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice Lovin Malta",
+      "country": "Málta",
+      "category": "Egyéb",
+      "source": "Google News RSS – Málta fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1VsWjdMQ2N4N2wxR2E2b0VMMkMxanlaaGlsYXk3SjhYQUkyYWFZb3prOFZpaEhoeXNzbFJCbGxlcjNQN0NQb3NjaXZRVVg0d1l3aE9DSU80WThwbkRhbWx2VjhzcGVia3lhQmhzMkZQaHN6ZTFTTDZ2aVRaYzhSMVhKMk1BTVctNEZjSGxRTFQ1RnVvYlhmNmRVWncwMVNtZTU4bW5CdEM0YnhlcVpYNkE1TzQ?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
+      "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
+    },
+    {
       "id": "501af7cc3f5704c8472eb253",
       "title": "Friday fuel convoys cancelled as Dublin protest remains planned - HGV Ireland",
       "summary": "Friday fuel convoys cancelled as Dublin protest remains planned HGV Ireland",
@@ -1869,31 +1931,6 @@
       "published": "2026-11-12T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Az IRU támogatja az EU 91,3 milliárd eurós infrastrukturális finanszírozási javaslatát – HGV Ireland"
-    },
-    {
-      "id": "827160a2c127b8b76230877f",
-      "title": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice - Lovin Malta",
-      "summary": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice Lovin Malta",
-      "country": "Málta",
-      "category": "Egyéb",
-      "source": "Google News RSS – Málta fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1VsWjdMQ2N4N2wxR2E2b0VMMkMxanlaaGlsYXk3SjhYQUkyYWFZb3prOFZpaEhoeXNzbFJCbGxlcjNQN0NQb3NjaXZRVVg0d1l3aE9DSU80WThwbkRhbWx2VjhzcGVia3lhQmhzMkZQaHN6ZTFTTDZ2aVRaYzhSMVhKMk1BTVctNEZjSGxRTFQ1RnVvYlhmNmRVWncwMVNtZTU4bW5CdEM0YnhlcVpYNkE1TzQ?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta",
-      "summary_hu": "Sliema helyi önkormányzata vitatja a Gemma Joe tulajdonosainak állításait az ételárusító kocsi eltávolítására vonatkozó értesítéssel kapcsolatban – Lovin Malta"
-    },
-    {
-      "id": "92a9576d5bb16b608d2807c8",
-      "title": "Spain: Road freight economy and market in Q3 2026 - Upply",
-      "summary": "Spain: Road freight economy and market in Q3 2026 Upply",
-      "country": "Spanyolország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamFBcC1KZDhYZmdjVnJibERBYWpwdjNpVkxPVDJmSHRVUnZsWGxOYzRlWXFIdWg2VGo2ZUpNNVVCblA3a3hhRFRfVHlfOWNLYTJhNjBUWVBiVFR5R2FfNS1XaHZWMHNIUDZzWC1RUTdpNHFON1NjZnZ5TmVEOWJpRVhIUjVSWGh2MDFqVFpn0gGeAUFVX3lxTFBsRDFNUXZ5RV83Y1NHdkRLeDIyc1Y1cE55bmJldWN3VFR4UFhwREF0bWl0anhzNFBsQTBXY21TenJCTllmMGFadm10azJfWGV4ODd2akk1NkRLS0V1YVVMLVB1OTRYUy1ocHhSMXdvcGxvVjV2WjhuSGREU2NwSXp2Z1pwV09Rcmc0YktjWTFhaXd2YzVHcEZOcmlfVGlR?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
     },
     {
       "id": "c2b48c81268e5e7d6fe597a0",
@@ -3059,13 +3096,9 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-25T09:36:52.378402+00:00",
-  "sources_ok": 31,
+  "updated_at": "2026-11-25T11:18:19.938169+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Csehország fuvarozás",
-    "Google News RSS – Görögország fuvarozás",
-    "Google News RSS – Szerbia fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
