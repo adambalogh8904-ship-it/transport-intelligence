@@ -61,6 +61,18 @@
       "title_hu": "A FedEx kiemeli a dublini központ szerepét az ír vállalkozások támogatásában – HGV Ireland"
     },
     {
+      "id": "3440e8144d2d44db21534b92",
+      "title": "Rockslide forces road closure between Saint-Sauveur-sur-Tinée and Isola - Riviera Radio",
+      "summary": "Rockslide forces road closure between Saint-Sauveur-sur-Tinée and Isola Riviera Radio",
+      "country": "Franciaország",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkt5bkJPcDMyUzJVWDZKNHE4V1VZMHl6ODBBc0pxN2RKbmQ4VDJCclZWQkFfLUVSa3I1YjZkVmpSZmdWa0s2UVZzbHZ3M3JPWk5pY0xGTkZGTkhfclgtU1lGV2pPWjdDTEFIdC1GYTd6YmVoaUJrZXNQS3RodFdGbWhjREh4TkJmWUxGMWNUUTJQVWRDelVoS3RiYWJya3VQUFp0RUQ5X3RjcDdFajg1WHdNbVV3cXprcVE?oc=5",
+      "published": "2026-11-24T10:33:31+00:00",
+      "urgent": false,
+      "title_hu": "Kőomlás miatt lezárták az utat Saint-Sauveur-sur-Tinée és Isola között – Riviera Radio"
+    },
+    {
       "id": "76ef09a2eab6b8312d300e13",
       "title": "Europe’s truck and bus manufacturers call on EU to address barriers to adoption of zero-emission vehicles - Sustainability Online",
       "summary": "Europe’s truck and bus manufacturers call on EU to address barriers to adoption of zero-emission vehicles Sustainability Online",
@@ -651,9 +663,9 @@
       "id": "a40c768d8b66b85110c1b73d",
       "title": "Sixteen foreign citizens, hidden in a truck with food storage containers - World Border Security Congress",
       "summary": "Sixteen foreign citizens, hidden in a truck with food storage containers World Border Security Congress",
-      "country": "Lengyelország",
+      "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTY4R0VzcUlMRkxfaUZYUVp2M1htbmpPYTAzUHp1Q2xfXzc5NGZOb1M2aWlzalZKQlJqQ2JndWJ0eXU2VkJaLWktNTB4Vk1ZeXNDUmRHRVlGdTlMY0RtTFpUalFfeFVaSG15cjdLWndiYlNfd0M0UEs4LWxtX3lhQ1lGUjRLdm05emFjZVU5NTFNWHRGWktzN2VuLU42SEtRZjlRLWE3ODZkZw?oc=5",
       "published": "2026-11-19T09:52:18+00:00",
       "urgent": false,
@@ -1483,7 +1495,7 @@
       "summary": "VERY LUCKY ESCAPE Lorry driver escapes unhurt after cab destroyed in horrific motorway crash near Belgian border UKNIP",
       "country": "Belgium",
       "category": "Határ",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Belgium fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXVUV2FjbzJ1djFjWDBZQ05yZUpzQXRBdlZaN0tGUzU3dEJfM1JaQURacnZSVTdya0NwTkhPTnRMVE1KUHpjcE5mcTA4ckZfRlFuVERQSTVuUDVwVjdvU1lFUE1rVDRDTUhwb1lDWVhpdnlfdVlsc0FHMUFsd1JFdGNjU3hTQUVYUTZQdQ?oc=5",
       "published": "2026-11-13T10:16:01+00:00",
       "urgent": false,
@@ -1527,18 +1539,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "87a2b3a6e5727623f8f977d7",
-      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
-      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
-      "country": "Lengyelország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
-    },
-    {
       "id": "6a581eb604924e9822c86c50",
       "title": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen - RTL Today",
       "summary": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen RTL Today",
@@ -1576,6 +1576,18 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "87a2b3a6e5727623f8f977d7",
+      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
+      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
+      "country": "Lengyelország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
     },
     {
       "id": "54414ca28081d1ce229da64c",
@@ -1641,9 +1653,9 @@
       "id": "1a1482816220908f701f406f",
       "title": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands - Herald.Wales",
       "summary": "Welsh-founded logistics group celebrates 60-truck milestone as European business expands Herald.Wales",
-      "country": "Litvánia",
+      "country": "Franciaország",
       "category": "Egyéb",
-      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFNdllPcWh0ZFoxM21RZ0lTbXZqamJmVHhzaDhhUE10d0VoU3EzTWdtcThOcnlucHpmRWF6MERhcXhnRDJQUUwwNm5keWxDSnVoRkQ2bzZzMFZrMTc1ZGt4dmk1dWVYRkNfbml2enZPZWlGTzZieXVsZXBhNkR2UGtCbloydGZ6aGRFQ3BzS3c1a1U4ZXp3cU1LMU91OEsxYWdRLVd5bWh5a1hqVGhJSHZkOV9hMmtiWGN2RG54QUFHUQ?oc=5",
       "published": "2026-11-12T21:42:24+00:00",
       "urgent": false,
@@ -2986,7 +2998,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-24T22:18:03.011234+00:00",
+  "updated_at": "2026-11-25T00:03:07.190767+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
