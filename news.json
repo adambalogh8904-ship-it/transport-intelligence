@@ -1,12 +1,24 @@
 {
   "items": [
     {
+      "id": "769eaf845ea75badcf7f0800",
+      "title": "Customers won’t pay more for greener transport – IRU survey confirms - HGV Ireland",
+      "summary": "Customers won’t pay more for greener transport – IRU survey confirms HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRERPOWQ0RW1qbXdmSjRGRlM1NzVnLTMwTHZhcUhZQV9HejJFcTB5OTNxN21qS2lJZkdpcjFpMkhaNDQ0bU9WSUtkQ3JhaDN2aGwzcEQzcHZYN3p3U1FnaDdJOXJJVzR5cVpqanVHY0IxVzA3ZkZpTmRpUThja3ZkNi1pWU5fYnVoMS1sZWJ4TFQya2Zmd0QtUA?oc=5",
+      "published": "2026-11-26T06:10:48+00:00",
+      "urgent": false,
+      "title_hu": "Az ügyfelek nem hajlandók többet fizetni a környezetbarátabb szállításért – erősíti meg az IRU felmérése – HGV Ireland"
+    },
+    {
       "id": "feea10bbc37d2cd2b75bd3a5",
       "title": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways - Daily Voice Of Asia",
       "summary": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways Daily Voice Of Asia",
       "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFA1QlB6dHVJUTV4RUlPZGQwRl9xRjBaZlRZOF9ZWVR1QXVIelpyOTUtaGpUTjJ5TmNwTlc2em1TbVo4aFpZcjAzcFdnY05fWmt6UkxPaWxXWjBhSzVmNmhOQ1gtVGg4T0RrS3ptQVVwb2U1N1lKcU1WSW1CSGJoT0YtSW5ORVpUdzQ5aVZUWTVzcEsweWRWeFRIN1l3S0No?oc=5",
       "published": "2026-11-26T01:51:57+00:00",
       "urgent": false,
@@ -117,9 +129,9 @@
       "id": "f4e414bb5f660c9167cc961a",
       "title": "China and Europe: What will drive the green transition? - IRU | World Road Transport Organisation",
       "summary": "China and Europe: What will drive the green transition? IRU | World Road Transport Organisation",
-      "country": "Spanyolország",
+      "country": "Lengyelország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDljT0txeHUxOTI4LUZaUW5VSXJUdkV6YkhBeG53RkJCSW1uMHZ2Rktrc3RJV2U3bEhEZlpMNUt0V2dRYmtzRnJyOEJVSmdjUEl3SmhURmMzSW5QcFZMdE9YQW43U3phZWJrek1lRlp5WW03X3pwTm5QLUJfajlUSUVzS2RJb2o4a3h3U3RNVVUxV3lkTm9BUw?oc=5",
       "published": "2026-11-25T08:03:37+00:00",
       "urgent": false,
@@ -1171,7 +1183,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-17T14:29:10+00:00",
       "urgent": false,
@@ -1267,19 +1279,6 @@
       "summary_hu": "Az éjszakai tehergépkocsiforgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban vannak érvényben, és eltérő mentességek vonatkoznak rájuk trafficban.com"
     },
     {
-      "id": "95c8fac9dedc8d18f6a904db",
-      "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - Cyprus Business News",
-      "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter Cyprus Business News",
-      "country": "Ciprus",
-      "category": "Egyéb",
-      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnMzWS15c2tYcmc3dG02QnFQMjRZcTVOMHNOZmE2LURWX0xhWUlxNTNBS25xZW16Q2Q0UkU0bVZnQlVlSnh5RldsakNvX2xpbVNIelNnZnFOOWNjWEJZNEtaQjE0RUQ2TEQwVmljcXlkMzk2cTkzNGtQbWxxTXo4ZkxaVGk5WWlvUlRuTjVucW8wUEdDM2ZTMlJOZ05SLTZOS3dmN1V3X1FGV0kwT00ycFVQZ2k?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A Ciprusra irányuló és onnan induló közúti áruforgalom 17,7%-kal nőtt a második negyedévben – CBN.com.cy",
-      "summary_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben Cyprus Business News"
-    },
-    {
       "id": "e007152d7ae4f020c0bad6ae",
       "title": "IRHA issues winter driving advice to haulage operators - HGV Ireland",
       "summary": "IRHA issues winter driving advice to haulage operators HGV Ireland",
@@ -1314,6 +1313,19 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
+    },
+    {
+      "id": "95c8fac9dedc8d18f6a904db",
+      "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - Cyprus Business News",
+      "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter Cyprus Business News",
+      "country": "Ciprus",
+      "category": "Egyéb",
+      "source": "Google News RSS – Ciprus fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnMzWS15c2tYcmc3dG02QnFQMjRZcTVOMHNOZmE2LURWX0xhWUlxNTNBS25xZW16Q2Q0UkU0bVZnQlVlSnh5RldsakNvX2xpbVNIelNnZnFOOWNjWEJZNEtaQjE0RUQ2TEQwVmljcXlkMzk2cTkzNGtQbWxxTXo4ZkxaVGk5WWlvUlRuTjVucW8wUEdDM2ZTMlJOZ05SLTZOS3dmN1V3X1FGV0kwT00ycFVQZ2k?oc=5",
+      "published": "2026-11-17T06:06:02+00:00",
+      "urgent": false,
+      "title_hu": "A Ciprusra irányuló és onnan induló közúti áruforgalom 17,7%-kal nőtt a második negyedévben – CBN.com.cy",
+      "summary_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben Cyprus Business News"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -1916,7 +1928,7 @@
       "summary": "Nearly 498 Kilograms of Marijuana Found in Truck at Bulgaria's Kulata Border Novinite.com",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Bulgária fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4SUJWMmtLbEdrc3RhOEZaMXVFQXlxTjVkOVU0LVpFWWE5ZW81SUVLenBOSjJVWndtcGJRdUxCYU1ubnFXSlE3b1NHZWYwV1RMcE5FRUloRnpkd0dQcmRXSXFBWUUyYXc4VjU3VzJnWWFaUWdFV3BB?oc=5",
       "published": "2026-11-13T00:53:19+00:00",
       "urgent": false,
@@ -2059,6 +2071,18 @@
       "title_hu": "Uniós szabályozási változások: mire kell felkészülniük az ír fuvarozóknak 2027-ben – HGV Ireland"
     },
     {
+      "id": "03c767dacd37b403a2534be1",
+      "title": "Is your truck winter ready? - HGV Ireland",
+      "summary": "Is your truck winter ready? HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUTh0NEFBWFpKcjlJNFdfaDZTT29iMEtrUDZJLWkyTkw0ejJHQ3gtNGVCZ0labVFHWEszWDRYRXp1NURaQmg3RGE4bVhRcDc4Mk9remdxalVpRXpaS2lUd3cxX2s?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Felkészült a teherautója a télre? – HGV Ireland"
+    },
+    {
       "id": "827160a2c127b8b76230877f",
       "title": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice - Lovin Malta",
       "summary": "Sliema Local Council Disputes Gemma Joe’s Owners’ Claims Over Food Truck Removal Notice Lovin Malta",
@@ -2082,18 +2106,6 @@
       "published": "2026-11-12T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Spanyolország: A közúti árufuvarozás gazdasága és piaca 2026 harmadik negyedévében – Upply"
-    },
-    {
-      "id": "03c767dacd37b403a2534be1",
-      "title": "Is your truck winter ready? - HGV Ireland",
-      "summary": "Is your truck winter ready? HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUTh0NEFBWFpKcjlJNFdfaDZTT29iMEtrUDZJLWkyTkw0ejJHQ3gtNGVCZ0labVFHWEszWDRYRXp1NURaQmg3RGE4bVhRcDc4Mk9remdxalVpRXpaS2lUd3cxX2s?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Felkészült a teherautója a télre? – HGV Ireland"
     },
     {
       "id": "501af7cc3f5704c8472eb253",
@@ -3283,9 +3295,12 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-26T05:29:03.730731+00:00",
-  "sources_ok": 34,
+  "updated_at": "2026-11-26T07:45:34.705640+00:00",
+  "sources_ok": 32,
   "sources_total": 34,
-  "sources_failed": [],
+  "sources_failed": [
+    "Google News RSS – Hollandia fuvarozás",
+    "Google News RSS – Portugália fuvarozás"
+  ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
