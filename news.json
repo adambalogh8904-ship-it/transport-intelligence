@@ -80,7 +80,7 @@
       "summary": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways Daily Voice Of Asia",
       "country": "Németország",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFA1QlB6dHVJUTV4RUlPZGQwRl9xRjBaZlRZOF9ZWVR1QXVIelpyOTUtaGpUTjJ5TmNwTlc2em1TbVo4aFpZcjAzcFdnY05fWmt6UkxPaWxXWjBhSzVmNmhOQ1gtVGg4T0RrS3ptQVVwb2U1N1lKcU1WSW1CSGJoT0YtSW5ORVpUdzQ5aVZUWTVzcEsweWRWeFRIN1l3S0No?oc=5",
       "published": "2026-11-26T01:51:57+00:00",
       "urgent": false,
@@ -204,9 +204,9 @@
       "id": "f4e414bb5f660c9167cc961a",
       "title": "China and Europe: What will drive the green transition? - IRU | World Road Transport Organisation",
       "summary": "China and Europe: What will drive the green transition? IRU | World Road Transport Organisation",
-      "country": "Németország",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDljT0txeHUxOTI4LUZaUW5VSXJUdkV6YkhBeG53RkJCSW1uMHZ2Rktrc3RJV2U3bEhEZlpMNUt0V2dRYmtzRnJyOEJVSmdjUEl3SmhURmMzSW5QcFZMdE9YQW43U3phZWJrek1lRlp5WW03X3pwTm5QLUJfajlUSUVzS2RJb2o4a3h3U3RNVVUxV3lkTm9BUw?oc=5",
       "published": "2026-11-25T08:03:37+00:00",
       "urgent": false,
@@ -1354,19 +1354,6 @@
       "summary_hu": "Az éjszakai tehergépkocsi-forgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban érvényesek, és eltérő kivételek vonatkoznak rájuk trafficban.com"
     },
     {
-      "id": "f0d97858af706e53779ed884",
-      "title": "Night-time truck bans in Austria and on the A12 have different hours and exemptions - trafficban.com",
-      "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
-      "country": "Ausztria",
-      "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az éjszakai tehergépkocsiforgalomra vonatkozó tilalmak Ausztriában és az A12-es autópályán eltérő időszakokra vonatkoznak, és eltérő kivételek érvényesek rájuk – trafficban.com",
-      "summary_hu": "Az éjszakai tehergépkocsiforgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban vannak érvényben, és eltérő mentességek vonatkoznak rájuk trafficban.com"
-    },
-    {
       "id": "95c8fac9dedc8d18f6a904db",
       "title": "Road freight transported to and from Cyprus rises 17.7% in the second quarter - Cyprus Business News",
       "summary": "Road freight transported to and from Cyprus rises 17.7% in the second quarter Cyprus Business News",
@@ -1402,6 +1389,19 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Elhalasztották az EU teherautó-tömegről szóló tárgyalásait, mivel a hasznos teherrel kapcsolatos kérdések továbbra sem rendeződtek – HGV Ireland"
+    },
+    {
+      "id": "f0d97858af706e53779ed884",
+      "title": "Night-time truck bans in Austria and on the A12 have different hours and exemptions - trafficban.com",
+      "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
+      "country": "Ausztria",
+      "category": "Egyéb",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az éjszakai tehergépkocsiforgalomra vonatkozó tilalmak Ausztriában és az A12-es autópályán eltérő időszakokra vonatkoznak, és eltérő kivételek érvényesek rájuk – trafficban.com",
+      "summary_hu": "Az éjszakai tehergépkocsiforgalmi korlátozások Ausztriában és az A12-es autópályán eltérő időpontokban vannak érvényben, és eltérő mentességek vonatkoznak rájuk trafficban.com"
     },
     {
       "id": "3e95e5059e53ed5fae2f2da9",
@@ -1825,18 +1825,6 @@
       "summary_hu": "A határrendészet 17 274 hamisított parfümöt foglalt le egy Calafatban megállított teherautóból Informat.ro"
     },
     {
-      "id": "a7b293955f60235ecc5be88b",
-      "title": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research - The Des Moines Register",
-      "summary": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research The Des Moines Register",
-      "country": "Svédország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT25JQ2VEU0dXUkNXbXJudjZsbEJGWk1rNER6NVk0Mmt5OVNqbS1JMHI3Wlk5LXFCSXFxRnljcVJoWEhfOW1UaHVZb3ZOald6RnJXS25abFBySWVFZmo4Nmd0TFRhaHM3TnhzTS0xc2FoZk9OX3BCX3ZiSFkyUENQY081Q1FTdjZXcFNIZmpLMVpfZnNZYnlGUnBCTlNiSEltR2hoUk5RNS1qcFdMeVAxVGM0TlRUa3FYeVZZX1pDdzhkaXM?oc=5",
-      "published": "2026-11-13T16:40:59+00:00",
-      "urgent": false,
-      "title_hu": "A 6 legjobb FAW vontató teherautó-szállító 2026-os beszerzési felmérés – The Des Moines Register"
-    },
-    {
       "id": "d73d37cb0aaebb26271dcb04",
       "title": "Diesel: prices ease, supply doesn't - IRU | World Road Transport Organisation",
       "summary": "Diesel: prices ease, supply doesn't IRU | World Road Transport Organisation",
@@ -1924,30 +1912,6 @@
       "title_hu": "Az IRHA támogatja az IRU azon felhívását, hogy az EU szigorítsa a késedelmes fizetésekre vonatkozó szabályokat – HGV Ireland"
     },
     {
-      "id": "c1144e788dd27bca57df891a",
-      "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
-      "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTdwaElTWjhJdEQya1ZudFlzcGVvcURNTV9lZUQzc2xNdXVkSS1wWEFXa2VmVFhFdTFyQkk0VHZuWDVtYjdQYk1WREQwazA4eHcwZ3Iyc3dDUkdaX2xhVEFrYUNaaTYzN1BvN0lzeWV1ZkNoYVBlYTJjdExDRVNGNlpoRlVDeWN0aFE?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
-    },
-    {
-      "id": "87a2b3a6e5727623f8f977d7",
-      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
-      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
-      "country": "Lengyelország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
-    },
-    {
       "id": "6a581eb604924e9822c86c50",
       "title": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen - RTL Today",
       "summary": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen RTL Today",
@@ -1972,6 +1936,42 @@
       "urgent": false,
       "title_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit – ABC News & Headlines – Australian Broadcasting Corporation",
       "summary_hu": "Az akkumulátoros pótkocsik jelentősen csökkenthetik a teherautó-üzemeltetők dízelköltségeit ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "a7b293955f60235ecc5be88b",
+      "title": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research - The Des Moines Register",
+      "summary": "Top 6 FAW Tractor Truck Suppliers for 2026 Procurement Research The Des Moines Register",
+      "country": "Svédország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT25JQ2VEU0dXUkNXbXJudjZsbEJGWk1rNER6NVk0Mmt5OVNqbS1JMHI3Wlk5LXFCSXFxRnljcVJoWEhfOW1UaHVZb3ZOald6RnJXS25abFBySWVFZmo4Nmd0TFRhaHM3TnhzTS0xc2FoZk9OX3BCX3ZiSFkyUENQY081Q1FTdjZXcFNIZmpLMVpfZnNZYnlGUnBCTlNiSEltR2hoUk5RNS1qcFdMeVAxVGM0TlRUa3FYeVZZX1pDdzhkaXM?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A 6 legjobb FAW vontató teherautó-szállító 2026-os beszerzési felmérés – The Des Moines Register"
+    },
+    {
+      "id": "c1144e788dd27bca57df891a",
+      "title": "Workshops need to prepare for tougher emissions checks - HGV Ireland",
+      "summary": "Workshops need to prepare for tougher emissions checks HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTdwaElTWjhJdEQya1ZudFlzcGVvcURNTV9lZUQzc2xNdXVkSS1wWEFXa2VmVFhFdTFyQkk0VHZuWDVtYjdQYk1WREQwazA4eHcwZ3Iyc3dDUkdaX2xhVEFrYUNaaTYzN1BvN0lzeWV1ZkNoYVBlYTJjdExDRVNGNlpoRlVDeWN0aFE?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
+    },
+    {
+      "id": "87a2b3a6e5727623f8f977d7",
+      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
+      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
+      "country": "Lengyelország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
     },
     {
       "id": "a9d0e42ce7d23602620f837c",
@@ -3395,11 +3395,11 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-26T16:25:49.246937+00:00",
+  "updated_at": "2026-11-26T18:08:52.841984+00:00",
   "sources_ok": 33,
   "sources_total": 34,
   "sources_failed": [
-    "Google News RSS – Fehéroroszország fuvarozás"
+    "Google News RSS – Ausztria fuvarozás"
   ],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
