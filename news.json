@@ -83,19 +83,9 @@
       "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2pmOWtyQ3NJOG94NEVkSU5MQlYycnBtU3ROS1lPdlFIUmpVWU9nUnRnNUpweC0zQjBvQVhNVVUxaFYxNlBzbGsxQWlKVU5razBrT2VSTWlKbWtXLTJZdU1PcmxpNmpFOFpra0t2bXRVV20zN3JXZm9fWS1wcEVTZXdyYjNPZlcyTU9oT2o2QzNzYXVMWWdTcHd4TEhnN0VfMW43ZTlNNklXVXNSWGcxZA?oc=5",
       "published": "2026-11-26T03:25:40+00:00",
-      "urgent": false
-    },
-    {
-      "id": "feea10bbc37d2cd2b75bd3a5",
-      "title": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways - Daily Voice Of Asia",
-      "summary": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways Daily Voice Of Asia",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFA1QlB6dHVJUTV4RUlPZGQwRl9xRjBaZlRZOF9ZWVR1QXVIelpyOTUtaGpUTjJ5TmNwTlc2em1TbVo4aFpZcjAzcFdnY05fWmt6UkxPaWxXWjBhSzVmNmhOQ1gtVGg4T0RrS3ptQVVwb2U1N1lKcU1WSW1CSGJoT0YtSW5ORVpUdzQ5aVZUWTVzcEsweWRWeFRIN1l3S0No?oc=5",
-      "published": "2026-11-26T01:51:57+00:00",
       "urgent": false,
-      "title_hu": "Teherautó-baleset a német A3-as autópályán: meghalt a sofőr, és mindkét irányban lezárták az autópályát – Daily Voice Of Asia"
+      "title_hu": "Egy brit kamionsofőrt egy évre kitiltottak a schengeni térségből a vitatott határátlépési adatok miatt – upday Hírek",
+      "summary_hu": "Egy brit kamionsofőrt egy évre kitiltottak a schengeni térségből vitatott határátlépési adatok miatt – upday Hírek"
     },
     {
       "id": "a05567f8c8d173e25d8da016",
@@ -157,7 +147,21 @@
       "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXVyWF91VzJ2bmhPRjBWajNXN0VvbG1UUEJGdzlSMWxKR05vT1JiWC1rbXJuUHBXTk1veThWTVBQUFM1cVpyQnh4cWpHS3RadXEwNkhMU2JPNERSa1UxQU82NzN5UWxMYU92S2h0aU14V29HNEJmV1BWanVJckM1SW5SZ3VsX01UUjJRb1BwQ3lyeFR3YlRZag?oc=5",
       "published": "2026-11-25T14:30:24+00:00",
-      "urgent": false
+      "urgent": false,
+      "title_hu": "Kína és az EU közötti különbség a nehéz tehergépjárművek villamosításában: 38% vs. 2,5% új energiahatékony járművek értékesítése – Hírek és statisztikák – IndexBox",
+      "summary_hu": "Kína és az EU közötti szakadék a nehéz tehergépjárművek villamosításában: 38% vs. 2,5% új energiahatékony járművek (NEV) értékesítése – Hírek és statisztikák IndexBox"
+    },
+    {
+      "id": "feea10bbc37d2cd2b75bd3a5",
+      "title": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways - Daily Voice Of Asia",
+      "summary": "Truck Crash on Germany's A3 Kills Driver and Shuts Motorway Both Ways Daily Voice Of Asia",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVFA1QlB6dHVJUTV4RUlPZGQwRl9xRjBaZlRZOF9ZWVR1QXVIelpyOTUtaGpUTjJ5TmNwTlc2em1TbVo4aFpZcjAzcFdnY05fWmt6UkxPaWxXWjBhSzVmNmhOQ1gtVGg4T0RrS3ptQVVwb2U1N1lKcU1WSW1CSGJoT0YtSW5ORVpUdzQ5aVZUWTVzcEsweWRWeFRIN1l3S0No?oc=5",
+      "published": "2026-11-25T13:52:09+00:00",
+      "urgent": false,
+      "title_hu": "Teherautó-baleset a német A3-as autópályán: meghalt a sofőr, és mindkét irányban lezárták az autópályát – Daily Voice Of Asia"
     },
     {
       "id": "fe193a2d94310fecae7d3ff7",
@@ -816,19 +820,6 @@
       "summary_hu": "Súlyos forgalmi zavar és útlezárás Small Heathben keletkezett tűz miatt https://www.birmingham-now.co.uk/"
     },
     {
-      "id": "c056ffd7fa62cce420b38ceb",
-      "title": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab - HGV Ireland",
-      "summary": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODNCR0V0UHFobi1BeW02enZZeXpMUnhETUZEOFNKVmlfU1VSSzU5QmdWUW5vZXFNYVdQcWRfT29sejUxVGp5UkJhWjRnQzAxU2NQVThvMXNnWlhwUmszWG4yYm9iejdNY3VGc0NIU2xRSnZadzM1cW9pVzdxMzdSalZpQ2ZKU0YyVVNBRGtZeE5KMmVGQVpWVGF5ejY3eDdKdUFZSFlfcWtPOUcxcURjVnEwUnU1bDg?oc=5",
-      "published": "2026-11-20T07:00:26+00:00",
-      "urgent": false,
-      "title_hu": "A Geotab szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára – HGV Ireland",
-      "summary_hu": "A Geotab HGV Ireland szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára"
-    },
-    {
       "id": "90b2dc7f79f281d826bb4a11",
       "title": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule - HGV Ireland",
       "summary": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule HGV Ireland",
@@ -840,6 +831,19 @@
       "urgent": false,
       "title_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavarja a teherfuvarozási menetrendet – HGV Ireland",
       "summary_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavart okoz a teherfuvarozási menetrendben HGV Írország"
+    },
+    {
+      "id": "c056ffd7fa62cce420b38ceb",
+      "title": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab - HGV Ireland",
+      "summary": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODNCR0V0UHFobi1BeW02enZZeXpMUnhETUZEOFNKVmlfU1VSSzU5QmdWUW5vZXFNYVdQcWRfT29sejUxVGp5UkJhWjRnQzAxU2NQVThvMXNnWlhwUmszWG4yYm9iejdNY3VGc0NIU2xRSnZadzM1cW9pVzdxMzdSalZpQ2ZKU0YyVVNBRGtZeE5KMmVGQVpWVGF5ejY3eDdKdUFZSFlfcWtPOUcxcURjVnEwUnU1bDg?oc=5",
+      "published": "2026-11-20T07:00:26+00:00",
+      "urgent": false,
+      "title_hu": "A Geotab szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára – HGV Ireland",
+      "summary_hu": "A Geotab HGV Ireland szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára"
     },
     {
       "id": "e47c200acc9a80a6a697e1dc",
@@ -1402,18 +1406,6 @@
       "summary_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben Cyprus Business News"
     },
     {
-      "id": "e007152d7ae4f020c0bad6ae",
-      "title": "IRHA issues winter driving advice to haulage operators - HGV Ireland",
-      "summary": "IRHA issues winter driving advice to haulage operators HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHRrWFdnb2ZqUmhBSG41TnRVSTdyRkhhVF9UbUxZdHhQQVlUUFZLaDhoTUV4cUVTN21EVHlRSjR1bVZjR3JaV2ZWU29GN2FLVVJiQ3hoRnl6ZjdMMVluZXE0dUYyWm5GNkdjeEJyOFZqZXhzSGFkRTFTSENrUm54c0p2Nl9BX1VqX1E?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
-    },
-    {
       "id": "b4a8aa70598dd994216068ae",
       "title": "EU truck-weight talks postponed as payload issues remain unresolved - HGV Ireland",
       "summary": "EU truck-weight talks postponed as payload issues remain unresolved HGV Ireland",
@@ -1424,6 +1416,18 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Elhalasztották az EU teherautó-tömegről szóló tárgyalásait, mivel a hasznos teherrel kapcsolatos kérdések továbbra sem rendeződtek – HGV Ireland"
+    },
+    {
+      "id": "e007152d7ae4f020c0bad6ae",
+      "title": "IRHA issues winter driving advice to haulage operators - HGV Ireland",
+      "summary": "IRHA issues winter driving advice to haulage operators HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHRrWFdnb2ZqUmhBSG41TnRVSTdyRkhhVF9UbUxZdHhQQVlUUFZLaDhoTUV4cUVTN21EVHlRSjR1bVZjR3JaV2ZWU29GN2FLVVJiQ3hoRnl6ZjdMMVluZXE0dUYyWm5GNkdjeEJyOFZqZXhzSGFkRTFTSENrUm54c0p2Nl9BX1VqX1E?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
       "id": "3e95e5059e53ed5fae2f2da9",
@@ -1825,11 +1829,11 @@
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Szerbia",
+      "country": "Svédország",
       "category": "Útlezárás",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Svédország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
-      "published": "2026-11-14T12:00:00+00:00",
+      "published": "2026-11-14T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
@@ -1946,18 +1950,6 @@
       "title_hu": "A műhelyeknek fel kell készülniük a szigorúbb kibocsátás-ellenőrzésekre – HGV Ireland"
     },
     {
-      "id": "87a2b3a6e5727623f8f977d7",
-      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
-      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
-      "country": "Lengyelország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
-    },
-    {
       "id": "6a581eb604924e9822c86c50",
       "title": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen - RTL Today",
       "summary": "Crash between car and lorry: Three injured as accident closes road between Godbrange and Heffingen RTL Today",
@@ -1969,6 +1961,18 @@
       "urgent": false,
       "title_hu": "Autó és teherautó ütközött: Három sérült, és az út lezárása miatt nem lehetett közlekedni Godbrange és Heffingen között – RTL Today",
       "summary_hu": "Autó és teherautó ütközött: Három sérült, és az út lezárása miatt nem lehetett közlekedni Godbrange és Heffingen között RTL Today"
+    },
+    {
+      "id": "000554d605cf535eaaf190f4",
+      "title": "European Road Freight Outlook: Q4 2026 - Transport Intelligence",
+      "summary": "European Road Freight Outlook: Q4 2026 Transport Intelligence",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iVHo0OHFfb1VpRzFXMWNnMnhVY1RIVW91amdRWTctanBxWVh5SHpkdjJjMlgtTmttQUJzWXYtaUVjcnVNUlNaWVluWk54X092dzFhSVZPbVpwcHFld09taVJubFZQelBBbHZUR3VMcWIwY3d0SlBF?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Európai közúti árufuvarozási kilátások: 2026. IV. negyedév – Szállítási hírszerzés"
     },
     {
       "id": "ec612d4c3ef358c641f4a53d",
@@ -2007,6 +2011,18 @@
       "urgent": false,
       "title_hu": "Daimler Truck felmérés: A flottákkal kapcsolatos döntéshozók közül sokan gazdaságosabbnak tartják az elektromos teherautókat a dízel teherautóknál – Daimler Truck",
       "summary_hu": "Daimler Truck felmérés: Számos flottakezelési döntéshozó gazdaságosabbnak tartja az elektromos teherautókat a dízel teherautóknál Daimler Truck"
+    },
+    {
+      "id": "87a2b3a6e5727623f8f977d7",
+      "title": "New WC logistics body targets port delays and haulier costs - Freight News",
+      "summary": "New WC logistics body targets port delays and haulier costs Freight News",
+      "country": "Lengyelország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNJbU9ReXZuUHN2LWtmNElCRFhtMnJKUHV5TDVpZ2hRQzBzWk52eElPMGw1Y3VwQ1V1VXhmTlZXRVRsQ3ZRR3VhMGRvOGpYRlpQVWdleWFuSnp4UkhLT3kyZmhfdklsRDhQdjdFVEhfVGVuLVhBaEd2bzJQNkFJRnhESUY5c29VM21rdHdjZlhYWVh3YzVJMg?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Az új WC-logisztikai testület a kikötői késedelmeket és a fuvarozói költségeket célozza meg – Fuvarozási hírek"
     },
     {
       "id": "54414ca28081d1ce229da64c",
@@ -3417,7 +3433,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-26T19:24:36.356249+00:00",
+  "updated_at": "2026-11-26T21:12:55.661078+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
