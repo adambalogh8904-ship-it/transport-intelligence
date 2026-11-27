@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "dc8b68afa686926419784126",
+      "title": "U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics - IndexBox",
+      "summary": "U.S. Freight Update: Port Congestion, Rail Performance, Barge Rates and Diesel Prices - News and Statistics IndexBox",
+      "country": "Egyesült Királyság",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Egyesült Királyság fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlZNejBydU0zcE5pcGU2eDhGdXFtay1NYkd5MTg4cENfWXhjS2RTT0R3TDRFb2c2WDJhRlpabE5iVk1jSFc0X3YzalF0bl9UN3RBcko5bzMzQUNiYlRMV1ZZanVqSHZsQTBOLUQzaXJJRkg4WjRPLWJDOWdDX08tbENEbmtZRFNOQUtYVU0zSFNLWTFkQzM4OWFEVXIwTnNYc1J0NzlIbw?oc=5",
+      "published": "2026-11-27T15:20:25+00:00",
+      "urgent": false
+    },
+    {
       "id": "002a3cdd7b77bfcc3df18d22",
       "title": "Eurowag Opens First E-Truck Charging Hub on Prague-Germany Route - The EV Report",
       "summary": "Eurowag Opens First E-Truck Charging Hub on Prague-Germany Route The EV Report",
@@ -75,18 +86,6 @@
       "title_hu": "A szeptemberi és októberi RTSS-kifizetések várhatóan karácsony előtt érkeznek meg – HGV Írország"
     },
     {
-      "id": "0dbc0c232150c3d7dddd9550",
-      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
-      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
-      "published": "2026-11-27T09:22:30+00:00",
-      "urgent": false,
-      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
-    },
-    {
       "id": "95fc378f29b3759eaf3c1e12",
       "title": "CLdN joins Stena in raising Irish Sea freight surcharges from 1 December - HGV Ireland",
       "summary": "CLdN joins Stena in raising Irish Sea freight surcharges from 1 December HGV Ireland",
@@ -94,9 +93,21 @@
       "category": "Egyéb",
       "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVlQkR5S2lFc0pXY0c1T3dLTkRpb1B2elRhVmNtU3ItcjZFQnJCQks4QzBzNEtibmZJSHRxSDZjOXpWTl9RclNNejJtdTJvaFI2UEFpTkpnODJwZ1RXQUZjS0dsLTV4THlXY1NsWTJBMmpUT19WSWkxaGhfdWswSTNqZ010cXVBTm5lcGVpMGhybm94c2UwanBQWGtvVFJFTHc?oc=5",
-      "published": "2026-11-27T09:22:30+00:00",
+      "published": "2026-11-27T09:24:40+00:00",
       "urgent": false,
       "title_hu": "A CLdN csatlakozik a Stenához az Ír-tengeren érvényes fuvardíjak december 1-jétől történő emelésében – HGV Ireland"
+    },
+    {
+      "id": "0dbc0c232150c3d7dddd9550",
+      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
+      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
+      "published": "2026-11-27T09:24:40+00:00",
+      "urgent": false,
+      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
     },
     {
       "id": "72aeb092aef71c4cb1da2070",
@@ -661,7 +672,7 @@
       "summary": "Border police discovered 4,019 counterfeit perfumes in a Bulgarian truck Informat.ro",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmpOLWVGT2JRTm5GZEt6WlBZYkNwNUMxbDE4VzVWQmR4S3pIWno4TDBOVlZZaUNjWkhDejA4UmlpQ3IxWjhDS0lHcEttUm9Zd0ZNSmxFYkhfenk2S2xWZ2U0ekFJc2s1Y2lGOHNzcmV3ZnZlU3ZOSm91ZFE2REVCcU03dTZlUzVfQzg1c25qaHFlZE9wUmR4VDlqTFF0WWNRamlnN3R3?oc=5",
       "published": "2026-11-23T14:31:02+00:00",
       "urgent": false,
@@ -1053,19 +1064,6 @@
       "summary_hu": "Súlyos forgalmi zavar és útlezárás Small Heathben keletkezett tűz miatt https://www.birmingham-now.co.uk/"
     },
     {
-      "id": "90b2dc7f79f281d826bb4a11",
-      "title": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule - HGV Ireland",
-      "summary": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOC15V3ZLX2lhdW90N3dMNHFrSlpPYVFXaUEtdXpjT012OWxSVjJYRlJFY2Y2TUhLY3JkbzJRNE1vUzVqNEVWaUdJNEYxMnV6eU5BeVZBTGJoN2VBamRCd0VET3V0S3dDWEM3UXBuQUsxazl6Y2xIR1pFYVZ2YTRIczRWQzJGbXY3bmIzbEh2ZzRyMkJXdzhHa0R4QTZiWmVVZ3VIZlM0UEIyQU8tZWJLbEdFYw?oc=5",
-      "published": "2026-11-20T07:00:26+00:00",
-      "urgent": false,
-      "title_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavarja a teherfuvarozási menetrendet – HGV Ireland",
-      "summary_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavart okoz a teherfuvarozási menetrendben HGV Írország"
-    },
-    {
       "id": "c056ffd7fa62cce420b38ceb",
       "title": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab - HGV Ireland",
       "summary": "Black Friday marks weeks of increased pressure for fleets in Ireland according to Geotab HGV Ireland",
@@ -1077,6 +1075,19 @@
       "urgent": false,
       "title_hu": "A Geotab szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára – HGV Ireland",
       "summary_hu": "A Geotab HGV Ireland szerint a Black Friday hetekig tartó fokozott nyomást jelent az írországi flották számára"
+    },
+    {
+      "id": "90b2dc7f79f281d826bb4a11",
+      "title": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule - HGV Ireland",
+      "summary": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOC15V3ZLX2lhdW90N3dMNHFrSlpPYVFXaUEtdXpjT012OWxSVjJYRlJFY2Y2TUhLY3JkbzJRNE1vUzVqNEVWaUdJNEYxMnV6eU5BeVZBTGJoN2VBamRCd0VET3V0S3dDWEM3UXBuQUsxazl6Y2xIR1pFYVZ2YTRIczRWQzJGbXY3bmIzbEh2ZzRyMkJXdzhHa0R4QTZiWmVVZ3VIZlM0UEIyQU8tZWJLbEdFYw?oc=5",
+      "published": "2026-11-20T07:00:26+00:00",
+      "urgent": false,
+      "title_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavarja a teherfuvarozási menetrendet – HGV Ireland",
+      "summary_hu": "A DFDS törli a pénteki Rosslare–Dunkerque járatot, mivel a rossz időjárás zavart okoz a teherfuvarozási menetrendben HGV Írország"
     },
     {
       "id": "e47c200acc9a80a6a697e1dc",
@@ -1278,6 +1289,17 @@
       "urgent": false,
       "title_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban – World Border Security Congress",
       "summary_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban World Border Security Congress"
+    },
+    {
+      "id": "c3e2bf738c6eb83c6f5d327d",
+      "title": "Bogotá protests raise road freight disruption risks in Colombia - Kuehne+Nagel",
+      "summary": "Bogotá protests raise road freight disruption risks in Colombia Kuehne+Nagel",
+      "country": "Olaszország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1diVkVXeUlXSG15MmZSNG1YYTRDb0tURlg0ME13WGdWNDczZWZsSXlfS1VvWC1wZjk3dkhCb1FfVVluUGdLOVlucVdzT09nUkU0WVZQTXRKeFhwTVVZLWVWcTFzWG9ORnU3eFZDU3VoV3dHMUdnb0Uxd0xSUDN1c0pDZlV4UHlXRm9iV1B6QWQ?oc=5",
+      "published": "2026-11-19T08:00:00+00:00",
+      "urgent": false
     },
     {
       "id": "5fd3920b5f7781d464796570",
@@ -1631,7 +1653,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
@@ -2059,6 +2081,18 @@
       "summary_hu": "A Romsey Road lezárása Winchesterben buszterelést eredményez, és a kórház megállóit nem szolgálják ki – Hampshire Chronicle"
     },
     {
+      "id": "a0d32ba19936fc83d182c4d1",
+      "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
+      "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
+      "country": "Portugália",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
+      "published": "2026-11-14T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
+    },
+    {
       "id": "c40ad37872199bfbdfcad55e",
       "title": "Border police confiscated 17,274 counterfeit perfumes from a truck stopped in Calafat - Informat.ro",
       "summary": "Border police confiscated 17,274 counterfeit perfumes from a truck stopped in Calafat Informat.ro",
@@ -2070,18 +2104,6 @@
       "urgent": false,
       "title_hu": "A határrendészet 17 274 hamisított parfümöt foglalt le egy Calafatban megállított teherautóból – Informat.ro",
       "summary_hu": "A határrendészet 17 274 hamisított parfümöt foglalt le egy Calafatban megállított teherautóból Informat.ro"
-    },
-    {
-      "id": "a0d32ba19936fc83d182c4d1",
-      "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
-      "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Szerbia",
-      "category": "Útlezárás",
-      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
-      "published": "2026-11-14T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Hétfőtől lezárják az utat az Észak-Alby-n – AdVantageNews.com"
     },
     {
       "id": "cf6e56817bb1655f99a54883",
@@ -3678,7 +3700,7 @@
       "title_hu": "Lengyelország vezeti az uniós tehergépjármű-piac fellendülését – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-27T14:29:09.333645+00:00",
+  "updated_at": "2026-11-27T16:24:21.903151+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
