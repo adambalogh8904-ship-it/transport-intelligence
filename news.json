@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e1e36d3e93ceb4dc01f5cca3",
+      "title": "Two Killed In N11 Truck Crash Near Chuffies - SA Trucker",
+      "summary": "Two Killed In N11 Truck Crash Near Chuffies SA Trucker",
+      "country": "Litvánia",
+      "category": "Egyéb",
+      "source": "Google News RSS – Litvánia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YREV6NE1VWUpHai1fNFFiS25mODBteTZPTThZbjhXaU5EbHJPQWJHMXlwak5nUmNvdnB1RlBIcW5NNGhMZGI4cmlqd1hwQXZxNUtsalAySDZ4MzF4X0JwQU9SWFNqYVlFOUsycEN1Q2xLZ9IBckFVX3lxTE1YREV6NE1VWUpHai1fNFFiS25mODBteTZPTThZbjhXaU5EbHJPQWJHMXlwak5nUmNvdnB1RlBIcW5NNGhMZGI4cmlqd1hwQXZxNUtsalAySDZ4MzF4X0JwQU9SWFNqYVlFOUsycEN1Q2xLZw?oc=5",
+      "published": "2026-11-27T18:56:07+00:00",
+      "urgent": false,
+      "title_hu": "Két halott az N11-es úton történt kamionbalesetben Chuffies közelében – SA Trucker"
+    },
+    {
       "id": "5ed6b6f36185bc80b78278c3",
       "title": "EEA sets out charging and grid needs as Europe’s electric truck sales accelerate - INSIGHT EU MONITORING",
       "summary": "EEA sets out charging and grid needs as Europe’s electric truck sales accelerate INSIGHT EU MONITORING",
@@ -101,18 +113,6 @@
       "title_hu": "A Solin–Klis út lezárása: éjszakai munkálatok és kerülőút – KarloBag.eu"
     },
     {
-      "id": "0dbc0c232150c3d7dddd9550",
-      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
-      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
-      "published": "2026-11-27T09:24:40+00:00",
-      "urgent": false,
-      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
-    },
-    {
       "id": "99d1cd5f69d755cd890ac373",
       "title": "RTSS payments for September and October expected before Christmas - HGV Ireland",
       "summary": "RTSS payments for September and October expected before Christmas HGV Ireland",
@@ -123,6 +123,18 @@
       "published": "2026-11-27T09:24:40+00:00",
       "urgent": false,
       "title_hu": "A szeptemberi és októberi RTSS-kifizetések várhatóan karácsony előtt érkeznek meg – HGV Írország"
+    },
+    {
+      "id": "0dbc0c232150c3d7dddd9550",
+      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
+      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
+      "published": "2026-11-27T09:24:40+00:00",
+      "urgent": false,
+      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
     },
     {
       "id": "95fc378f29b3759eaf3c1e12",
@@ -1667,7 +1679,7 @@
       "summary": "Night-time truck bans in Austria and on the A12 have different hours and exemptions trafficban.com",
       "country": "Ausztria",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fMDB6VlZQTVJjdDBiYzNGTnRZUU9tZ1AwTDJ3RDBBbFdDYjVURjdKTWlfdndHdG9nY3l0NlU2LTlPOUxkT1M1ekprMnFKZw?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
@@ -1725,18 +1737,6 @@
       "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
-      "id": "3e95e5059e53ed5fae2f2da9",
-      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
-      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
-      "country": "Írország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
-    },
-    {
       "id": "4ba31b503a4b48afa09cdec5",
       "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
       "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
@@ -1747,6 +1747,18 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
+    },
+    {
+      "id": "3e95e5059e53ed5fae2f2da9",
+      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
+      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -3714,26 +3726,11 @@
       "urgent": false,
       "title_hu": "Az IRHA figyelmeztet: az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette – Irish Examiner",
       "summary_hu": "Az IRHA figyelmeztet az Irish Examinert, hogy az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette"
-    },
-    {
-      "id": "3148f91ed3ab5e596424cff9",
-      "title": "Slovakia toll changes: Irish hauliers must prepare for January switch - HGV Ireland",
-      "summary": "Slovakia toll changes: Irish hauliers must prepare for January switch HGV Ireland",
-      "country": "Szlovákia",
-      "category": "Útdíj",
-      "source": "Google News RSS – Szlovákia fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVlMQWJ6NF8xcWt3UGxLcnAxajBDTE51Wi1vM0x0dlJyZjNJdWhGaHFKcjJTOGNpUXFpZ2FZRGpvNklmZGVJaGd4c0ZfbmRXUGg1MnFaNU9wWWVMVVItN3dENUZ0RDl4TXB2SUpWdHEwQl9DdTBjSm9KckNfTjJuSVEyZWRkMTFNWElSaGt0cjg2eVBUZUk1YlkxbHA?oc=5",
-      "published": "2026-10-30T07:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Útdíjváltozások Szlovákiában: az ír fuvarozóknak fel kell készülniük a januári változásra – HGV Ireland"
     }
   ],
-  "updated_at": "2026-11-27T19:20:54.830826+00:00",
-  "sources_ok": 32,
+  "updated_at": "2026-11-27T22:18:16.746988+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Olaszország fuvarozás",
-    "Google News RSS – Bosznia-Hercegovina fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
