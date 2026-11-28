@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ce06f57143d26e2fb59b005c",
+      "title": "Queclink launches entry-level mobile digital video recorder - HGV Ireland",
+      "summary": "Queclink launches entry-level mobile digital video recorder HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm5tSnBPc09qc09LYmo1aFdwWmUxRkhDY1N1YklRazQwZTFSYS1TV3VnTWpBaUxRWlVRY1Rid0hQY2V3X0dQQ2Jtcy1lSnpxYlg1UnBZdXVCTk5QZ0ZZM1ZWUGJDVkNzbVRpWEQ3cHRGTjhKS3h1al9Ic29lRkdZaWY4V0MxNTBmV3pxeHdOcFY?oc=5",
+      "published": "2026-11-28T07:18:45+00:00",
+      "urgent": false,
+      "title_hu": "A Queclink bevezeti a belépő szintű mobil digitális videórögzítőt – HGV Ireland"
+    },
+    {
       "id": "e1e36d3e93ceb4dc01f5cca3",
       "title": "Two Killed In N11 Truck Crash Near Chuffies - SA Trucker",
       "summary": "Two Killed In N11 Truck Crash Near Chuffies SA Trucker",
@@ -73,18 +85,6 @@
       "published": "2026-11-27T13:08:03+00:00",
       "urgent": false,
       "title_hu": "Az Eurowag megnyitja az első elektromos teherautó-töltőállomást a Prága–Németország útvonalon – Az EV-jelentés"
-    },
-    {
-      "id": "ce06f57143d26e2fb59b005c",
-      "title": "Queclink launches entry-level mobile digital video recorder - HGV Ireland",
-      "summary": "Queclink launches entry-level mobile digital video recorder HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm5tSnBPc09qc09LYmo1aFdwWmUxRkhDY1N1YklRazQwZTFSYS1TV3VnTWpBaUxRWlVRY1Rid0hQY2V3X0dQQ2Jtcy1lSnpxYlg1UnBZdXVCTk5QZ0ZZM1ZWUGJDVkNzbVRpWEQ3cHRGTjhKS3h1al9Ic29lRkdZaWY4V0MxNTBmV3pxeHdOcFY?oc=5",
-      "published": "2026-11-27T11:41:58+00:00",
-      "urgent": false,
-      "title_hu": "A Queclink bevezeti a belépő szintű mobil digitális videórögzítőt – HGV Ireland"
     },
     {
       "id": "1e4c5322db07771d1549a09a",
@@ -1344,26 +1344,14 @@
       "id": "a40c768d8b66b85110c1b73d",
       "title": "Sixteen foreign citizens, hidden in a truck with food storage containers - World Border Security Congress",
       "summary": "Sixteen foreign citizens, hidden in a truck with food storage containers World Border Security Congress",
-      "country": "Románia",
+      "country": "Lengyelország",
       "category": "Határ",
-      "source": "Google News RSS – Románia fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Lengyelország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTY4R0VzcUlMRkxfaUZYUVp2M1htbmpPYTAzUHp1Q2xfXzc5NGZOb1M2aWlzalZKQlJqQ2JndWJ0eXU2VkJaLWktNTB4Vk1ZeXNDUmRHRVlGdTlMY0RtTFpUalFfeFVaSG15cjdLWndiYlNfd0M0UEs4LWxtX3lhQ1lGUjRLdm05emFjZVU5NTFNWHRGWktzN2VuLU42SEtRZjlRLWE3ODZkZw?oc=5",
       "published": "2026-11-19T09:52:18+00:00",
       "urgent": false,
       "title_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban – World Border Security Congress",
       "summary_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban World Border Security Congress"
-    },
-    {
-      "id": "bd62be025ab00419476364a8",
-      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
-      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
-      "country": "Portugália",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
-      "published": "2026-11-19T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
     },
     {
       "id": "c3e2bf738c6eb83c6f5d327d",
@@ -1376,6 +1364,18 @@
       "published": "2026-11-19T08:00:00+00:00",
       "urgent": false,
       "title_hu": "A bogotái tüntetések növelik a közúti árufuvarozást érintő fennakadások kockázatát Kolumbiában – Kuehne+Nagel"
+    },
+    {
+      "id": "bd62be025ab00419476364a8",
+      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
+      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
+      "country": "Portugália",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
+      "published": "2026-11-19T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
     },
     {
       "id": "5fd3920b5f7781d464796570",
@@ -1511,18 +1511,6 @@
       "title_hu": "Atlas Arteria (ASX:ALX): Útdíjas útszakaszokra vonatkozó koncessziók és 2026-os működési prioritások – Kalkine"
     },
     {
-      "id": "f4e27a616d3763bdef620bc7",
-      "title": "Hauliers still without a date for September and October fuel support payments - HGV Ireland",
-      "summary": "Hauliers still without a date for September and October fuel support payments HGV Ireland",
-      "country": "Írország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlRNy1IcHpiSHJzSU9CNkdzandNeVpVeGhCRW5kWFBzZGV1WTY0RjI1VEUwMHdrSnQzSWh4RXpZclA4cHFPemlrT2x3TGRFOS1ZNmV6cE9VRGJBUEJaeFNYMUF4ajRpVWlLellieTFXSVM2b0p6R1UySHJteERnaWRuNFdRTmFSMGpHWXExS1pwTG5DMjRoYm1GWG5PN21kMElTRDEyd08?oc=5",
-      "published": "2026-11-18T09:54:30+00:00",
-      "urgent": false,
-      "title_hu": "A fuvarozók még mindig nem tudják, mikor kapják meg a szeptemberi és októberi üzemanyag-támogatási kifizetéseket – HGV Ireland"
-    },
-    {
       "id": "473ead1b2dad9573716bde24",
       "title": "Garfield Road East - Piccadilly Street to Windsor Road - Transport for NSW",
       "summary": "Garfield Road East - Piccadilly Street to Windsor Road Transport for NSW",
@@ -1533,6 +1521,18 @@
       "published": "2026-11-18T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Garfield Road East – Piccadilly Street – Windsor Road – Transport for NSW"
+    },
+    {
+      "id": "f4e27a616d3763bdef620bc7",
+      "title": "Hauliers still without a date for September and October fuel support payments - HGV Ireland",
+      "summary": "Hauliers still without a date for September and October fuel support payments HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTlRNy1IcHpiSHJzSU9CNkdzandNeVpVeGhCRW5kWFBzZGV1WTY0RjI1VEUwMHdrSnQzSWh4RXpZclA4cHFPemlrT2x3TGRFOS1ZNmV6cE9VRGJBUEJaeFNYMUF4ajRpVWlLellieTFXSVM2b0p6R1UySHJteERnaWRuNFdRTmFSMGpHWXExS1pwTG5DMjRoYm1GWG5PN21kMElTRDEyd08?oc=5",
+      "published": "2026-11-18T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "A fuvarozók még mindig nem tudják, mikor kapják meg a szeptemberi és októberi üzemanyag-támogatási kifizetéseket – HGV Ireland"
     },
     {
       "id": "d5ac6724eaa2ffef430a04b7",
@@ -1749,18 +1749,6 @@
       "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
-      "id": "3e95e5059e53ed5fae2f2da9",
-      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
-      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
-      "country": "Írország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
-    },
-    {
       "id": "4ba31b503a4b48afa09cdec5",
       "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
       "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
@@ -1771,6 +1759,18 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
+    },
+    {
+      "id": "3e95e5059e53ed5fae2f2da9",
+      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
+      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -1933,6 +1933,18 @@
       "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
+      "id": "299793c998ab7e2086ee59ea",
+      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
+      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
+    },
+    {
       "id": "85f12bc412b3fc3f85e3a0c1",
       "title": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor - Economist.kg",
       "summary": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor Economist.kg",
@@ -1944,18 +1956,6 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
-    },
-    {
-      "id": "299793c998ab7e2086ee59ea",
-      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
-      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
     },
     {
       "id": "fb16b01cc530ccb65f08172c",
@@ -3727,7 +3727,7 @@
       "title_hu": "Teherautó-forgalmi korlátozások novemberben Európa-szerte: figyelembe veendő dátumok és útvonalak – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-28T06:18:30.100578+00:00",
+  "updated_at": "2026-11-28T08:24:37.219366+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
