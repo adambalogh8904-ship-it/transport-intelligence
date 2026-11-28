@@ -44,7 +44,7 @@
       "summary": "Another Zimbabwean Truck Driver Dies In Austria After Germany Crash SA Trucker",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1lpczdNY1BOdWZWQUswSUluU2Y5U2pFRWZzVTk5QUpVS2ZJUUhFYlQ5Snp0V3E4TDBCVTQ5TjBzcmFnSlBXQ3owZTJNMW5xSGdDT19FZG52QUUxNXhIbEc2dHJmNTdyUFVHUjhSSFpJSTBwNGtMSmNiclhROEwzWUh2UHNvTEHSAYcBQVVfeXFMUGNZaXM3TWNQTnVmVkFLMElJblNmOVNqRUVmc1U5OUFKVUtmSVFIRWJUOUp6dFdxOEwwQlU0OU4wc3JhZ0pQV0N6MGUyTTFucUhnQ09fRWRudkFFMTV4SGxHNnRyZjU3clBVR1I4UkhaSUkwcDRrTEpjYnJYUThMM1lIdlBzb0xB?oc=5",
       "published": "2026-11-27T14:03:18+00:00",
       "urgent": false,
@@ -113,6 +113,18 @@
       "title_hu": "A Solin–Klis út lezárása: éjszakai munkálatok és kerülőút – KarloBag.eu"
     },
     {
+      "id": "0dbc0c232150c3d7dddd9550",
+      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
+      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
+      "published": "2026-11-27T09:24:40+00:00",
+      "urgent": false,
+      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
+    },
+    {
       "id": "99d1cd5f69d755cd890ac373",
       "title": "RTSS payments for September and October expected before Christmas - HGV Ireland",
       "summary": "RTSS payments for September and October expected before Christmas HGV Ireland",
@@ -137,24 +149,12 @@
       "title_hu": "A CLdN csatlakozik a Stenához az Ír-tengeren érvényes fuvardíjak december 1-jétől történő emelésében – HGV Ireland"
     },
     {
-      "id": "0dbc0c232150c3d7dddd9550",
-      "title": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers - HGV Ireland",
-      "summary": "Hibernia Line ends Cork–Boulogne ferry service in blow to Munster hauliers HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1xR0NhTno4a2hvWjB0bmJNdE1nLTk4Y0xZMVpoa05JNDZoNzlZZHNZMDNCNkNnS3BXUkFKMno5MmFkejdxRnctd1B0YWxDcVloeXRuYUNoSjBCZ2RCb3hTSGRWVDBSMzk5Ui1Hc19fLUlfa0tiRjNLTUxXOXR2cXkwZHUwXzg2TXk2bG95QVRRSFF4OUlQYll3TVU2dUNQUE5BSg?oc=5",
-      "published": "2026-11-27T09:24:40+00:00",
-      "urgent": false,
-      "title_hu": "Az Hibernia Line megszünteti a Cork–Boulogne kompjáratot, ami súlyos csapás a munsteri fuvarozóknak – HGV Ireland"
-    },
-    {
       "id": "2ab675acf73ce95c47e32b66",
       "title": "Heavy truck traffic at Kapitan Andreevo and Lesovo border crossings - БНР Новини",
       "summary": "Heavy truck traffic at Kapitan Andreevo and Lesovo border crossings БНР Новини",
-      "country": "Görögország",
+      "country": "Szerbia",
       "category": "Határ",
-      "source": "Google News RSS – Görögország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHNpTnF2a1dBQmZJYlVtdm1mVms0NlI1TW00SllmS0tKY1A2eGZpampxclBWV1NzdGtHVmdtNFpfdmZiMDVRXzNJNGZ4cnVfekVoXzNST0RtSEdFMXlDWEtCd0dYNWo4ZGJGX2xpSS1GeUxwXzluSTFVcGxQWEt1SlNfd21yTEJXMURZclhJQTdiQUZaWnZuRnhtOGJiV0VNQ1lF?oc=5",
       "published": "2026-11-27T07:48:57+00:00",
       "urgent": false,
@@ -1342,18 +1342,6 @@
       "summary_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban World Border Security Congress"
     },
     {
-      "id": "bd62be025ab00419476364a8",
-      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
-      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
-      "country": "Portugália",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
-      "published": "2026-11-19T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
-    },
-    {
       "id": "c3e2bf738c6eb83c6f5d327d",
       "title": "Bogotá protests raise road freight disruption risks in Colombia - Kuehne+Nagel",
       "summary": "Bogotá protests raise road freight disruption risks in Colombia Kuehne+Nagel",
@@ -1412,6 +1400,18 @@
       "published": "2026-11-19T04:30:52+00:00",
       "urgent": false,
       "title_hu": "Január 1-jétől betiltják a tehergépkocsik nappali forgalmát a minszki körgyűrűn – REFORM.news"
+    },
+    {
+      "id": "bd62be025ab00419476364a8",
+      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
+      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
+      "country": "Portugália",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
+      "published": "2026-11-18T20:23:47+00:00",
+      "urgent": false,
+      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
     },
     {
       "id": "fbf8781c08a53cb6400576fc",
@@ -1933,6 +1933,18 @@
       "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
+      "id": "299793c998ab7e2086ee59ea",
+      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
+      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
+    },
+    {
       "id": "85f12bc412b3fc3f85e3a0c1",
       "title": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor - Economist.kg",
       "summary": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor Economist.kg",
@@ -1944,18 +1956,6 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
-    },
-    {
-      "id": "299793c998ab7e2086ee59ea",
-      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
-      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
     },
     {
       "id": "d1e0e083393273a9fed72a5e",
@@ -2136,9 +2136,9 @@
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Montenegró",
+      "country": "Szerbia",
       "category": "Útlezárás",
-      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Szerbia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
       "published": "2026-11-14T08:00:00+00:00",
       "urgent": false,
@@ -3728,7 +3728,7 @@
       "summary_hu": "Az IRHA figyelmeztet az Irish Examinert, hogy az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette"
     }
   ],
-  "updated_at": "2026-11-28T01:40:52.160557+00:00",
+  "updated_at": "2026-11-28T03:13:59.378498+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
