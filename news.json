@@ -1193,9 +1193,9 @@
       "id": "62b9fc26ccc3106941bbe910",
       "title": "ASX 200 Toll Road Group Atlas Arteria (ASX:ALX) Eyes Currency Moves - Kalkine Media",
       "summary": "ASX 200 Toll Road Group Atlas Arteria (ASX:ALX) Eyes Currency Moves Kalkine Media",
-      "country": "Németország",
+      "country": "Franciaország",
       "category": "Útdíj",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWt5WHdPYUQ1TkdMMnVlQVVXV3pfUnVrVjhVeEJhRXQzTTNJVDRLMlRKYkhJT3laeml4dEZVd3JwV293eTR4RGstQmhRaEYxUkNOUlJ6TmV5MngyNUlqeVJvYlJ6MnAxbmhEeUJVQ0J0TEJiRXlYY3dZTXFOVWFCVFhrTDgyWERyMGFNZTlYZXgzckhWVlptMWI1WEwtc080SEZoVmgxVVEwTUtxQjhnQjlQUmFmblBmN2c4ZnprN2w3cFlDdHFVbV9R?oc=5",
       "published": "2026-11-20T00:04:00+00:00",
       "urgent": false,
@@ -1717,7 +1717,7 @@
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
       "country": "EU",
       "category": "Határ",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Észtország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQd203ekNsTklhM0pwckJZY3FIZFZNYU9QNEp5S3QzWVJ3VkZ1cldzZlZsTHdsMEFwU2twclFWUzNMeTRIZjR4Tm1GVEplSXotNHZ4T2M4QlNlNjFuVHIwRlFmUVZMQkwtanJ2UFRSTEZlN2dfQmF6aElrVUZhX2o4cmZkOWUyZ080TTIxQlh1NnZQQUdDUnVOanZSenhXUWMydUhZWm4wU2tXbUdjWEZGNXpiYzgtNGdISEJaVmctLWIzUjJPak5rTXE3cDlfQTBSYWw4TTdhZG9mZl9wMUVXcFF0QlZyckVEQmI1blhGUjBwS19YVk9ZeGlR?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
@@ -1749,18 +1749,6 @@
       "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
-      "id": "4ba31b503a4b48afa09cdec5",
-      "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
-      "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
-      "country": "Olaszország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jYnVHbW9WTTlXMVVEX3ZkR3ludU1yOXFSVlJGcVU4NFBRZWx4MFJLV0p2Ui1DeS02ZE9NcTNONHVaUnFSM0s5OVBQN2Npdw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
-    },
-    {
       "id": "3e95e5059e53ed5fae2f2da9",
       "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
       "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
@@ -1771,6 +1759,18 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
+    },
+    {
+      "id": "4ba31b503a4b48afa09cdec5",
+      "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
+      "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
+      "country": "Olaszország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Olaszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jYnVHbW9WTTlXMVVEX3ZkR3ludU1yOXFSVlJGcVU4NFBRZWx4MFJLV0p2Ui1DeS02ZE9NcTNONHVaUnFSM0s5OVBQN2Npdw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -1921,6 +1921,18 @@
       "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
     },
     {
+      "id": "fb16b01cc530ccb65f08172c",
+      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
+      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
+    },
+    {
       "id": "8da8c093d2fed5540bbe9186",
       "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
       "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
@@ -1956,18 +1968,6 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
-    },
-    {
-      "id": "fb16b01cc530ccb65f08172c",
-      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
-      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
     },
     {
       "id": "d1e0e083393273a9fed72a5e",
@@ -3727,7 +3727,7 @@
       "title_hu": "Teherautó-forgalmi korlátozások novemberben Európa-szerte: figyelembe veendő dátumok és útvonalak – Trans.INFO"
     }
   ],
-  "updated_at": "2026-11-28T08:24:37.219366+00:00",
+  "updated_at": "2026-11-28T10:11:38.814693+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
