@@ -51,6 +51,18 @@
       "title_hu": "Egy másik zimbabwei kamionsofőr halt meg Ausztriában a németországi baleset után – SA Trucker"
     },
     {
+      "id": "d53fd90f831d2220eaf65fe0",
+      "title": "Geneva does not want an urban road toll \"for the time being\" - Le Temps",
+      "summary": "Geneva does not want an urban road toll \"for the time being\" Le Temps",
+      "country": "Franciaország",
+      "category": "Útdíj",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGQwalFxRy1MMXJueUlaVHBtb3VsczVnSFBZNjdUTTRWbHgzUUc2Y2pGN1I3T09KZzhPOVpPbEI3NEVjNzJRYnJ4T2h0RGZmX0IwcGNRWS1yWm5iZmYzcFZHOUt3MkRuRU05TkxzYzFwbkV5YjNSQzQxc1pnMW1hRVc4VUJPSnhtSWJRTnJ5d2ZVbFpaelhMQ1V3d1R5bjRMeHhkaHVB?oc=5",
+      "published": "2026-11-27T13:33:10+00:00",
+      "urgent": false,
+      "title_hu": "Genf „egyelőre” nem akar városi útdíjat – Le Temps"
+    },
+    {
       "id": "002a3cdd7b77bfcc3df18d22",
       "title": "Eurowag Opens First E-Truck Charging Hub on Prague-Germany Route - The EV Report",
       "summary": "Eurowag Opens First E-Truck Charging Hub on Prague-Germany Route The EV Report",
@@ -1700,18 +1712,6 @@
       "summary_hu": "17,7%-kal nőtt a Ciprusra irányuló és onnan induló közúti árufuvarozás a második negyedévben Cyprus Business News"
     },
     {
-      "id": "52fc83659b26b82103694bb8",
-      "title": "Estonia's eastern border closure will stop bus and truck traffic to Russia - ERR",
-      "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
-      "country": "EU",
-      "category": "Útlezárás",
-      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
-    },
-    {
       "id": "93832be850cc4aa97d8abea9",
       "title": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 - Moldpres",
       "summary": "Moldova's National Road Transport Agency warns carriers Estonia to close three border crossing points with Russia as of December 1 Moldpres",
@@ -1909,6 +1909,18 @@
       "summary_hu": "Útburkolati munkálatok által érintett útvonalak öt országban – fontos információk a nehéz tehergépjárművek vezetői számára trafficban.com"
     },
     {
+      "id": "52fc83659b26b82103694bb8",
+      "title": "Estonia's eastern border closure will stop bus and truck traffic to Russia - ERR",
+      "summary": "Estonia's eastern border closure will stop bus and truck traffic to Russia ERR",
+      "country": "EU",
+      "category": "Útlezárás",
+      "source": "Google News RSS – Oroszország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkEtVGpOekVHTGtuVG1vSVV6WTBLQXl6RUlPNnQ5cGMxNjNJcHQ4UVVEc2EtWV82MV9HZlo2bGF5ZUV4Y2tDczJHallVaFloUXFYVWZwbWVWUlFqcHN5VkFOcjZrSEJUd2xhajZRQlY5RGlzWlF5UXhCcXRHWDZOVzNZa3J2SUdxc2xuTldMUjJVTnZTazZMaFpnOWJWbUtzSGoxOExESzY?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
+    },
+    {
       "id": "8da8c093d2fed5540bbe9186",
       "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
       "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
@@ -1919,18 +1931,6 @@
       "published": "2026-11-16T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
-    },
-    {
-      "id": "299793c998ab7e2086ee59ea",
-      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
-      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
     },
     {
       "id": "85f12bc412b3fc3f85e3a0c1",
@@ -1944,6 +1944,18 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
+    },
+    {
+      "id": "299793c998ab7e2086ee59ea",
+      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
+      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
     },
     {
       "id": "fb16b01cc530ccb65f08172c",
@@ -2136,9 +2148,9 @@
       "id": "a0d32ba19936fc83d182c4d1",
       "title": "Road closure starts Monday on North Alby - AdVantageNews.com",
       "summary": "Road closure starts Monday on North Alby AdVantageNews.com",
-      "country": "Montenegró",
+      "country": "Portugália",
       "category": "Útlezárás",
-      "source": "Google News RSS – Montenegró fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeG1IcnNic0Q3MnExNE5wcXl2cWxOenFnXzliWVhUa3huakduLTVKclR5c2V3Q01PdnFhYm9CWmlNU3Y1dHlfdm9xOXBTMjJIX0Z2ZU15MUoyQ2dIOFllS2UxTFdPMktJQVlhSzVRVko4LTRwcVZqWk9jb2JjQTFoX3RMNzJDbzl1eXQwWEdwa1BwMjRNRHJuTWpxdHhxc3RaeVljWDJGeHBSNmpEeGdjSWh4eW5lanM5UFVWT1hXVzBhMFFFSUI4cWdycw?oc=5",
       "published": "2026-11-14T08:00:00+00:00",
       "urgent": false,
@@ -3713,22 +3725,9 @@
       "published": "2026-10-30T07:00:00+00:00",
       "urgent": false,
       "title_hu": "Teherautó-forgalmi korlátozások novemberben Európa-szerte: figyelembe veendő dátumok és útvonalak – Trans.INFO"
-    },
-    {
-      "id": "f8314cacfb90c65620a71936",
-      "title": "Toll increases are 'tone deaf' amid pressure on haulage industry, IRHA warns - Irish Examiner",
-      "summary": "Toll increases are 'tone deaf' amid pressure on haulage industry, IRHA warns Irish Examiner",
-      "country": "Írország",
-      "category": "Útdíj",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yZkFEVEh6V2JQaVlXUWpxUGtuQWMxQllfNnNlYkVmcGVWUHFRMGp4ZEtMcU0zQzgxbEF6NjlGTnZ6RlF0OTZ0M2ZGbUZMeFdIVi12VDg4VG5Yei13VTVGbUpsMA?oc=5",
-      "published": "2026-10-30T07:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Az IRHA figyelmeztet: az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette – Irish Examiner",
-      "summary_hu": "Az IRHA figyelmeztet az Irish Examinert, hogy az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette"
     }
   ],
-  "updated_at": "2026-11-28T04:21:53.034627+00:00",
+  "updated_at": "2026-11-28T06:18:30.100578+00:00",
   "sources_ok": 34,
   "sources_total": 34,
   "sources_failed": [],
