@@ -576,9 +576,9 @@
       "id": "f4e414bb5f660c9167cc961a",
       "title": "China and Europe: What will drive the green transition? - IRU | World Road Transport Organisation",
       "summary": "China and Europe: What will drive the green transition? IRU | World Road Transport Organisation",
-      "country": "Spanyolország",
+      "country": "Franciaország",
       "category": "Egyéb",
-      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDljT0txeHUxOTI4LUZaUW5VSXJUdkV6YkhBeG53RkJCSW1uMHZ2Rktrc3RJV2U3bEhEZlpMNUt0V2dRYmtzRnJyOEJVSmdjUEl3SmhURmMzSW5QcFZMdE9YQW43U3phZWJrek1lRlp5WW03X3pwTm5QLUJfajlUSUVzS2RJb2o4a3h3U3RNVVUxV3lkTm9BUw?oc=5",
       "published": "2026-11-25T08:03:37+00:00",
       "urgent": false,
@@ -1183,7 +1183,7 @@
       "summary": "DFDS cancels Friday Rosslare–Dunkirk sailing as bad weather disrupts freight schedule HGV Ireland",
       "country": "Írország",
       "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Franciaország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOC15V3ZLX2lhdW90N3dMNHFrSlpPYVFXaUEtdXpjT012OWxSVjJYRlJFY2Y2TUhLY3JkbzJRNE1vUzVqNEVWaUdJNEYxMnV6eU5BeVZBTGJoN2VBamRCd0VET3V0S3dDWEM3UXBuQUsxazl6Y2xIR1pFYVZ2YTRIczRWQzJGbXY3bmIzbEh2ZzRyMkJXdzhHa0R4QTZiWmVVZ3VIZlM0UEIyQU8tZWJLbEdFYw?oc=5",
       "published": "2026-11-20T07:00:26+00:00",
       "urgent": false,
@@ -1405,18 +1405,6 @@
       "summary_hu": "Tizenhat külföldi állampolgár rejtőzött egy élelmiszer-tároló konténereket szállító teherautóban World Border Security Congress"
     },
     {
-      "id": "bd62be025ab00419476364a8",
-      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
-      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
-      "country": "Portugália",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
-      "published": "2026-11-19T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
-    },
-    {
       "id": "c3e2bf738c6eb83c6f5d327d",
       "title": "Bogotá protests raise road freight disruption risks in Colombia - Kuehne+Nagel",
       "summary": "Bogotá protests raise road freight disruption risks in Colombia Kuehne+Nagel",
@@ -1427,6 +1415,18 @@
       "published": "2026-11-19T08:00:00+00:00",
       "urgent": false,
       "title_hu": "A bogotái tüntetések növelik a közúti árufuvarozást érintő fennakadások kockázatát Kolumbiában – Kuehne+Nagel"
+    },
+    {
+      "id": "bd62be025ab00419476364a8",
+      "title": "Portugal: Government aims to reduce diesel, petrol use in transport - Macau Business",
+      "summary": "Portugal: Government aims to reduce diesel, petrol use in transport Macau Business",
+      "country": "Portugália",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Portugália fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGF4OTdVLVpMdEttblBRdENoNlR1YkRlR1RkR1RGay1yb3pSUjk4UWdSVHVZOXZiOUpTU3lKZWFieG85a2x0MXhjNEM2dE5xaWlrcWJLb2hmQUJmR3JFWTZJQm0wVDNjanRUcTl1X2ZQaGlSVFBZUnhXUy0zUlZuRE84SXU0ZDZEdXhfTF9VZ05aOEhEelVJ?oc=5",
+      "published": "2026-11-19T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Portugália: A kormány célja a dízel- és a benzinhasználat csökkentése a közlekedésben – Macau Business"
     },
     {
       "id": "5fd3920b5f7781d464796570",
@@ -1800,18 +1800,6 @@
       "title_hu": "Az IRHA téli vezetési tanácsokat ad a fuvarozóknak – HGV Ireland"
     },
     {
-      "id": "3e95e5059e53ed5fae2f2da9",
-      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
-      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
-      "country": "Írország",
-      "category": "Üzemanyag",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
-    },
-    {
       "id": "4ba31b503a4b48afa09cdec5",
       "title": "Italy considers new truck traffic bans near Bologna - trafficban.com",
       "summary": "Italy considers new truck traffic bans near Bologna trafficban.com",
@@ -1822,6 +1810,18 @@
       "published": "2026-11-17T08:00:00+00:00",
       "urgent": false,
       "title_hu": "Olaszország új tehergépjármű-forgalmi korlátozásokat mérlegel Bologna közelében – trafficban.com"
+    },
+    {
+      "id": "3e95e5059e53ed5fae2f2da9",
+      "title": "Why diesel prices remain high despite falling crude prices - HGV Ireland",
+      "summary": "Why diesel prices remain high despite falling crude prices HGV Ireland",
+      "country": "Írország",
+      "category": "Üzemanyag",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFFPV0Z1RFdEcHdWaHFTaDctYzQ2X2pjUGVoMjg1YVd1R1F2UTJGTkdMVnRQejlSdmFFX3o4VnpqcTRrSHpfQVNwa2xBOE94SnpuTzBjNWVuQTFXOWVBaVkxYTg0bVhnbzVZcnBKblcteGg2ZVRVMzlZcU9wVFR3cEllTVFyVElJYUtsVUpmbw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Miért maradnak magasak a gázolajárak a nyersolajárak csökkenése ellenére? – HGV Ireland"
     },
     {
       "id": "0bb5fcb06215be2c51950b07",
@@ -1972,18 +1972,6 @@
       "title_hu": "Észtország keleti határának lezárása meg fogja szüntetni a busz- és tehergépkocsi-forgalmat Oroszország felé – ERR"
     },
     {
-      "id": "fb16b01cc530ccb65f08172c",
-      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
-      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
-      "country": "Írország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
-    },
-    {
       "id": "8da8c093d2fed5540bbe9186",
       "title": "Germany: truck driving ban exemptions until 20 December - trafficban.com",
       "summary": "Germany: truck driving ban exemptions until 20 December trafficban.com",
@@ -2007,6 +1995,18 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
+    },
+    {
+      "id": "fb16b01cc530ccb65f08172c",
+      "title": "HGV drivers get frost and ice driving advice - HGV Ireland",
+      "summary": "HGV drivers get frost and ice driving advice HGV Ireland",
+      "country": "Írország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Írország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LTk5YbDN0N21SWVVFTXBrdVpRV0NaNWJwX0ZKTEFtaTRaa00ydmN4RWVrNTRwSDZCTndxWWlZUVYxVmRaR0Y1Nk5rNWdjTlRFbUNxb2lDVm41QTFGVXJTVEJtNzZlc2xCN3dMUHFCN05ncDJEdVEtM2NINEg?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Tehergépjármű-vezetőknek szóló tanácsok a fagyban és jégen való vezetéshez – HGV Ireland"
     },
     {
       "id": "299793c998ab7e2086ee59ea",
@@ -3727,11 +3727,9 @@
       "summary_hu": "Egy zimbabwei kamionsofőrt kiutasítanak Lengyelországból, mert illegálisan taxizott a hétvégén NewZimbabwe.com"
     }
   ],
-  "updated_at": "2026-11-28T15:06:20.795285+00:00",
-  "sources_ok": 33,
+  "updated_at": "2026-11-28T16:07:07.899875+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Bosznia-Hercegovina fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
