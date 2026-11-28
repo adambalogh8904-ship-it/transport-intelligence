@@ -44,7 +44,7 @@
       "summary": "Another Zimbabwean Truck Driver Dies In Austria After Germany Crash SA Trucker",
       "country": "EU",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Ausztria fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1lpczdNY1BOdWZWQUswSUluU2Y5U2pFRWZzVTk5QUpVS2ZJUUhFYlQ5Snp0V3E4TDBCVTQ5TjBzcmFnSlBXQ3owZTJNMW5xSGdDT19FZG52QUUxNXhIbEc2dHJmNTdyUFVHUjhSSFpJSTBwNGtMSmNiclhROEwzWUh2UHNvTEHSAYcBQVVfeXFMUGNZaXM3TWNQTnVmVkFLMElJblNmOVNqRUVmc1U5OUFKVUtmSVFIRWJUOUp6dFdxOEwwQlU0OU4wc3JhZ0pQV0N6MGUyTTFucUhnQ09fRWRudkFFMTV4SGxHNnRyZjU3clBVR1I4UkhaSUkwcDRrTEpjYnJYUThMM1lIdlBzb0xB?oc=5",
       "published": "2026-11-27T14:03:18+00:00",
       "urgent": false,
@@ -513,9 +513,9 @@
       "id": "f4e414bb5f660c9167cc961a",
       "title": "China and Europe: What will drive the green transition? - IRU | World Road Transport Organisation",
       "summary": "China and Europe: What will drive the green transition? IRU | World Road Transport Organisation",
-      "country": "Németország",
+      "country": "Spanyolország",
       "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Spanyolország fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDljT0txeHUxOTI4LUZaUW5VSXJUdkV6YkhBeG53RkJCSW1uMHZ2Rktrc3RJV2U3bEhEZlpMNUt0V2dRYmtzRnJyOEJVSmdjUEl3SmhURmMzSW5QcFZMdE9YQW43U3phZWJrek1lRlp5WW03X3pwTm5QLUJfajlUSUVzS2RJb2o4a3h3U3RNVVUxV3lkTm9BUw?oc=5",
       "published": "2026-11-25T08:03:37+00:00",
       "urgent": false,
@@ -723,7 +723,7 @@
       "summary": "Border police discovered 4,019 counterfeit perfumes in a Bulgarian truck Informat.ro",
       "country": "Bulgária",
       "category": "Határ",
-      "source": "Google News RSS – Magyarország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "source": "Google News RSS – Hollandia fuvarozás (RSS-találat, nem ellenőrzött)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmpOLWVGT2JRTm5GZEt6WlBZYkNwNUMxbDE4VzVWQmR4S3pIWno4TDBOVlZZaUNjWkhDejA4UmlpQ3IxWjhDS0lHcEttUm9Zd0ZNSmxFYkhfenk2S2xWZ2U0ekFJc2s1Y2lGOHNzcmV3ZnZlU3ZOSm91ZFE2REVCcU03dTZlUzVfQzg1c25qaHFlZE9wUmR4VDlqTFF0WWNRamlnN3R3?oc=5",
       "published": "2026-11-23T14:31:02+00:00",
       "urgent": false,
@@ -1933,18 +1933,6 @@
       "title_hu": "Németország: A tehergépjárművek közlekedési tilalma alóli mentességek december 20-ig – trafficban.com"
     },
     {
-      "id": "299793c998ab7e2086ee59ea",
-      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
-      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
-      "country": "Németország",
-      "category": "Egyéb",
-      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
-      "published": "2026-11-16T08:00:00+00:00",
-      "urgent": false,
-      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
-    },
-    {
       "id": "85f12bc412b3fc3f85e3a0c1",
       "title": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor - Economist.kg",
       "summary": "Kyrgyzstan discusses digitising customs to speed up freight on the Middle Corridor Economist.kg",
@@ -1956,6 +1944,18 @@
       "urgent": false,
       "title_hu": "Kirgizisztán megviti a vámügyek digitalizálását a Közép-folyosón történő áruszállítás felgyorsítása érdekében – Economist.kg",
       "summary_hu": "Kirgizisztán megvitatja a vámügyek digitalizálását a teherforgalom felgyorsítása érdekében a Középső Folyosón Economist.kg"
+    },
+    {
+      "id": "299793c998ab7e2086ee59ea",
+      "title": "More than 50 companies call for stronger EU action on truck electrification - Reuters",
+      "summary": "More than 50 companies call for stronger EU action on truck electrification Reuters",
+      "country": "Németország",
+      "category": "Egyéb",
+      "source": "Google News RSS – Németország fuvarozás (RSS-találat, nem ellenőrzött)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c2Z3dTcGt4TDVfTjZWR2VQRGEyeXBGdlE0NXhDSUVmUVAzUFZqbHhuWkttSFI5MkUtbmdxR3Q4d1dOb2N2SFdIcjZqc293RGVrSTNtRUVWcmdaOXZrdFhPcUFWVUlxY0VyTFh1MklvM2Uyb205c0NVZnlDVnd4Qm1WTXVQWXo2TTZpREdCQXkwQVFLY2lQRE9DWEFmcERGcUlWTFB0UkFidHpGSzBXR0ZvcXNSd1R1VWNNMUxpalpzejdOSU9OZQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "urgent": false,
+      "title_hu": "Több mint 50 vállalat szólít fel az EU határozottabb fellépésére a tehergépjárművek villamosításával kapcsolatban – Reuters"
     },
     {
       "id": "d1e0e083393273a9fed72a5e",
@@ -3728,13 +3728,9 @@
       "summary_hu": "Az IRHA figyelmeztet az Irish Examinert, hogy az útdíjak emelése „érzéketlen” a fuvarozási ágazatra nehezedő nyomás közepette"
     }
   ],
-  "updated_at": "2026-11-28T00:06:17.699349+00:00",
-  "sources_ok": 31,
+  "updated_at": "2026-11-28T01:40:52.160557+00:00",
+  "sources_ok": 34,
   "sources_total": 34,
-  "sources_failed": [
-    "Google News RSS – Lengyelország fuvarozás",
-    "Google News RSS – Spanyolország fuvarozás",
-    "Google News RSS – Svédország fuvarozás"
-  ],
+  "sources_failed": [],
   "translation_note": "Gépi fordítás; nem ellenőrzött RSS-találatok."
 }
